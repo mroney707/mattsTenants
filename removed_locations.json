@@ -1,0 +1,13 @@
+{
+  "date": "2025-04-18",
+  "locations": {
+    "arbys": [
+      {
+        "street": "123 Matt Hausman Dr",
+        "city": "Bartow",
+        "state": "FL",
+        "postal_code": "33830"
+      }
+    ]
+  }
+}

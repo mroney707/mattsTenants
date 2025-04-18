@@ -1,0 +1,8472 @@
+{
+  "wendys": [
+    {
+      "street": "2124 Us Highway 92 W",
+      "city": "Auburndale",
+      "state": "FL",
+      "postal_code": "33823"
+    },
+    {
+      "street": "155 E. Main Street",
+      "city": "Apopka",
+      "state": "FL",
+      "postal_code": "32703"
+    },
+    {
+      "street": "1650 W Orange Blossom Trail",
+      "city": "Apopka",
+      "state": "FL",
+      "postal_code": "32712"
+    },
+    {
+      "street": "601 Executive Park Court",
+      "city": "Apopka",
+      "state": "FL",
+      "postal_code": "32703"
+    },
+    {
+      "street": "865 N Federal Hwy",
+      "city": "Boca Raton",
+      "state": "FL",
+      "postal_code": "33432"
+    },
+    {
+      "street": "9192-A Glades Road",
+      "city": "Boca Raton",
+      "state": "FL",
+      "postal_code": "33434"
+    },
+    {
+      "street": "411 Hwy. 27 South",
+      "city": "Avon Park",
+      "state": "FL",
+      "postal_code": "33825"
+    },
+    {
+      "street": "16070 Northwest Us Highway 441",
+      "city": "Alachua",
+      "state": "FL",
+      "postal_code": "32615"
+    },
+    {
+      "street": "1025 S Main",
+      "city": "Belle Glade",
+      "state": "FL",
+      "postal_code": "33430"
+    },
+    {
+      "street": "2719 Se Highway 70",
+      "city": "Arcadia",
+      "state": "FL",
+      "postal_code": "34266"
+    },
+    {
+      "street": "10410 Se Us Highway 441",
+      "city": "Belleview",
+      "state": "FL",
+      "postal_code": "34420"
+    },
+    {
+      "street": "516 E. Altamonte",
+      "city": "Altamonte Springs",
+      "state": "FL",
+      "postal_code": "32701"
+    },
+    {
+      "street": "1520 North Broadway Avenue",
+      "city": "Bartow",
+      "state": "FL",
+      "postal_code": "33830"
+    },
+    {
+      "street": "28090 Quails Nest Lane",
+      "city": "Bonita Springs",
+      "state": "FL",
+      "postal_code": "34135"
+    },
+    {
+      "street": "28140 S Tamiami Trail",
+      "city": "Bonita Springs",
+      "state": "FL",
+      "postal_code": "34134"
+    },
+    {
+      "street": "2 New Market St",
+      "city": "Cantonment",
+      "state": "FL",
+      "postal_code": "32533"
+    },
+    {
+      "street": "2200 Highway 29 South",
+      "city": "Cantonment",
+      "state": "FL",
+      "postal_code": "32533"
+    },
+    {
+      "street": "1100 S Broad St",
+      "city": "Brooksville",
+      "state": "FL",
+      "postal_code": "34601"
+    },
+    {
+      "street": "12929 Cortez Blvd.",
+      "city": "Brooksville",
+      "state": "FL",
+      "postal_code": "34613"
+    },
+    {
+      "street": "31044 Cortez Blvd",
+      "city": "Brooksville",
+      "state": "FL",
+      "postal_code": "34602"
+    },
+    {
+      "street": "11727 Sr 70 E",
+      "city": "Bradenton",
+      "state": "FL",
+      "postal_code": "34202"
+    },
+    {
+      "street": "4201 53rd Avenue E",
+      "city": "Bradenton",
+      "state": "FL",
+      "postal_code": "34203"
+    },
+    {
+      "street": "5100 Cortez Rd W.",
+      "city": "Bradenton",
+      "state": "FL",
+      "postal_code": "34210"
+    },
+    {
+      "street": "5411 14th Street",
+      "city": "Bradenton",
+      "state": "FL",
+      "postal_code": "34207"
+    },
+    {
+      "street": "5420 Manatee Avenue",
+      "city": "Bradenton",
+      "state": "FL",
+      "postal_code": "34209"
+    },
+    {
+      "street": "6600 E State Road 64",
+      "city": "Bradenton",
+      "state": "FL",
+      "postal_code": "34208"
+    },
+    {
+      "street": "600 East Woolbright Road",
+      "city": "Boynton Beach",
+      "state": "FL",
+      "postal_code": "33435"
+    },
+    {
+      "street": "701 W Boynton Beach",
+      "city": "Boynton Beach",
+      "state": "FL",
+      "postal_code": "33426"
+    },
+    {
+      "street": "7400 Boynton Beach Blvd.",
+      "city": "Boynton Beach",
+      "state": "FL",
+      "postal_code": "33437"
+    },
+    {
+      "street": "2570 Commerce Parkway",
+      "city": "Bunnell",
+      "state": "FL",
+      "postal_code": "32110"
+    },
+    {
+      "street": "109 S. Tyndall Parkway",
+      "city": "Callaway",
+      "state": "FL",
+      "postal_code": "32404"
+    },
+    {
+      "street": "8440 Astronaut Blvd",
+      "city": "Cape Canaveral",
+      "state": "FL",
+      "postal_code": "32920"
+    },
+    {
+      "street": "308 W. Brandon Blvd.",
+      "city": "Brandon",
+      "state": "FL",
+      "postal_code": "33511"
+    },
+    {
+      "street": "2159 W C-48",
+      "city": "Bushnell",
+      "state": "FL",
+      "postal_code": "33513"
+    },
+    {
+      "street": "1427 Cape Coral Parkway",
+      "city": "Cape Coral",
+      "state": "FL",
+      "postal_code": "33904"
+    },
+    {
+      "street": "1601 Del Prado Blvd S",
+      "city": "Cape Coral",
+      "state": "FL",
+      "postal_code": "33990"
+    },
+    {
+      "street": "2523 Skyline Blvd.",
+      "city": "Cape Coral",
+      "state": "FL",
+      "postal_code": "33914"
+    },
+    {
+      "street": "41 Hancock Bridge Parkway West",
+      "city": "Cape Coral",
+      "state": "FL",
+      "postal_code": "33991"
+    },
+    {
+      "street": "386 Hwy 436 E.",
+      "city": "Casselberry",
+      "state": "FL",
+      "postal_code": "32707"
+    },
+    {
+      "street": "2290 Gulf To Bay",
+      "city": "Clearwater",
+      "state": "FL",
+      "postal_code": "33765"
+    },
+    {
+      "street": "23072 Us Hwy 19 N.",
+      "city": "Clearwater",
+      "state": "FL",
+      "postal_code": "33765"
+    },
+    {
+      "street": "4960 E. Bay Drive",
+      "city": "Clearwater",
+      "state": "FL",
+      "postal_code": "33764"
+    },
+    {
+      "street": "900 S. Missouri Ave",
+      "city": "Clearwater",
+      "state": "FL",
+      "postal_code": "33756"
+    },
+    {
+      "street": "1409 Sun Rise Plaza Drive",
+      "city": "Clermont",
+      "state": "FL",
+      "postal_code": "34714"
+    },
+    {
+      "street": "17012 East State Rd. 50",
+      "city": "Clermont",
+      "state": "FL",
+      "postal_code": "34711"
+    },
+    {
+      "street": "850 E. Hwy 50",
+      "city": "Clermont",
+      "state": "FL",
+      "postal_code": "34711"
+    },
+    {
+      "street": "1715 Main Street",
+      "city": "Chipley",
+      "state": "FL",
+      "postal_code": "32428"
+    },
+    {
+      "street": "800 West Sugarland Highway",
+      "city": "Clewiston",
+      "state": "FL",
+      "postal_code": "33440"
+    },
+    {
+      "street": "6630 North State Road 7",
+      "city": "Coconut Creek",
+      "state": "FL",
+      "postal_code": "33073"
+    },
+    {
+      "street": "10265 Sterling Rd",
+      "city": "Cooper City",
+      "state": "FL",
+      "postal_code": "33328"
+    },
+    {
+      "street": "10050 W Sample Road",
+      "city": "Coral Springs",
+      "state": "FL",
+      "postal_code": "33065"
+    },
+    {
+      "street": "1475 N University Dr.",
+      "city": "Coral Springs",
+      "state": "FL",
+      "postal_code": "33071"
+    },
+    {
+      "street": "4676 N University Drive",
+      "city": "Coral Springs",
+      "state": "FL",
+      "postal_code": "33067"
+    },
+    {
+      "street": "6375 W Sample Rd",
+      "city": "Coral Springs",
+      "state": "FL",
+      "postal_code": "33067"
+    },
+    {
+      "street": "1101 Friday Rd",
+      "city": "Cocoa",
+      "state": "FL",
+      "postal_code": "32926"
+    },
+    {
+      "street": "775 North Summit Street",
+      "city": "Crescent City",
+      "state": "FL",
+      "postal_code": "32112"
+    },
+    {
+      "street": "1355 N Ferdon Blvd",
+      "city": "Crestview",
+      "state": "FL",
+      "postal_code": "32536"
+    },
+    {
+      "street": "3705 S. Ferdon Blvd",
+      "city": "Crestview",
+      "state": "FL",
+      "postal_code": "32536"
+    },
+    {
+      "street": "1575 Berwick Dr",
+      "city": "Davenport",
+      "state": "FL",
+      "postal_code": "33896"
+    },
+    {
+      "street": "44304 Highway 27",
+      "city": "Davenport",
+      "state": "FL",
+      "postal_code": "33897"
+    },
+    {
+      "street": "49503 Hwy 27, Parcel C",
+      "city": "Davenport",
+      "state": "FL",
+      "postal_code": "33897"
+    },
+    {
+      "street": "2660 Davie Road",
+      "city": "Davie",
+      "state": "FL",
+      "postal_code": "33314"
+    },
+    {
+      "street": "3055 S. University Drive",
+      "city": "Davie",
+      "state": "FL",
+      "postal_code": "33328"
+    },
+    {
+      "street": "144 S.E. Hwy 19",
+      "city": "Crystal River",
+      "state": "FL",
+      "postal_code": "34429"
+    },
+    {
+      "street": "1444 International Speedway Bl",
+      "city": "Daytona Beach",
+      "state": "FL",
+      "postal_code": "32114"
+    },
+    {
+      "street": "2120 Lpga Blvd",
+      "city": "Daytona Beach",
+      "state": "FL",
+      "postal_code": "32117"
+    },
+    {
+      "street": "2790 Us Highway 331 South",
+      "city": "De Funiak Springs",
+      "state": "FL",
+      "postal_code": "32435"
+    },
+    {
+      "street": "1802 Main Street",
+      "city": "Dunedin",
+      "state": "FL",
+      "postal_code": "34698"
+    },
+    {
+      "street": "2110 Saxon Blvd",
+      "city": "Deltona",
+      "state": "FL",
+      "postal_code": "32725"
+    },
+    {
+      "street": "2167 Howland Blvd",
+      "city": "Deltona",
+      "state": "FL",
+      "postal_code": "32738"
+    },
+    {
+      "street": "1203 South Woodland Blvd",
+      "city": "Deland",
+      "state": "FL",
+      "postal_code": "32720"
+    },
+    {
+      "street": "1490 North Woodland Blvd",
+      "city": "Deland",
+      "state": "FL",
+      "postal_code": "32720"
+    },
+    {
+      "street": "34717 Emerald Coast Parkway",
+      "city": "Destin",
+      "state": "FL",
+      "postal_code": "32541"
+    },
+    {
+      "street": "260 Linton Blvd",
+      "city": "Delray Beach",
+      "state": "FL",
+      "postal_code": "33444"
+    },
+    {
+      "street": "355 W. Hillsboro Blvd.",
+      "city": "Deerfield Beach",
+      "state": "FL",
+      "postal_code": "33441"
+    },
+    {
+      "street": "2817 S. Bay St",
+      "city": "Eustis",
+      "state": "FL",
+      "postal_code": "32726"
+    },
+    {
+      "street": "8661 Commons Way",
+      "city": "Estero",
+      "state": "FL",
+      "postal_code": "33928"
+    },
+    {
+      "street": "11191 N. Williams St",
+      "city": "Dunnellon",
+      "state": "FL",
+      "postal_code": "34432"
+    },
+    {
+      "street": "5904 20th St East",
+      "city": "Ellenton",
+      "state": "FL",
+      "postal_code": "34222"
+    },
+    {
+      "street": "1841 N. 4th Street",
+      "city": "Fort Pierce",
+      "state": "FL",
+      "postal_code": "34946"
+    },
+    {
+      "street": "2309 S Us Highway 1",
+      "city": "Fort Pierce",
+      "state": "FL",
+      "postal_code": "34982"
+    },
+    {
+      "street": "4900 S. Federal Highway",
+      "city": "Fort Pierce",
+      "state": "FL",
+      "postal_code": "34982"
+    },
+    {
+      "street": "7085 Okeechobee Rd",
+      "city": "Fort Pierce",
+      "state": "FL",
+      "postal_code": "34945"
+    },
+    {
+      "street": "340 Se 1st Avenue",
+      "city": "Florida City",
+      "state": "FL",
+      "postal_code": "33034"
+    },
+    {
+      "street": "1049 W Oakland Park",
+      "city": "Fort Lauderdale",
+      "state": "FL",
+      "postal_code": "33311"
+    },
+    {
+      "street": "1631 East Sunrise Boulevard",
+      "city": "Fort Lauderdale",
+      "state": "FL",
+      "postal_code": "33304"
+    },
+    {
+      "street": "1899 Nw 40th Ave",
+      "city": "Fort Lauderdale",
+      "state": "FL",
+      "postal_code": "33313"
+    },
+    {
+      "street": "2071 Griffin Road",
+      "city": "Fort Lauderdale",
+      "state": "FL",
+      "postal_code": "33312"
+    },
+    {
+      "street": "2801 Davie Blvd",
+      "city": "Fort Lauderdale",
+      "state": "FL",
+      "postal_code": "33312"
+    },
+    {
+      "street": "3300 W Commercial Blvd",
+      "city": "Fort Lauderdale",
+      "state": "FL",
+      "postal_code": "33309"
+    },
+    {
+      "street": "3801 West Broward Blvd.",
+      "city": "Fort Lauderdale",
+      "state": "FL",
+      "postal_code": "33312"
+    },
+    {
+      "street": "5900 W Oakland Park",
+      "city": "Fort Lauderdale",
+      "state": "FL",
+      "postal_code": "33313"
+    },
+    {
+      "street": "930 Nw 62nd Street",
+      "city": "Fort Lauderdale",
+      "state": "FL",
+      "postal_code": "33309"
+    },
+    {
+      "street": "943 W State Road 84",
+      "city": "Fort Lauderdale",
+      "state": "FL",
+      "postal_code": "33315"
+    },
+    {
+      "street": "12034 S Cleveland Avenue",
+      "city": "Fort Myers",
+      "state": "FL",
+      "postal_code": "33907"
+    },
+    {
+      "street": "14491 Palm Beach Blvd",
+      "city": "Fort Myers",
+      "state": "FL",
+      "postal_code": "33905"
+    },
+    {
+      "street": "14890 Six Mile Cypress Parkway",
+      "city": "Fort Myers",
+      "state": "FL",
+      "postal_code": "33912"
+    },
+    {
+      "street": "15300 Mcgregor Boulevard",
+      "city": "Fort Myers",
+      "state": "FL",
+      "postal_code": "33908"
+    },
+    {
+      "street": "17308 Park 78 Drive",
+      "city": "Fort Myers",
+      "state": "FL",
+      "postal_code": "33917"
+    },
+    {
+      "street": "3783 Cleveland Avenue",
+      "city": "Fort Myers",
+      "state": "FL",
+      "postal_code": "33901"
+    },
+    {
+      "street": "7977 Dani Drive, Suite 100",
+      "city": "Fort Myers",
+      "state": "FL",
+      "postal_code": "33966"
+    },
+    {
+      "street": "9301 Daniels Parkway",
+      "city": "Fort Myers",
+      "state": "FL",
+      "postal_code": "33912"
+    },
+    {
+      "street": "145 Eglin Pkwy N.E.",
+      "city": "Fort Walton Beach",
+      "state": "FL",
+      "postal_code": "32548"
+    },
+    {
+      "street": "299 Racetrack Road Nw",
+      "city": "Fort Walton Beach",
+      "state": "FL",
+      "postal_code": "32547"
+    },
+    {
+      "street": "4600 S. State Road 7",
+      "city": "Ft.Lauderdale",
+      "state": "FL",
+      "postal_code": "33314"
+    },
+    {
+      "street": "20 Daniel St",
+      "city": "Gulf Breeze",
+      "state": "FL",
+      "postal_code": "32561"
+    },
+    {
+      "street": "3191 Gulf Breeze Pkwy",
+      "city": "Gulf Breeze",
+      "state": "FL",
+      "postal_code": "32563"
+    },
+    {
+      "street": "3266 Highway 17",
+      "city": "Green Cove Springs",
+      "state": "FL",
+      "postal_code": "32043"
+    },
+    {
+      "street": "1600 Sw Archer Rd",
+      "city": "Gainesville",
+      "state": "FL",
+      "postal_code": "32610"
+    },
+    {
+      "street": "1711 N.Main Street",
+      "city": "Gainesville",
+      "state": "FL",
+      "postal_code": "32609"
+    },
+    {
+      "street": "2659 Nw 13th St",
+      "city": "Gainesville",
+      "state": "FL",
+      "postal_code": "32609"
+    },
+    {
+      "street": "3611 Sw Archer Rd",
+      "city": "Gainesville",
+      "state": "FL",
+      "postal_code": "32608"
+    },
+    {
+      "street": "655 Reitz Union Drive",
+      "city": "Gainesville",
+      "state": "FL",
+      "postal_code": "32611"
+    },
+    {
+      "street": "6700 Newberry Rd",
+      "city": "Gainesville",
+      "state": "FL",
+      "postal_code": "32605"
+    },
+    {
+      "street": "9225 Nw 39th Ave",
+      "city": "Gainesville",
+      "state": "FL",
+      "postal_code": "32606"
+    },
+    {
+      "street": "7753 State Road 50",
+      "city": "Groveland",
+      "state": "FL",
+      "postal_code": "34736"
+    },
+    {
+      "street": "6870 Forest Hill Blvd",
+      "city": "Greenacres",
+      "state": "FL",
+      "postal_code": "33413"
+    },
+    {
+      "street": "1091 W. Hallandale Beach Blvd.",
+      "city": "Hallandale Beach",
+      "state": "FL",
+      "postal_code": "33009"
+    },
+    {
+      "street": "16601 Nw 57th Ave",
+      "city": "Hialeah",
+      "state": "FL",
+      "postal_code": "33014"
+    },
+    {
+      "street": "1730 West 49th St.",
+      "city": "Hialeah",
+      "state": "FL",
+      "postal_code": "33012"
+    },
+    {
+      "street": "2390 W 68th St",
+      "city": "Hialeah",
+      "state": "FL",
+      "postal_code": "33016"
+    },
+    {
+      "street": "365 W. 78th Rd.",
+      "city": "Hialeah",
+      "state": "FL",
+      "postal_code": "33014"
+    },
+    {
+      "street": "46 East 49th Street",
+      "city": "Hialeah",
+      "state": "FL",
+      "postal_code": "33013"
+    },
+    {
+      "street": "555 Hialeah Drive",
+      "city": "Hialeah",
+      "state": "FL",
+      "postal_code": "33010"
+    },
+    {
+      "street": "8100 W Hialeah Gardens Blvd",
+      "city": "Hialeah",
+      "state": "FL",
+      "postal_code": "33018"
+    },
+    {
+      "street": "35645 Us 27",
+      "city": "Haines City",
+      "state": "FL",
+      "postal_code": "33844"
+    },
+    {
+      "street": "40231 Hwy 27",
+      "city": "Haines City",
+      "state": "FL",
+      "postal_code": "33837"
+    },
+    {
+      "street": "541482 Us Hwy 1",
+      "city": "Hilliard",
+      "state": "FL",
+      "postal_code": "32046"
+    },
+    {
+      "street": "3350 Oakwood Blvd.",
+      "city": "Hollywood",
+      "state": "FL",
+      "postal_code": "33020"
+    },
+    {
+      "street": "3535 Hollywood Blvd",
+      "city": "Hollywood",
+      "state": "FL",
+      "postal_code": "33021"
+    },
+    {
+      "street": "460 South State Road 7",
+      "city": "Hollywood",
+      "state": "FL",
+      "postal_code": "33023"
+    },
+    {
+      "street": "11640 Se Federal Highway",
+      "city": "Hobe Sound",
+      "state": "FL",
+      "postal_code": "33455"
+    },
+    {
+      "street": "12011 U.S. Hwy 19 N.",
+      "city": "Hudson",
+      "state": "FL",
+      "postal_code": "34667"
+    },
+    {
+      "street": "13724 Little Road",
+      "city": "Hudson",
+      "state": "FL",
+      "postal_code": "34667"
+    },
+    {
+      "street": "13485 Sw 288 St",
+      "city": "Homestead",
+      "state": "FL",
+      "postal_code": "33033"
+    },
+    {
+      "street": "3003 Ne 8th Street",
+      "city": "Homestead",
+      "state": "FL",
+      "postal_code": "33033"
+    },
+    {
+      "street": "30130 S. Dixie Hwy.",
+      "city": "Homestead",
+      "state": "FL",
+      "postal_code": "33033"
+    },
+    {
+      "street": "4223 Suncoast Blvd",
+      "city": "Homosassa",
+      "state": "FL",
+      "postal_code": "34446"
+    },
+    {
+      "street": "7230 W Miss Maggie Drive",
+      "city": "Homosassa",
+      "state": "FL",
+      "postal_code": "34448"
+    },
+    {
+      "street": "1101 North 15th Street",
+      "city": "Immokalee",
+      "state": "FL",
+      "postal_code": "34142"
+    },
+    {
+      "street": "6723 Us Hwy 129 South",
+      "city": "Jasper",
+      "state": "FL",
+      "postal_code": "32052"
+    },
+    {
+      "street": "82201 Overseas Hwy",
+      "city": "Islamorada",
+      "state": "FL",
+      "postal_code": "33036"
+    },
+    {
+      "street": "3336 North Roosevelt Blvd",
+      "city": "Key West",
+      "state": "FL",
+      "postal_code": "33040"
+    },
+    {
+      "street": "335a Duval Street",
+      "city": "Key West",
+      "state": "FL",
+      "postal_code": "33040"
+    },
+    {
+      "street": "10101 New Berlin Road",
+      "city": "Jacksonville",
+      "state": "FL",
+      "postal_code": "32226"
+    },
+    {
+      "street": "10911 Baymeadows Road",
+      "city": "Jacksonville",
+      "state": "FL",
+      "postal_code": "32256"
+    },
+    {
+      "street": "11295 Crystal Springs Road",
+      "city": "Jacksonville",
+      "state": "FL",
+      "postal_code": "32221"
+    },
+    {
+      "street": "1175 Dunn Ave",
+      "city": "Jacksonville",
+      "state": "FL",
+      "postal_code": "32218"
+    },
+    {
+      "street": "12135 Lem Turner Rd",
+      "city": "Jacksonville",
+      "state": "FL",
+      "postal_code": "32218"
+    },
+    {
+      "street": "12524 San Jose Blvd",
+      "city": "Jacksonville",
+      "state": "FL",
+      "postal_code": "32223"
+    },
+    {
+      "street": "13928 Bartram Run Drive",
+      "city": "Jacksonville",
+      "state": "FL",
+      "postal_code": "32258"
+    },
+    {
+      "street": "140 Bartram Market Dr",
+      "city": "Jacksonville",
+      "state": "FL",
+      "postal_code": "32259"
+    },
+    {
+      "street": "14447 Beach Boulevard",
+      "city": "Jacksonville",
+      "state": "FL",
+      "postal_code": "32250"
+    },
+    {
+      "street": "15236 Max Leggett Parkway",
+      "city": "Jacksonville",
+      "state": "FL",
+      "postal_code": "32218"
+    },
+    {
+      "street": "1616 University Blvd. South",
+      "city": "Jacksonville",
+      "state": "FL",
+      "postal_code": "32216"
+    },
+    {
+      "street": "2001 Hamilton Street",
+      "city": "Jacksonville",
+      "state": "FL",
+      "postal_code": "32210"
+    },
+    {
+      "street": "2006 Park Street",
+      "city": "Jacksonville",
+      "state": "FL",
+      "postal_code": "32204"
+    },
+    {
+      "street": "2754 Race Track Rd.",
+      "city": "Jacksonville",
+      "state": "FL",
+      "postal_code": "32259"
+    },
+    {
+      "street": "3136 Emerson St",
+      "city": "Jacksonville",
+      "state": "FL",
+      "postal_code": "32207"
+    },
+    {
+      "street": "3624 Firestone Rd",
+      "city": "Jacksonville",
+      "state": "FL",
+      "postal_code": "32210"
+    },
+    {
+      "street": "3910 University Blvd. West",
+      "city": "Jacksonville",
+      "state": "FL",
+      "postal_code": "32217"
+    },
+    {
+      "street": "400 S. 3rd Street",
+      "city": "Jacksonville",
+      "state": "FL",
+      "postal_code": "32250"
+    },
+    {
+      "street": "4160 Losco Road",
+      "city": "Jacksonville",
+      "state": "FL",
+      "postal_code": "32257"
+    },
+    {
+      "street": "4453 Southside Blvd",
+      "city": "Jacksonville",
+      "state": "FL",
+      "postal_code": "32216"
+    },
+    {
+      "street": "4842 Post Street",
+      "city": "Jacksonville",
+      "state": "FL",
+      "postal_code": "32205"
+    },
+    {
+      "street": "5133 Norwood Avenue",
+      "city": "Jacksonville",
+      "state": "FL",
+      "postal_code": "32208"
+    },
+    {
+      "street": "6021 Argyle Forest Blvd.",
+      "city": "Jacksonville",
+      "state": "FL",
+      "postal_code": "32244"
+    },
+    {
+      "street": "6238 103rd Street",
+      "city": "Jacksonville",
+      "state": "FL",
+      "postal_code": "32210"
+    },
+    {
+      "street": "699 Mayport Crossing Blvd.",
+      "city": "Jacksonville",
+      "state": "FL",
+      "postal_code": "32233"
+    },
+    {
+      "street": "7027 Commonwealth Avenue",
+      "city": "Jacksonville",
+      "state": "FL",
+      "postal_code": "32220"
+    },
+    {
+      "street": "7211 Normandy Blvd",
+      "city": "Jacksonville",
+      "state": "FL",
+      "postal_code": "32205"
+    },
+    {
+      "street": "7663 Merrill Road",
+      "city": "Jacksonville",
+      "state": "FL",
+      "postal_code": "32277"
+    },
+    {
+      "street": "8625 Baymeadows Road",
+      "city": "Jacksonville",
+      "state": "FL",
+      "postal_code": "32256"
+    },
+    {
+      "street": "9055 New Kings Road",
+      "city": "Jacksonville",
+      "state": "FL",
+      "postal_code": "32219"
+    },
+    {
+      "street": "9510 Applecross Rd.",
+      "city": "Jacksonville",
+      "state": "FL",
+      "postal_code": "32222"
+    },
+    {
+      "street": "1471 E Osceola Pkwy Unit 101",
+      "city": "Kissimmee",
+      "state": "FL",
+      "postal_code": "34744"
+    },
+    {
+      "street": "1550 S Hoagland Boulevard",
+      "city": "Kissimmee",
+      "state": "FL",
+      "postal_code": "34746"
+    },
+    {
+      "street": "2398 E. Irlo Bronson Memorial Hwy.",
+      "city": "Kissimmee",
+      "state": "FL",
+      "postal_code": "34744"
+    },
+    {
+      "street": "3252 N John Young Pkwy",
+      "city": "Kissimmee",
+      "state": "FL",
+      "postal_code": "34741"
+    },
+    {
+      "street": "3271 Vineland Rd",
+      "city": "Kissimmee",
+      "state": "FL",
+      "postal_code": "34746"
+    },
+    {
+      "street": "4755 W. Irlo Bronson Memorial Hwy",
+      "city": "Kissimmee",
+      "state": "FL",
+      "postal_code": "34746"
+    },
+    {
+      "street": "6141 W. Irlo Bronson Memorial Hwy",
+      "city": "Kissimmee",
+      "state": "FL",
+      "postal_code": "34747"
+    },
+    {
+      "street": "7765 Irlo Bronson Memorial Hwy",
+      "city": "Kissimmee",
+      "state": "FL",
+      "postal_code": "34747"
+    },
+    {
+      "street": "881 Cypress Parkway",
+      "city": "Kissimmee",
+      "state": "FL",
+      "postal_code": "34759"
+    },
+    {
+      "street": "915 W. Vine St.",
+      "city": "Kissimmee",
+      "state": "FL",
+      "postal_code": "34741"
+    },
+    {
+      "street": "2495 E. Gulf To Lake Hwy",
+      "city": "Inverness",
+      "state": "FL",
+      "postal_code": "34453"
+    },
+    {
+      "street": "502 W. Main St.",
+      "city": "Inverness",
+      "state": "FL",
+      "postal_code": "34450"
+    },
+    {
+      "street": "626 Indiantown Road West",
+      "city": "Jupiter",
+      "state": "FL",
+      "postal_code": "33458"
+    },
+    {
+      "street": "210 W. Walker Drive",
+      "city": "Keystone Heights",
+      "state": "FL",
+      "postal_code": "32656"
+    },
+    {
+      "street": "99700 S Overseas Hwy",
+      "city": "Key Largo",
+      "state": "FL",
+      "postal_code": "33037"
+    },
+    {
+      "street": "1011 Bichara Blvd.",
+      "city": "Lady Lake",
+      "state": "FL",
+      "postal_code": "32159"
+    },
+    {
+      "street": "1409 N.E. Jensen Beach Blvd.",
+      "city": "Jensen Beach",
+      "state": "FL",
+      "postal_code": "34957"
+    },
+    {
+      "street": "14170 Highway 441",
+      "city": "Lake City",
+      "state": "FL",
+      "postal_code": "32024"
+    },
+    {
+      "street": "180 Southwest Main Blvd",
+      "city": "Lake City",
+      "state": "FL",
+      "postal_code": "32025"
+    },
+    {
+      "street": "202 Corey Place",
+      "city": "Lake City",
+      "state": "FL",
+      "postal_code": "32024"
+    },
+    {
+      "street": "3081 W. Us Hwy. 90",
+      "city": "Lake City",
+      "state": "FL",
+      "postal_code": "32055"
+    },
+    {
+      "street": "2002 Highway 60 E",
+      "city": "Lake Wales",
+      "state": "FL",
+      "postal_code": "33898"
+    },
+    {
+      "street": "4521 Macey Lane",
+      "city": "Lake Wales",
+      "state": "FL",
+      "postal_code": "33859"
+    },
+    {
+      "street": "2401 10th Ave North",
+      "city": "Lake Worth",
+      "state": "FL",
+      "postal_code": "33461"
+    },
+    {
+      "street": "3887 Jog Road",
+      "city": "Lake Worth",
+      "state": "FL",
+      "postal_code": "33467"
+    },
+    {
+      "street": "4483 South Congress Ave",
+      "city": "Lake Worth",
+      "state": "FL",
+      "postal_code": "33461"
+    },
+    {
+      "street": "6049 South Military Trail",
+      "city": "Lake Worth",
+      "state": "FL",
+      "postal_code": "33463"
+    },
+    {
+      "street": "7050 Jog Road",
+      "city": "Lake Worth",
+      "state": "FL",
+      "postal_code": "33467"
+    },
+    {
+      "street": "9808 Lake Worth Road",
+      "city": "Lake Worth",
+      "state": "FL",
+      "postal_code": "33467"
+    },
+    {
+      "street": "3880 Flagg Lane",
+      "city": "Lake Mary",
+      "state": "FL",
+      "postal_code": "32746"
+    },
+    {
+      "street": "1405 Us 98 South",
+      "city": "Lakeland",
+      "state": "FL",
+      "postal_code": "33801"
+    },
+    {
+      "street": "1910 W Memorial Blvd",
+      "city": "Lakeland",
+      "state": "FL",
+      "postal_code": "33815"
+    },
+    {
+      "street": "2240 Griffin Rd.",
+      "city": "Lakeland",
+      "state": "FL",
+      "postal_code": "33810"
+    },
+    {
+      "street": "280 Lakeland Park Boulevard",
+      "city": "Lakeland",
+      "state": "FL",
+      "postal_code": "33809"
+    },
+    {
+      "street": "3545 Lakeland Highlands Rd",
+      "city": "Lakeland",
+      "state": "FL",
+      "postal_code": "33803"
+    },
+    {
+      "street": "3695 Innovation Drive",
+      "city": "Lakeland",
+      "state": "FL",
+      "postal_code": "33812"
+    },
+    {
+      "street": "3929 S. Florida Ave.",
+      "city": "Lakeland",
+      "state": "FL",
+      "postal_code": "33813"
+    },
+    {
+      "street": "5740 Highway 98 North",
+      "city": "Lakeland",
+      "state": "FL",
+      "postal_code": "33809"
+    },
+    {
+      "street": "2328 Raden Drive",
+      "city": "Land O Lakes",
+      "state": "FL",
+      "postal_code": "34639"
+    },
+    {
+      "street": "502 Us 27 South",
+      "city": "Lake Placid",
+      "state": "FL",
+      "postal_code": "33852"
+    },
+    {
+      "street": "11760 Oakhurst Road",
+      "city": "Largo",
+      "state": "FL",
+      "postal_code": "33774"
+    },
+    {
+      "street": "8770 Ulmerton Road",
+      "city": "Largo",
+      "state": "FL",
+      "postal_code": "33771"
+    },
+    {
+      "street": "1411 Hypoluxo Road",
+      "city": "Lantana",
+      "state": "FL",
+      "postal_code": "33462"
+    },
+    {
+      "street": "10401 Us Highway 441",
+      "city": "Leesburg",
+      "state": "FL",
+      "postal_code": "34788"
+    },
+    {
+      "street": "27461 Us Hwy 27",
+      "city": "Leesburg",
+      "state": "FL",
+      "postal_code": "34748"
+    },
+    {
+      "street": "917 N. 14th St",
+      "city": "Leesburg",
+      "state": "FL",
+      "postal_code": "34748"
+    },
+    {
+      "street": "2900 W. Norvell Bryant Hwy",
+      "city": "Lecanto",
+      "state": "FL",
+      "postal_code": "34461"
+    },
+    {
+      "street": "6691 Us Hwy. 129",
+      "city": "Live Oak",
+      "state": "FL",
+      "postal_code": "32060"
+    },
+    {
+      "street": "2501 Lee Boulevard",
+      "city": "Lehigh Acres",
+      "state": "FL",
+      "postal_code": "33971"
+    },
+    {
+      "street": "2200 West St Road 434",
+      "city": "Longwood",
+      "state": "FL",
+      "postal_code": "32779"
+    },
+    {
+      "street": "500 S Us Hwy 17/92",
+      "city": "Longwood",
+      "state": "FL",
+      "postal_code": "32750"
+    },
+    {
+      "street": "12011 Southern Blvd.",
+      "city": "Loxahatchee",
+      "state": "FL",
+      "postal_code": "33470"
+    },
+    {
+      "street": "15753 Southern Boulevard",
+      "city": "Loxahatchee",
+      "state": "FL",
+      "postal_code": "33470"
+    },
+    {
+      "street": "2604 S Highway 77",
+      "city": "Lynn Haven",
+      "state": "FL",
+      "postal_code": "32444"
+    },
+    {
+      "street": "17951 North Dale Mabry Highway",
+      "city": "Lutz",
+      "state": "FL",
+      "postal_code": "33548"
+    },
+    {
+      "street": "2300 Grand Cypress Dr",
+      "city": "Lutz",
+      "state": "FL",
+      "postal_code": "33559"
+    },
+    {
+      "street": "25600 Sierra Center Blvd",
+      "city": "Lutz",
+      "state": "FL",
+      "postal_code": "33559"
+    },
+    {
+      "street": "6390 S State Road 53",
+      "city": "Madison",
+      "state": "FL",
+      "postal_code": "32340"
+    },
+    {
+      "street": "499 N State Road 7",
+      "city": "Margate",
+      "state": "FL",
+      "postal_code": "33063"
+    },
+    {
+      "street": "1511 S 6th St",
+      "city": "Macclenny",
+      "state": "FL",
+      "postal_code": "32063"
+    },
+    {
+      "street": "2200 Highway 71",
+      "city": "Marianna",
+      "state": "FL",
+      "postal_code": "32448"
+    },
+    {
+      "street": "4256 Lafayette St",
+      "city": "Marianna",
+      "state": "FL",
+      "postal_code": "32446"
+    },
+    {
+      "street": "5150 Overseas Highway",
+      "city": "Marathon",
+      "state": "FL",
+      "postal_code": "33050"
+    },
+    {
+      "street": "441 Mary Esther Blvd",
+      "city": "Mary Esther",
+      "state": "FL",
+      "postal_code": "32569"
+    },
+    {
+      "street": "7401 Nw 73rd Street",
+      "city": "Medley",
+      "state": "FL",
+      "postal_code": "33166"
+    },
+    {
+      "street": "4150 North Wickham Road",
+      "city": "Melbourne",
+      "state": "FL",
+      "postal_code": "32935"
+    },
+    {
+      "street": "8245 North Wickham Rd",
+      "city": "Melbourne",
+      "state": "FL",
+      "postal_code": "32940"
+    },
+    {
+      "street": "950 N Wickham Rd",
+      "city": "Melbourne",
+      "state": "FL",
+      "postal_code": "32935"
+    },
+    {
+      "street": "10610 Sw 40th St",
+      "city": "Miami",
+      "state": "FL",
+      "postal_code": "33165"
+    },
+    {
+      "street": "10680 N.W. 41 Street",
+      "city": "Miami",
+      "state": "FL",
+      "postal_code": "33178"
+    },
+    {
+      "street": "10829 S.W.72nd Street",
+      "city": "Miami",
+      "state": "FL",
+      "postal_code": "33173"
+    },
+    {
+      "street": "1100 Northwest 54th Street",
+      "city": "Miami",
+      "state": "FL",
+      "postal_code": "33127"
+    },
+    {
+      "street": "11925 Nw 27th Pl.",
+      "city": "Miami",
+      "state": "FL",
+      "postal_code": "33167"
+    },
+    {
+      "street": "12485 Nw 7th Ave.",
+      "city": "Miami",
+      "state": "FL",
+      "postal_code": "33168"
+    },
+    {
+      "street": "13090 Sw 120th Street",
+      "city": "Miami",
+      "state": "FL",
+      "postal_code": "33186"
+    },
+    {
+      "street": "13530 S.W. 152nd Street",
+      "city": "Miami",
+      "state": "FL",
+      "postal_code": "33177"
+    },
+    {
+      "street": "13650 Sw 26th St",
+      "city": "Miami",
+      "state": "FL",
+      "postal_code": "33175"
+    },
+    {
+      "street": "13890 N. Kendall Dr.",
+      "city": "Miami",
+      "state": "FL",
+      "postal_code": "33186"
+    },
+    {
+      "street": "13901 S. Dixie Hwy",
+      "city": "Miami",
+      "state": "FL",
+      "postal_code": "33176"
+    },
+    {
+      "street": "14715 Sw 42nd Street",
+      "city": "Miami",
+      "state": "FL",
+      "postal_code": "33185"
+    },
+    {
+      "street": "1532 N.E. 163rd St.",
+      "city": "Miami",
+      "state": "FL",
+      "postal_code": "33162"
+    },
+    {
+      "street": "16203 Sw 88 Street",
+      "city": "Miami",
+      "state": "FL",
+      "postal_code": "33196"
+    },
+    {
+      "street": "18880 South Dixie Hwy",
+      "city": "Miami",
+      "state": "FL",
+      "postal_code": "33157"
+    },
+    {
+      "street": "19650 Nw 2nd Ave.",
+      "city": "Miami",
+      "state": "FL",
+      "postal_code": "33169"
+    },
+    {
+      "street": "200 S. W. 8th St.",
+      "city": "Miami",
+      "state": "FL",
+      "postal_code": "33130"
+    },
+    {
+      "street": "2000 Nw 107th Avenue",
+      "city": "Miami",
+      "state": "FL",
+      "postal_code": "33172"
+    },
+    {
+      "street": "2000 Nw 10th Avenue",
+      "city": "Miami",
+      "state": "FL",
+      "postal_code": "33127"
+    },
+    {
+      "street": "20975 South Dixie Highway",
+      "city": "Miami",
+      "state": "FL",
+      "postal_code": "33189"
+    },
+    {
+      "street": "2100 Nw 42nd Ave",
+      "city": "Miami",
+      "state": "FL",
+      "postal_code": "33126"
+    },
+    {
+      "street": "2370 S.W. 8th St.",
+      "city": "Miami",
+      "state": "FL",
+      "postal_code": "33135"
+    },
+    {
+      "street": "2400 Nw 87th Ave",
+      "city": "Miami",
+      "state": "FL",
+      "postal_code": "33172"
+    },
+    {
+      "street": "3301 Biscayne Blvd",
+      "city": "Miami",
+      "state": "FL",
+      "postal_code": "33137"
+    },
+    {
+      "street": "3600 S. Dixie Hwy",
+      "city": "Miami",
+      "state": "FL",
+      "postal_code": "33133"
+    },
+    {
+      "street": "3805 Nw 27th Avenue",
+      "city": "Miami",
+      "state": "FL",
+      "postal_code": "33142"
+    },
+    {
+      "street": "645 Nw 57th Avenue",
+      "city": "Miami",
+      "state": "FL",
+      "postal_code": "33126"
+    },
+    {
+      "street": "6720 Sw 8th Street",
+      "city": "Miami",
+      "state": "FL",
+      "postal_code": "33144"
+    },
+    {
+      "street": "6898 Bird Road",
+      "city": "Miami",
+      "state": "FL",
+      "postal_code": "33155"
+    },
+    {
+      "street": "697 N. W. 37th Ave.",
+      "city": "Miami",
+      "state": "FL",
+      "postal_code": "33125"
+    },
+    {
+      "street": "7393 Nw 36th St",
+      "city": "Miami",
+      "state": "FL",
+      "postal_code": "33166"
+    },
+    {
+      "street": "7555 Nw 12th St.",
+      "city": "Miami",
+      "state": "FL",
+      "postal_code": "33126"
+    },
+    {
+      "street": "7801 Biscayne Blvd.",
+      "city": "Miami",
+      "state": "FL",
+      "postal_code": "33138"
+    },
+    {
+      "street": "8295 Northwest 27th Ave",
+      "city": "Miami",
+      "state": "FL",
+      "postal_code": "33147"
+    },
+    {
+      "street": "9655 West Flagler",
+      "city": "Miami",
+      "state": "FL",
+      "postal_code": "33174"
+    },
+    {
+      "street": "10900 Pembroke Road",
+      "city": "Miramar",
+      "state": "FL",
+      "postal_code": "33025"
+    },
+    {
+      "street": "3750 Utopia Dr",
+      "city": "Miramar",
+      "state": "FL",
+      "postal_code": "33023"
+    },
+    {
+      "street": "18181 Nw 27th Ave",
+      "city": "Miami Gardens",
+      "state": "FL",
+      "postal_code": "33056"
+    },
+    {
+      "street": "4780 Nw 183rd St",
+      "city": "Miami Gardens",
+      "state": "FL",
+      "postal_code": "33055"
+    },
+    {
+      "street": "10 W Merritt Island Cswy",
+      "city": "Merritt Island",
+      "state": "FL",
+      "postal_code": "32952"
+    },
+    {
+      "street": "6477 Highway 90 West",
+      "city": "Milton",
+      "state": "FL",
+      "postal_code": "32570"
+    },
+    {
+      "street": "2530 Blanding Blvd",
+      "city": "Middleburg",
+      "state": "FL",
+      "postal_code": "32068"
+    },
+    {
+      "street": "18890 U.S. Highway 441",
+      "city": "Mount Dora",
+      "state": "FL",
+      "postal_code": "32757"
+    },
+    {
+      "street": "10941 Airport Road",
+      "city": "Naples",
+      "state": "FL",
+      "postal_code": "34109"
+    },
+    {
+      "street": "13030 Tamiami Trail East",
+      "city": "Naples",
+      "state": "FL",
+      "postal_code": "34114"
+    },
+    {
+      "street": "2601 E Tamiami Trail",
+      "city": "Naples",
+      "state": "FL",
+      "postal_code": "34112"
+    },
+    {
+      "street": "4114 N Tamiami Trail",
+      "city": "Naples",
+      "state": "FL",
+      "postal_code": "34103"
+    },
+    {
+      "street": "7032 North Church Avenue",
+      "city": "Mulberry",
+      "state": "FL",
+      "postal_code": "33860"
+    },
+    {
+      "street": "1860 Elevate Avenue",
+      "city": "Navarre",
+      "state": "FL",
+      "postal_code": "32566"
+    },
+    {
+      "street": "4240 U.S. Hwy 19 South",
+      "city": "New Port Richey",
+      "state": "FL",
+      "postal_code": "34652"
+    },
+    {
+      "street": "7605 State Road 54",
+      "city": "New Port Richey",
+      "state": "FL",
+      "postal_code": "34653"
+    },
+    {
+      "street": "8216 Little Road",
+      "city": "New Port Richey",
+      "state": "FL",
+      "postal_code": "34654"
+    },
+    {
+      "street": "1608 S Dixie Fwy",
+      "city": "New Smyrna Beach",
+      "state": "FL",
+      "postal_code": "32168"
+    },
+    {
+      "street": "105 N. Tamiami Trail",
+      "city": "Nokomis",
+      "state": "FL",
+      "postal_code": "34275"
+    },
+    {
+      "street": "1022 John Sims Pkwy",
+      "city": "Niceville",
+      "state": "FL",
+      "postal_code": "32578"
+    },
+    {
+      "street": "13750 N Cleveland Avenue",
+      "city": "North Fort Myers",
+      "state": "FL",
+      "postal_code": "33903"
+    },
+    {
+      "street": "7115 West Mcnab Road",
+      "city": "North Lauderdale",
+      "state": "FL",
+      "postal_code": "33068"
+    },
+    {
+      "street": "201 Serano Way",
+      "city": "North Venice",
+      "state": "FL",
+      "postal_code": "34275"
+    },
+    {
+      "street": "25 Northeast 167 Street",
+      "city": "North Miami Beach",
+      "state": "FL",
+      "postal_code": "33162"
+    },
+    {
+      "street": "1040 E Commercial Blvd",
+      "city": "Oakland Park",
+      "state": "FL",
+      "postal_code": "33334"
+    },
+    {
+      "street": "320 Northlake Blvd",
+      "city": "North Palm Beach",
+      "state": "FL",
+      "postal_code": "33408"
+    },
+    {
+      "street": "120 Bahia Avenue Court",
+      "city": "Ocala",
+      "state": "FL",
+      "postal_code": "34472"
+    },
+    {
+      "street": "2020 Sw 135th St.",
+      "city": "Ocala",
+      "state": "FL",
+      "postal_code": "34473"
+    },
+    {
+      "street": "3001 E. Silver Springs Blvd.",
+      "city": "Ocala",
+      "state": "FL",
+      "postal_code": "34470"
+    },
+    {
+      "street": "3155 N.W. Pine Avenue",
+      "city": "Ocala",
+      "state": "FL",
+      "postal_code": "34475"
+    },
+    {
+      "street": "3617 W. Silver Springs",
+      "city": "Ocala",
+      "state": "FL",
+      "postal_code": "34475"
+    },
+    {
+      "street": "4255 Northwest Highway 326",
+      "city": "Ocala",
+      "state": "FL",
+      "postal_code": "34482"
+    },
+    {
+      "street": "8470 Southwest Hwy 200",
+      "city": "Ocala",
+      "state": "FL",
+      "postal_code": "34481"
+    },
+    {
+      "street": "10674 W Colonial Dr",
+      "city": "Ocoee",
+      "state": "FL",
+      "postal_code": "34761"
+    },
+    {
+      "street": "254 Fountain West Blvd",
+      "city": "Ocoee",
+      "state": "FL",
+      "postal_code": "34761"
+    },
+    {
+      "street": "12415 Biscayne Blvd.",
+      "city": "North Miami",
+      "state": "FL",
+      "postal_code": "33181"
+    },
+    {
+      "street": "1018 Technology Ave.",
+      "city": "North Port",
+      "state": "FL",
+      "postal_code": "34289"
+    },
+    {
+      "street": "2095 S. Volusia Ave.",
+      "city": "Orange City",
+      "state": "FL",
+      "postal_code": "32763"
+    },
+    {
+      "street": "4066 Tampa Road",
+      "city": "Oldsmar",
+      "state": "FL",
+      "postal_code": "34677"
+    },
+    {
+      "street": "12496 State Road 54",
+      "city": "Odessa",
+      "state": "FL",
+      "postal_code": "33556"
+    },
+    {
+      "street": "1110 Blanding Blvd",
+      "city": "Orange Park",
+      "state": "FL",
+      "postal_code": "32065"
+    },
+    {
+      "street": "1575 Island Lane",
+      "city": "Orange Park",
+      "state": "FL",
+      "postal_code": "32003"
+    },
+    {
+      "street": "753 Park St.",
+      "city": "Orange Park",
+      "state": "FL",
+      "postal_code": "32073"
+    },
+    {
+      "street": "184 Floridas Turnpike",
+      "city": "Okeechobee",
+      "state": "FL",
+      "postal_code": "34972"
+    },
+    {
+      "street": "502 Ne Park Street",
+      "city": "Okeechobee",
+      "state": "FL",
+      "postal_code": "34972"
+    },
+    {
+      "street": "90 W. Mitchell Hammock Rd",
+      "city": "Oviedo",
+      "state": "FL",
+      "postal_code": "32765"
+    },
+    {
+      "street": "335 W. Granada Ave.",
+      "city": "Ormond Beach",
+      "state": "FL",
+      "postal_code": "32174"
+    },
+    {
+      "street": "75 Williamson Blvd",
+      "city": "Ormond Beach",
+      "state": "FL",
+      "postal_code": "32174"
+    },
+    {
+      "street": "1050 Mccoy Rd",
+      "city": "Orlando",
+      "state": "FL",
+      "postal_code": "32809"
+    },
+    {
+      "street": "11124 Dowden Rd",
+      "city": "Orlando",
+      "state": "FL",
+      "postal_code": "32832"
+    },
+    {
+      "street": "11251 University Boulevard",
+      "city": "Orlando",
+      "state": "FL",
+      "postal_code": "32817"
+    },
+    {
+      "street": "11734 E Colonial Dr",
+      "city": "Orlando",
+      "state": "FL",
+      "postal_code": "32817"
+    },
+    {
+      "street": "12242 Narcoossee Rd",
+      "city": "Orlando",
+      "state": "FL",
+      "postal_code": "32832"
+    },
+    {
+      "street": "12820 Orange Blossom Trail S",
+      "city": "Orlando",
+      "state": "FL",
+      "postal_code": "32837"
+    },
+    {
+      "street": "13480 State Road 535",
+      "city": "Orlando",
+      "state": "FL",
+      "postal_code": "32821"
+    },
+    {
+      "street": "13826 Landstar Blvd",
+      "city": "Orlando",
+      "state": "FL",
+      "postal_code": "32824"
+    },
+    {
+      "street": "13860 Boggy Creek Road",
+      "city": "Orlando",
+      "state": "FL",
+      "postal_code": "32824"
+    },
+    {
+      "street": "14801 E. Colonial Drive",
+      "city": "Orlando",
+      "state": "FL",
+      "postal_code": "32826"
+    },
+    {
+      "street": "1919 S. Orange",
+      "city": "Orlando",
+      "state": "FL",
+      "postal_code": "32806"
+    },
+    {
+      "street": "2001 Principal Row",
+      "city": "Orlando",
+      "state": "FL",
+      "postal_code": "32837"
+    },
+    {
+      "street": "2201 E. Colonial",
+      "city": "Orlando",
+      "state": "FL",
+      "postal_code": "32803"
+    },
+    {
+      "street": "2608 N Hiawassee Rd.",
+      "city": "Orlando",
+      "state": "FL",
+      "postal_code": "32818"
+    },
+    {
+      "street": "263 Mile Marker I-91",
+      "city": "Orlando",
+      "state": "FL",
+      "postal_code": "34761"
+    },
+    {
+      "street": "2751 Wilshire Drive",
+      "city": "Orlando",
+      "state": "FL",
+      "postal_code": "32835"
+    },
+    {
+      "street": "3011 N. John Young Pkwy.",
+      "city": "Orlando",
+      "state": "FL",
+      "postal_code": "32804"
+    },
+    {
+      "street": "3019 Lamberton Blvd",
+      "city": "Orlando",
+      "state": "FL",
+      "postal_code": "32825"
+    },
+    {
+      "street": "3020 West Sand Lake Road",
+      "city": "Orlando",
+      "state": "FL",
+      "postal_code": "32819"
+    },
+    {
+      "street": "4051 Millenia Blvd",
+      "city": "Orlando",
+      "state": "FL",
+      "postal_code": "32839"
+    },
+    {
+      "street": "4426 Hoffner Avenue",
+      "city": "Orlando",
+      "state": "FL",
+      "postal_code": "32812"
+    },
+    {
+      "street": "4510 S Semoran Blvd",
+      "city": "Orlando",
+      "state": "FL",
+      "postal_code": "32822"
+    },
+    {
+      "street": "508 South Chickasaw Trail",
+      "city": "Orlando",
+      "state": "FL",
+      "postal_code": "32825"
+    },
+    {
+      "street": "5115 W Colonial Dr",
+      "city": "Orlando",
+      "state": "FL",
+      "postal_code": "32808"
+    },
+    {
+      "street": "5503 Major Blvd",
+      "city": "Orlando",
+      "state": "FL",
+      "postal_code": "32819"
+    },
+    {
+      "street": "5824 Central Fl Parkway",
+      "city": "Orlando",
+      "state": "FL",
+      "postal_code": "32821"
+    },
+    {
+      "street": "6077 S. Goldenrod Road",
+      "city": "Orlando",
+      "state": "FL",
+      "postal_code": "32822"
+    },
+    {
+      "street": "7091 S. Orange Blossom Tr",
+      "city": "Orlando",
+      "state": "FL",
+      "postal_code": "32809"
+    },
+    {
+      "street": "7690 Palm Parkway",
+      "city": "Orlando",
+      "state": "FL",
+      "postal_code": "32836"
+    },
+    {
+      "street": "7693 East Colonial Drive",
+      "city": "Orlando",
+      "state": "FL",
+      "postal_code": "32807"
+    },
+    {
+      "street": "7749 Turkey Lake Road",
+      "city": "Orlando",
+      "state": "FL",
+      "postal_code": "32819"
+    },
+    {
+      "street": "8601 Summit Centre Way",
+      "city": "Orlando",
+      "state": "FL",
+      "postal_code": "32810"
+    },
+    {
+      "street": "950 S. Orange Blossom Trail",
+      "city": "Orlando",
+      "state": "FL",
+      "postal_code": "32805"
+    },
+    {
+      "street": "Orlando International Airport",
+      "city": "Orlando",
+      "state": "FL",
+      "postal_code": "32827"
+    },
+    {
+      "street": "11639 Will Odell Ave",
+      "city": "Oxford",
+      "state": "FL",
+      "postal_code": "34484"
+    },
+    {
+      "street": "4774 Highway 90",
+      "city": "Pace",
+      "state": "FL",
+      "postal_code": "32571"
+    },
+    {
+      "street": "1154 Malabar Rd S.E.",
+      "city": "Palm Bay",
+      "state": "FL",
+      "postal_code": "32907"
+    },
+    {
+      "street": "1 Old King Road N",
+      "city": "Palm Coast",
+      "state": "FL",
+      "postal_code": "32137"
+    },
+    {
+      "street": "440 Sw Palm Coast Parkway",
+      "city": "Palm Coast",
+      "state": "FL",
+      "postal_code": "32137"
+    },
+    {
+      "street": "34092 Us Hwy 19 N",
+      "city": "Palm Harbor",
+      "state": "FL",
+      "postal_code": "34684"
+    },
+    {
+      "street": "750 East Lake Road",
+      "city": "Palm Harbor",
+      "state": "FL",
+      "postal_code": "34685"
+    },
+    {
+      "street": "1824 Reid Street",
+      "city": "Palatka",
+      "state": "FL",
+      "postal_code": "32177"
+    },
+    {
+      "street": "4435 Northlake Blvd.",
+      "city": "Palm Beach Gardens",
+      "state": "FL",
+      "postal_code": "33410"
+    },
+    {
+      "street": "606 East 10th Street",
+      "city": "Palmetto",
+      "state": "FL",
+      "postal_code": "34221"
+    },
+    {
+      "street": "610 W. 23rd Street",
+      "city": "Panama City",
+      "state": "FL",
+      "postal_code": "32405"
+    },
+    {
+      "street": "8720 Thomas Drive",
+      "city": "Panama City Beach",
+      "state": "FL",
+      "postal_code": "32408"
+    },
+    {
+      "street": "3950 Pembroke Road",
+      "city": "Pembroke Park",
+      "state": "FL",
+      "postal_code": "33021"
+    },
+    {
+      "street": "12650 Pines Blvd",
+      "city": "Pembroke Pines",
+      "state": "FL",
+      "postal_code": "33027"
+    },
+    {
+      "street": "17331 Pines Blvd",
+      "city": "Pembroke Pines",
+      "state": "FL",
+      "postal_code": "33029"
+    },
+    {
+      "street": "2050 Nw 146th Street",
+      "city": "Pembroke Pines",
+      "state": "FL",
+      "postal_code": "33028"
+    },
+    {
+      "street": "8000 Pines Blvd",
+      "city": "Pembroke Pines",
+      "state": "FL",
+      "postal_code": "33024"
+    },
+    {
+      "street": "1706 West Fairfield Drive",
+      "city": "Pensacola",
+      "state": "FL",
+      "postal_code": "32501"
+    },
+    {
+      "street": "250 Saufley Street",
+      "city": "Pensacola",
+      "state": "FL",
+      "postal_code": "32508"
+    },
+    {
+      "street": "450 E. Nine Mile Rd",
+      "city": "Pensacola",
+      "state": "FL",
+      "postal_code": "32514"
+    },
+    {
+      "street": "5153 N 9th Ave",
+      "city": "Pensacola",
+      "state": "FL",
+      "postal_code": "32504"
+    },
+    {
+      "street": "5685 N 9th Ave",
+      "city": "Pensacola",
+      "state": "FL",
+      "postal_code": "32504"
+    },
+    {
+      "street": "7012 N Davis Hwy",
+      "city": "Pensacola",
+      "state": "FL",
+      "postal_code": "32504"
+    },
+    {
+      "street": "7200 Pensacola Blvd",
+      "city": "Pensacola",
+      "state": "FL",
+      "postal_code": "32505"
+    },
+    {
+      "street": "8080 Highway 98 West",
+      "city": "Pensacola",
+      "state": "FL",
+      "postal_code": "32506"
+    },
+    {
+      "street": "8005 Us Highway 19 N",
+      "city": "Pinellas Park",
+      "state": "FL",
+      "postal_code": "33781"
+    },
+    {
+      "street": "1601 W. Baker",
+      "city": "Plant City",
+      "state": "FL",
+      "postal_code": "33563"
+    },
+    {
+      "street": "2807 James Redman Pkwy",
+      "city": "Plant City",
+      "state": "FL",
+      "postal_code": "33566"
+    },
+    {
+      "street": "4308 Sterling Commerce Drive",
+      "city": "Plant City",
+      "state": "FL",
+      "postal_code": "33566"
+    },
+    {
+      "street": "1690 Taylor Road",
+      "city": "Port Orange",
+      "state": "FL",
+      "postal_code": "32128"
+    },
+    {
+      "street": "900 Dunlawton Blvd",
+      "city": "Port Orange",
+      "state": "FL",
+      "postal_code": "32127"
+    },
+    {
+      "street": "153 Capital Green",
+      "city": "Ponte Vedra",
+      "state": "FL",
+      "postal_code": "32081"
+    },
+    {
+      "street": "10246 S Federal Hwy",
+      "city": "Port Saint Lucie",
+      "state": "FL",
+      "postal_code": "34952"
+    },
+    {
+      "street": "1790 Sw Saint Lucie West Blvd",
+      "city": "Port Saint Lucie",
+      "state": "FL",
+      "postal_code": "34986"
+    },
+    {
+      "street": "2210 Sw Gatlin Blvd.",
+      "city": "Port Saint Lucie",
+      "state": "FL",
+      "postal_code": "34953"
+    },
+    {
+      "street": "270 Sw Port St Lucie Blvd",
+      "city": "Port Saint Lucie",
+      "state": "FL",
+      "postal_code": "34984"
+    },
+    {
+      "street": "Florida Turnpike Milepost 144",
+      "city": "Port Saint Lucie",
+      "state": "FL",
+      "postal_code": "34986"
+    },
+    {
+      "street": "13417 South Mccall Road",
+      "city": "Port Charlotte",
+      "state": "FL",
+      "postal_code": "33981"
+    },
+    {
+      "street": "19680 Cochran Blvd",
+      "city": "Port Charlotte",
+      "state": "FL",
+      "postal_code": "33948"
+    },
+    {
+      "street": "24180 Veterans Blvd",
+      "city": "Port Charlotte",
+      "state": "FL",
+      "postal_code": "33954"
+    },
+    {
+      "street": "3206 N.W. Tamiami Trail",
+      "city": "Port Charlotte",
+      "state": "FL",
+      "postal_code": "33952"
+    },
+    {
+      "street": "1190 Ne 23rd Street",
+      "city": "Pompano Beach",
+      "state": "FL",
+      "postal_code": "33062"
+    },
+    {
+      "street": "1840 East Atlantic Blvd",
+      "city": "Pompano Beach",
+      "state": "FL",
+      "postal_code": "33060"
+    },
+    {
+      "street": "2281 W. Sample Rd.",
+      "city": "Pompano Beach",
+      "state": "FL",
+      "postal_code": "33073"
+    },
+    {
+      "street": "2500 West Atlantic Blvd.",
+      "city": "Pompano Beach",
+      "state": "FL",
+      "postal_code": "33069"
+    },
+    {
+      "street": "2700 Dr Martin Luther King Blvd",
+      "city": "Pompano Beach",
+      "state": "FL",
+      "postal_code": "33069"
+    },
+    {
+      "street": "65 S Pompano Parkway",
+      "city": "Pompano Beach",
+      "state": "FL",
+      "postal_code": "33069"
+    },
+    {
+      "street": "9301 Knights Drive",
+      "city": "Punta Gorda",
+      "state": "FL",
+      "postal_code": "33950"
+    },
+    {
+      "street": "7401 W. Hwy 318",
+      "city": "Reddick",
+      "state": "FL",
+      "postal_code": "32686"
+    },
+    {
+      "street": "10529 Gibsonton Drive",
+      "city": "Riverview",
+      "state": "FL",
+      "postal_code": "33578"
+    },
+    {
+      "street": "10921 Bloomingdale Ave",
+      "city": "Riverview",
+      "state": "FL",
+      "postal_code": "33578"
+    },
+    {
+      "street": "13119 South Us Highway 301",
+      "city": "Riverview",
+      "state": "FL",
+      "postal_code": "33578"
+    },
+    {
+      "street": "3906 Us Highway 301 S",
+      "city": "Riverview",
+      "state": "FL",
+      "postal_code": "33578"
+    },
+    {
+      "street": "560 N. State Road 7",
+      "city": "Royal Palm Beach",
+      "state": "FL",
+      "postal_code": "33411"
+    },
+    {
+      "street": "3741 W. Blue Heron Blvd",
+      "city": "Riviera Beach",
+      "state": "FL",
+      "postal_code": "33404"
+    },
+    {
+      "street": "648 Barnes Blvd.",
+      "city": "Rockledge",
+      "state": "FL",
+      "postal_code": "32955"
+    },
+    {
+      "street": "4201 13th Street",
+      "city": "Saint Cloud",
+      "state": "FL",
+      "postal_code": "34769"
+    },
+    {
+      "street": "Florida Turnpike Milepost 229",
+      "city": "Saint Cloud",
+      "state": "FL",
+      "postal_code": "34772"
+    },
+    {
+      "street": "1830 Us Highway 1 S",
+      "city": "Saint Augustine",
+      "state": "FL",
+      "postal_code": "32084"
+    },
+    {
+      "street": "2040 A1a S",
+      "city": "Saint Augustine",
+      "state": "FL",
+      "postal_code": "32080"
+    },
+    {
+      "street": "2260 International Golf Pkwy",
+      "city": "Saint Augustine",
+      "state": "FL",
+      "postal_code": "32095"
+    },
+    {
+      "street": "2710 State Road #16",
+      "city": "Saint Augustine",
+      "state": "FL",
+      "postal_code": "32085"
+    },
+    {
+      "street": "3531 N. Ponce De Leon Blvd",
+      "city": "Saint Augustine",
+      "state": "FL",
+      "postal_code": "32084"
+    },
+    {
+      "street": "1115 34th Street N.",
+      "city": "Saint Petersburg",
+      "state": "FL",
+      "postal_code": "33713"
+    },
+    {
+      "street": "336 15th Avenue S",
+      "city": "Saint Petersburg",
+      "state": "FL",
+      "postal_code": "33701"
+    },
+    {
+      "street": "4047 4th St N",
+      "city": "Saint Petersburg",
+      "state": "FL",
+      "postal_code": "33703"
+    },
+    {
+      "street": "4300 34th Street South",
+      "city": "Saint Petersburg",
+      "state": "FL",
+      "postal_code": "33711"
+    },
+    {
+      "street": "4840 Park Street",
+      "city": "Saint Petersburg",
+      "state": "FL",
+      "postal_code": "33709"
+    },
+    {
+      "street": "9000 4th St. N.",
+      "city": "Saint Petersburg",
+      "state": "FL",
+      "postal_code": "33702"
+    },
+    {
+      "street": "3725 Sun City Center Blvd",
+      "city": "Ruskin",
+      "state": "FL",
+      "postal_code": "33573"
+    },
+    {
+      "street": "1601 S. Tamiami Trail",
+      "city": "Sarasota",
+      "state": "FL",
+      "postal_code": "34239"
+    },
+    {
+      "street": "1627 N.Washington Blvd",
+      "city": "Sarasota",
+      "state": "FL",
+      "postal_code": "34236"
+    },
+    {
+      "street": "301 North Beneva Road",
+      "city": "Sarasota",
+      "state": "FL",
+      "postal_code": "34232"
+    },
+    {
+      "street": "5741 Clark Road",
+      "city": "Sarasota",
+      "state": "FL",
+      "postal_code": "34233"
+    },
+    {
+      "street": "3717 S. Orlando Blvd.",
+      "city": "Sanford",
+      "state": "FL",
+      "postal_code": "32773"
+    },
+    {
+      "street": "470 Town Center Circle",
+      "city": "Sanford",
+      "state": "FL",
+      "postal_code": "32771"
+    },
+    {
+      "street": "395 E Eau Gallie Blvd",
+      "city": "Satellite Beach",
+      "state": "FL",
+      "postal_code": "32937"
+    },
+    {
+      "street": "1625 Us Highway 1",
+      "city": "Sebastian",
+      "state": "FL",
+      "postal_code": "32958"
+    },
+    {
+      "street": "1452 South Pasadena Ave",
+      "city": "South Pasadena",
+      "state": "FL",
+      "postal_code": "33707"
+    },
+    {
+      "street": "6024 County Road 579",
+      "city": "Seffner",
+      "state": "FL",
+      "postal_code": "33584"
+    },
+    {
+      "street": "10751 Park Blvd.",
+      "city": "Seminole",
+      "state": "FL",
+      "postal_code": "33772"
+    },
+    {
+      "street": "2100 Us 27 North",
+      "city": "Sebring",
+      "state": "FL",
+      "postal_code": "33870"
+    },
+    {
+      "street": "1959 S. Ridgewood Ave.",
+      "city": "South Daytona",
+      "state": "FL",
+      "postal_code": "32119"
+    },
+    {
+      "street": "14339 Spring Hill Drive",
+      "city": "Spring Hill",
+      "state": "FL",
+      "postal_code": "34609"
+    },
+    {
+      "street": "4720 Commercial Way",
+      "city": "Spring Hill",
+      "state": "FL",
+      "postal_code": "34606"
+    },
+    {
+      "street": "3160 Se Federal Hwy",
+      "city": "Stuart",
+      "state": "FL",
+      "postal_code": "34994"
+    },
+    {
+      "street": "7700 Southwest Lost River Road",
+      "city": "Stuart",
+      "state": "FL",
+      "postal_code": "34997"
+    },
+    {
+      "street": "2300 Old Canoe Creek Rd",
+      "city": "St. Cloud",
+      "state": "FL",
+      "postal_code": "34772"
+    },
+    {
+      "street": "6885 Longleaf Pine Pkwy",
+      "city": "St Johns",
+      "state": "FL",
+      "postal_code": "32259"
+    },
+    {
+      "street": "80 Marketplace Drive",
+      "city": "St.Augustine",
+      "state": "FL",
+      "postal_code": "32084"
+    },
+    {
+      "street": "1494 Capital Circle Nw",
+      "city": "Tallahassee",
+      "state": "FL",
+      "postal_code": "32303"
+    },
+    {
+      "street": "1828 North Monroe",
+      "city": "Tallahassee",
+      "state": "FL",
+      "postal_code": "32303"
+    },
+    {
+      "street": "1901 Apalachee Pkwy.",
+      "city": "Tallahassee",
+      "state": "FL",
+      "postal_code": "32301"
+    },
+    {
+      "street": "1950 West Pensacola",
+      "city": "Tallahassee",
+      "state": "FL",
+      "postal_code": "32304"
+    },
+    {
+      "street": "2122 Capital Circle Ne",
+      "city": "Tallahassee",
+      "state": "FL",
+      "postal_code": "32308"
+    },
+    {
+      "street": "2525 South Monroe St.",
+      "city": "Tallahassee",
+      "state": "FL",
+      "postal_code": "32301"
+    },
+    {
+      "street": "3030 West Pensacola Street",
+      "city": "Tallahassee",
+      "state": "FL",
+      "postal_code": "32304"
+    },
+    {
+      "street": "3439 Thomasville Rd",
+      "city": "Tallahassee",
+      "state": "FL",
+      "postal_code": "32309"
+    },
+    {
+      "street": "3451 Bannerman Rd.",
+      "city": "Tallahassee",
+      "state": "FL",
+      "postal_code": "32312"
+    },
+    {
+      "street": "3561 S Blair Stone Rd",
+      "city": "Tallahassee",
+      "state": "FL",
+      "postal_code": "32311"
+    },
+    {
+      "street": "6601 Mahan Drive",
+      "city": "Tallahassee",
+      "state": "FL",
+      "postal_code": "32317"
+    },
+    {
+      "street": "12941 W Sunrise Blvd",
+      "city": "Sunrise",
+      "state": "FL",
+      "postal_code": "33323"
+    },
+    {
+      "street": "2471 North University Drive",
+      "city": "Sunrise",
+      "state": "FL",
+      "postal_code": "33322"
+    },
+    {
+      "street": "9960 West Oakland Park Blvd",
+      "city": "Sunrise",
+      "state": "FL",
+      "postal_code": "33351"
+    },
+    {
+      "street": "7025 N. University Drive",
+      "city": "Tamarac",
+      "state": "FL",
+      "postal_code": "33321"
+    },
+    {
+      "street": "8901 West Commercial Blvd.",
+      "city": "Tamarac",
+      "state": "FL",
+      "postal_code": "33351"
+    },
+    {
+      "street": "1101 W. Sligh Ave",
+      "city": "Tampa",
+      "state": "FL",
+      "postal_code": "33604"
+    },
+    {
+      "street": "13712 Bruce B. Downs Blvd",
+      "city": "Tampa",
+      "state": "FL",
+      "postal_code": "33613"
+    },
+    {
+      "street": "1615 West Kennedy Blvd.",
+      "city": "Tampa",
+      "state": "FL",
+      "postal_code": "33606"
+    },
+    {
+      "street": "3601 W. Hillsborough Avenue",
+      "city": "Tampa",
+      "state": "FL",
+      "postal_code": "33614"
+    },
+    {
+      "street": "4100 George J. Bean Parkway",
+      "city": "Tampa",
+      "state": "FL",
+      "postal_code": "33607"
+    },
+    {
+      "street": "4314 Gandy Blvd",
+      "city": "Tampa",
+      "state": "FL",
+      "postal_code": "33611"
+    },
+    {
+      "street": "6202 Gunn Highway",
+      "city": "Tampa",
+      "state": "FL",
+      "postal_code": "33625"
+    },
+    {
+      "street": "6917 N. 56th Street",
+      "city": "Tampa",
+      "state": "FL",
+      "postal_code": "33617"
+    },
+    {
+      "street": "8305 Sheldon Road",
+      "city": "Tampa",
+      "state": "FL",
+      "postal_code": "33615"
+    },
+    {
+      "street": "8330 N. Florida",
+      "city": "Tampa",
+      "state": "FL",
+      "postal_code": "33604"
+    },
+    {
+      "street": "9940 Adamo Drive",
+      "city": "Tampa",
+      "state": "FL",
+      "postal_code": "33619"
+    },
+    {
+      "street": "912 E. Tarpon Ave",
+      "city": "Tarpon Springs",
+      "state": "FL",
+      "postal_code": "34689"
+    },
+    {
+      "street": "2983 Executive Dr.",
+      "city": "Venice",
+      "state": "FL",
+      "postal_code": "34292"
+    },
+    {
+      "street": "4331 S Tamiami Trail",
+      "city": "Venice",
+      "state": "FL",
+      "postal_code": "34293"
+    },
+    {
+      "street": "3000 Garden St.",
+      "city": "Titusville",
+      "state": "FL",
+      "postal_code": "32796"
+    },
+    {
+      "street": "3323 Columbia Blvd",
+      "city": "Titusville",
+      "state": "FL",
+      "postal_code": "32780"
+    },
+    {
+      "street": "2110 Bloomingdale Ave",
+      "city": "Valrico",
+      "state": "FL",
+      "postal_code": "33596"
+    },
+    {
+      "street": "8220 Tourist Center Road",
+      "city": "University Park",
+      "state": "FL",
+      "postal_code": "34201"
+    },
+    {
+      "street": "11720 N. 56th Street",
+      "city": "Temple Terrace",
+      "state": "FL",
+      "postal_code": "33617"
+    },
+    {
+      "street": "6210 20th Street",
+      "city": "Vero Beach",
+      "state": "FL",
+      "postal_code": "32966"
+    },
+    {
+      "street": "890 Us Highway 1",
+      "city": "Vero Beach",
+      "state": "FL",
+      "postal_code": "32962"
+    },
+    {
+      "street": "15408 Ne Us Highway 301",
+      "city": "Waldo",
+      "state": "FL",
+      "postal_code": "32694"
+    },
+    {
+      "street": "1440 North Us 17",
+      "city": "Wauchula",
+      "state": "FL",
+      "postal_code": "33873"
+    },
+    {
+      "street": "28031 Wesley Chapel Blvd",
+      "city": "Wesley Chapel",
+      "state": "FL",
+      "postal_code": "33543"
+    },
+    {
+      "street": "1904 Weston Road",
+      "city": "Weston",
+      "state": "FL",
+      "postal_code": "33326"
+    },
+    {
+      "street": "1376 N Military Trail",
+      "city": "West Palm Beach",
+      "state": "FL",
+      "postal_code": "33409"
+    },
+    {
+      "street": "1531 Belvedere Road",
+      "city": "West Palm Beach",
+      "state": "FL",
+      "postal_code": "33406"
+    },
+    {
+      "street": "3075 45th Street",
+      "city": "West Palm Beach",
+      "state": "FL",
+      "postal_code": "33407"
+    },
+    {
+      "street": "6790 Okeechobee Blvd.",
+      "city": "West Palm Beach",
+      "state": "FL",
+      "postal_code": "33411"
+    },
+    {
+      "street": "951 Hank Aaron Drive",
+      "city": "West Palm Beach",
+      "state": "FL",
+      "postal_code": "33401"
+    },
+    {
+      "street": "13549 W Colonial Dr",
+      "city": "Winter Garden",
+      "state": "FL",
+      "postal_code": "34787"
+    },
+    {
+      "street": "16007 New Independence Pkwy",
+      "city": "Winter Garden",
+      "state": "FL",
+      "postal_code": "34787"
+    },
+    {
+      "street": "2248 Western Wy",
+      "city": "Winter Garden",
+      "state": "FL",
+      "postal_code": "34787"
+    },
+    {
+      "street": "135 Palm Bay Road",
+      "city": "West Melbourne",
+      "state": "FL",
+      "postal_code": "32904"
+    },
+    {
+      "street": "5809 Seven Mile Dr",
+      "city": "Wildwood",
+      "state": "FL",
+      "postal_code": "34785"
+    },
+    {
+      "street": "921 E State Rd 44",
+      "city": "Wildwood",
+      "state": "FL",
+      "postal_code": "34785"
+    },
+    {
+      "street": "Fl-91 Milepost 299",
+      "city": "Wildwood",
+      "state": "FL",
+      "postal_code": "34785"
+    },
+    {
+      "street": "5610 Cypress Gardens Blvd",
+      "city": "Winter Haven",
+      "state": "FL",
+      "postal_code": "33884"
+    },
+    {
+      "street": "900 6th Street Nw",
+      "city": "Winter Haven",
+      "state": "FL",
+      "postal_code": "33881"
+    },
+    {
+      "street": "1308 W. Fairbanks Ave",
+      "city": "Winter Park",
+      "state": "FL",
+      "postal_code": "32789"
+    },
+    {
+      "street": "365 University Park Drive",
+      "city": "Winter Park",
+      "state": "FL",
+      "postal_code": "32792"
+    },
+    {
+      "street": "3700 Aloma Ave",
+      "city": "Winter Park",
+      "state": "FL",
+      "postal_code": "32792"
+    },
+    {
+      "street": "6517 Old Brick Road",
+      "city": "Windermere",
+      "state": "FL",
+      "postal_code": "34786"
+    },
+    {
+      "street": "462586 State Road 200",
+      "city": "Yulee",
+      "state": "FL",
+      "postal_code": "32097"
+    },
+    {
+      "street": "1218 East State Road 434",
+      "city": "Winter Springs",
+      "state": "FL",
+      "postal_code": "32708"
+    },
+    {
+      "street": "32725 Eiland Blvd",
+      "city": "Zephyrhills",
+      "state": "FL",
+      "postal_code": "33545"
+    }
+  ],
+  "dennys": [
+    {
+      "street": "255 E. Altamonte Dr.",
+      "city": "Altamonte Springs",
+      "state": "FL",
+      "postal_code": "32701"
+    },
+    {
+      "street": "351 E. Main St.",
+      "city": "Apopka",
+      "state": "FL",
+      "postal_code": "32703"
+    },
+    {
+      "street": "1311 West Palmetto Park Rd",
+      "city": "Boca Raton",
+      "state": "FL",
+      "postal_code": "33496"
+    },
+    {
+      "street": "1301 W. Brandon Blvd",
+      "city": "Brandon",
+      "state": "FL",
+      "postal_code": "33511"
+    },
+    {
+      "street": "1306 Del Prado Blvd",
+      "city": "Cape Coral",
+      "state": "FL",
+      "postal_code": "33990"
+    },
+    {
+      "street": "12105 US Highway 19 N",
+      "city": "Bayonet Point",
+      "state": "FL",
+      "postal_code": "34667"
+    },
+    {
+      "street": "25 Town Center Blvd",
+      "city": "Clermont",
+      "state": "FL",
+      "postal_code": "34711"
+    },
+    {
+      "street": "1245 N. Atlantic Ave.",
+      "city": "Cocoa Beach",
+      "state": "FL",
+      "postal_code": "32931"
+    },
+    {
+      "street": "610 44th Ave W",
+      "city": "Bradenton",
+      "state": "FL",
+      "postal_code": "34207"
+    },
+    {
+      "street": "1150 South Dixie Highway",
+      "city": "Coral Gables",
+      "state": "FL",
+      "postal_code": "33146"
+    },
+    {
+      "street": "1 Miracle Mile",
+      "city": "Coral Gables",
+      "state": "FL",
+      "postal_code": "33134"
+    },
+    {
+      "street": "44111 S US 27",
+      "city": "Davenport",
+      "state": "FL",
+      "postal_code": "33837"
+    },
+    {
+      "street": "2380 NW Hwy 19",
+      "city": "Crystal River",
+      "state": "FL",
+      "postal_code": "34428"
+    },
+    {
+      "street": "5645 South University Dr.",
+      "city": "Davie",
+      "state": "FL",
+      "postal_code": "33328"
+    },
+    {
+      "street": "2701 N. Atlantic Ave.",
+      "city": "Daytona Beach",
+      "state": "FL",
+      "postal_code": "32118"
+    },
+    {
+      "street": "1206 N. Woodland Blvd.",
+      "city": "Deland",
+      "state": "FL",
+      "postal_code": "32720"
+    },
+    {
+      "street": "1910 South McCall Rd.",
+      "city": "Englewood",
+      "state": "FL",
+      "postal_code": "34223"
+    },
+    {
+      "street": "5000 N.federal Hwy",
+      "city": "Fort Lauderdale",
+      "state": "FL",
+      "postal_code": "33308"
+    },
+    {
+      "street": "3151 Nw 9th Ave",
+      "city": "Fort Lauderdale",
+      "state": "FL",
+      "postal_code": "33309"
+    },
+    {
+      "street": "16150 Us Hwy 441",
+      "city": "Eustis",
+      "state": "FL",
+      "postal_code": "32726"
+    },
+    {
+      "street": "401 Se 1st Avenue",
+      "city": "Florida City",
+      "state": "FL",
+      "postal_code": "33034"
+    },
+    {
+      "street": "9340 Marketplace Rd",
+      "city": "Fort Myers",
+      "state": "FL",
+      "postal_code": "33912"
+    },
+    {
+      "street": "100 N. Kings Highway",
+      "city": "Fort Pierce",
+      "state": "FL",
+      "postal_code": "34945"
+    },
+    {
+      "street": "543 Eglin Parway Ne",
+      "city": "Fort Walton Beach",
+      "state": "FL",
+      "postal_code": "32547"
+    },
+    {
+      "street": "35649 US Hwy 27 North",
+      "city": "Haines City",
+      "state": "FL",
+      "postal_code": "33844"
+    },
+    {
+      "street": "1025 W Hallandale Bch Blvd",
+      "city": "Hallandale Beach",
+      "state": "FL",
+      "postal_code": "33009"
+    },
+    {
+      "street": "1000 W 49th St",
+      "city": "Hialeah",
+      "state": "FL",
+      "postal_code": "33012"
+    },
+    {
+      "street": "2541 N. 29th Avenue",
+      "city": "Hollywood",
+      "state": "FL",
+      "postal_code": "33021"
+    },
+    {
+      "street": "404 S. State Rd 7",
+      "city": "Hollywood",
+      "state": "FL",
+      "postal_code": "33023"
+    },
+    {
+      "street": "1071 Airport Road",
+      "city": "Jacksonville",
+      "state": "FL",
+      "postal_code": "32218"
+    },
+    {
+      "street": "10445 Atlantic Blvd",
+      "city": "Jacksonville",
+      "state": "FL",
+      "postal_code": "32225"
+    },
+    {
+      "street": "8409 Blanding Blvd.",
+      "city": "Jacksonville",
+      "state": "FL",
+      "postal_code": "32244"
+    },
+    {
+      "street": "2710 N Roosevelt Blvd",
+      "city": "Key West",
+      "state": "FL",
+      "postal_code": "33040"
+    },
+    {
+      "street": "7631 W Irlo Bronson Hwy",
+      "city": "Kissimmee",
+      "state": "FL",
+      "postal_code": "34747"
+    },
+    {
+      "street": "1515 E Osceola Parkway",
+      "city": "Kissimmee",
+      "state": "FL",
+      "postal_code": "34744"
+    },
+    {
+      "street": "2509 W. Vine Street",
+      "city": "Kissimmee",
+      "state": "FL",
+      "postal_code": "34741"
+    },
+    {
+      "street": "2051 E. Irlo Bronson Memorial Hwy",
+      "city": "Kissimmee",
+      "state": "FL",
+      "postal_code": "34744"
+    },
+    {
+      "street": "5855 W. Irlo Bronson",
+      "city": "Kissimmee",
+      "state": "FL",
+      "postal_code": "34746"
+    },
+    {
+      "street": "4783 W. Irlo Bronson Memorial Hwy",
+      "city": "Kissimmee",
+      "state": "FL",
+      "postal_code": "34746"
+    },
+    {
+      "street": "176 NW Centurion Court",
+      "city": "Lake City",
+      "state": "FL",
+      "postal_code": "32055"
+    },
+    {
+      "street": "4541 Hypoluxo Road",
+      "city": "Lake Worth",
+      "state": "FL",
+      "postal_code": "33463"
+    },
+    {
+      "street": "4530 W. New Haven",
+      "city": "Melbourne",
+      "state": "FL",
+      "postal_code": "32904"
+    },
+    {
+      "street": "3204 N. US Hwy 98",
+      "city": "Lakeland",
+      "state": "FL",
+      "postal_code": "33805"
+    },
+    {
+      "street": "4325 S Florida Ave",
+      "city": "Lakeland",
+      "state": "FL",
+      "postal_code": "33813"
+    },
+    {
+      "street": "650 N. State Road #7",
+      "city": "Margate",
+      "state": "FL",
+      "postal_code": "33063"
+    },
+    {
+      "street": "7411 NW 36th St",
+      "city": "Miami",
+      "state": "FL",
+      "postal_code": "33166"
+    },
+    {
+      "street": "3600 Biscayne Blvd",
+      "city": "Miami",
+      "state": "FL",
+      "postal_code": "33137"
+    },
+    {
+      "street": "12000 North Kendall Dr",
+      "city": "Miami",
+      "state": "FL",
+      "postal_code": "33196"
+    },
+    {
+      "street": "11350 NW 41st St",
+      "city": "Miami",
+      "state": "FL",
+      "postal_code": "33178"
+    },
+    {
+      "street": "5825 NW 36th St",
+      "city": "Miami",
+      "state": "FL",
+      "postal_code": "33166"
+    },
+    {
+      "street": "19313 So Dixie Hgwy",
+      "city": "Miami",
+      "state": "FL",
+      "postal_code": "33157"
+    },
+    {
+      "street": "8503 Sw 40th St",
+      "city": "Miami",
+      "state": "FL",
+      "postal_code": "33155"
+    },
+    {
+      "street": "3850 SW 137th Ave",
+      "city": "Miami",
+      "state": "FL",
+      "postal_code": "33175"
+    },
+    {
+      "street": "2480 Citrus Blvd",
+      "city": "Leesburg",
+      "state": "FL",
+      "postal_code": "34748"
+    },
+    {
+      "street": "1427 Washington Ave",
+      "city": "Miami Beach",
+      "state": "FL",
+      "postal_code": "33139"
+    },
+    {
+      "street": "19780 NW 27th Avenue",
+      "city": "Miami Gardens",
+      "state": "FL",
+      "postal_code": "33056"
+    },
+    {
+      "street": "18600 NW 67th Ave",
+      "city": "Miami Gardens",
+      "state": "FL",
+      "postal_code": "33015"
+    },
+    {
+      "street": "32670 Blue Star Hwy",
+      "city": "Midway",
+      "state": "FL",
+      "postal_code": "32343"
+    },
+    {
+      "street": "3871 Tamiami Trail E",
+      "city": "Naples",
+      "state": "FL",
+      "postal_code": "34112"
+    },
+    {
+      "street": "4442 US Hwy 19 S",
+      "city": "New Port Richey",
+      "state": "FL",
+      "postal_code": "34652"
+    },
+    {
+      "street": "1830 State Rd 44",
+      "city": "New Smyrna Beach",
+      "state": "FL",
+      "postal_code": "32168"
+    },
+    {
+      "street": "911 E Commercial Blvd",
+      "city": "Oakland Park",
+      "state": "FL",
+      "postal_code": "33334"
+    },
+    {
+      "street": "1450 Miami Gardens Dr Ne",
+      "city": "North Miami",
+      "state": "FL",
+      "postal_code": "33179"
+    },
+    {
+      "street": "12105 Biscayne Blvd",
+      "city": "North Miami",
+      "state": "FL",
+      "postal_code": "33181"
+    },
+    {
+      "street": "3801 West Silver Springs Blvd.",
+      "city": "Ocala",
+      "state": "FL",
+      "postal_code": "34482"
+    },
+    {
+      "street": "1012 Saxon Blvd",
+      "city": "Orange City",
+      "state": "FL",
+      "postal_code": "32763"
+    },
+    {
+      "street": "11261 W Colonial Dr",
+      "city": "Ocoee",
+      "state": "FL",
+      "postal_code": "34761"
+    },
+    {
+      "street": "110 Williamson Blvd",
+      "city": "Ormond Beach",
+      "state": "FL",
+      "postal_code": "32174"
+    },
+    {
+      "street": "5825 International",
+      "city": "Orlando",
+      "state": "FL",
+      "postal_code": "32819"
+    },
+    {
+      "street": "7660 International",
+      "city": "Orlando",
+      "state": "FL",
+      "postal_code": "32819"
+    },
+    {
+      "street": "8243 S John Young Pkwy",
+      "city": "Orlando",
+      "state": "FL",
+      "postal_code": "32819"
+    },
+    {
+      "street": "440 S Semoran Blvd",
+      "city": "Orlando",
+      "state": "FL",
+      "postal_code": "32807"
+    },
+    {
+      "street": "5725 T G Lee Boulevard",
+      "city": "Orlando",
+      "state": "FL",
+      "postal_code": "32822"
+    },
+    {
+      "street": "11037 International Dr",
+      "city": "Orlando",
+      "state": "FL",
+      "postal_code": "32821"
+    },
+    {
+      "street": "12375 St Rd 535",
+      "city": "Orlando",
+      "state": "FL",
+      "postal_code": "32836"
+    },
+    {
+      "street": "9880 International",
+      "city": "Orlando",
+      "state": "FL",
+      "postal_code": "32819"
+    },
+    {
+      "street": "8747 International",
+      "city": "Orlando",
+      "state": "FL",
+      "postal_code": "32819"
+    },
+    {
+      "street": "8076 S. Orange Ave.",
+      "city": "Orlando",
+      "state": "FL",
+      "postal_code": "32809"
+    },
+    {
+      "street": "11915 E Colonial Dr",
+      "city": "Orlando",
+      "state": "FL",
+      "postal_code": "32825"
+    },
+    {
+      "street": "840 Palm Bay Rd NE",
+      "city": "Palm Bay",
+      "state": "FL",
+      "postal_code": "32905"
+    },
+    {
+      "street": "3000 S Congress Ave",
+      "city": "Palm Springs",
+      "state": "FL",
+      "postal_code": "33461"
+    },
+    {
+      "street": "535 West Nine Mile Road",
+      "city": "Pensacola",
+      "state": "FL",
+      "postal_code": "32534"
+    },
+    {
+      "street": "7748 N. Davis Highway",
+      "city": "Pensacola",
+      "state": "FL",
+      "postal_code": "32514"
+    },
+    {
+      "street": "4625 Mobile Highway",
+      "city": "Pensacola",
+      "state": "FL",
+      "postal_code": "32506"
+    },
+    {
+      "street": "2438 Martin Luther King Blvd",
+      "city": "Panama City",
+      "state": "FL",
+      "postal_code": "32405"
+    },
+    {
+      "street": "10800 Pines Blvd. Suite #15",
+      "city": "Pembroke Pines",
+      "state": "FL",
+      "postal_code": "33026"
+    },
+    {
+      "street": "1290 N. University Dr.",
+      "city": "Pembroke Pines",
+      "state": "FL",
+      "postal_code": "33024"
+    },
+    {
+      "street": "2001 S Frontage Rd",
+      "city": "Plant City",
+      "state": "FL",
+      "postal_code": "33563"
+    },
+    {
+      "street": "12100 W. Sunrise Blvd",
+      "city": "Plantation",
+      "state": "FL",
+      "postal_code": "33323"
+    },
+    {
+      "street": "1727 North University Dr",
+      "city": "Plantation",
+      "state": "FL",
+      "postal_code": "33322"
+    },
+    {
+      "street": "10111 S Us 1",
+      "city": "Port Saint Lucie",
+      "state": "FL",
+      "postal_code": "34952"
+    },
+    {
+      "street": "1641 Dunlawton Ave",
+      "city": "Port Orange",
+      "state": "FL",
+      "postal_code": "32127"
+    },
+    {
+      "street": "4102 W. Blue Heron Blvd",
+      "city": "Riviera Beach",
+      "state": "FL",
+      "postal_code": "33404"
+    },
+    {
+      "street": "840 Cypress Parkway",
+      "city": "Poinciana",
+      "state": "FL",
+      "postal_code": "34759"
+    },
+    {
+      "street": "230 NW Peacock Blvd",
+      "city": "Port St. Lucie",
+      "state": "FL",
+      "postal_code": "34986"
+    },
+    {
+      "street": "3747 Sun City Center Blvd",
+      "city": "Ruskin",
+      "state": "FL",
+      "postal_code": "33573"
+    },
+    {
+      "street": "300 Civic Center Way",
+      "city": "Royal Palm Beach",
+      "state": "FL",
+      "postal_code": "33411"
+    },
+    {
+      "street": "1300 N Ponce De Leon Blvd",
+      "city": "Saint Augustine",
+      "state": "FL",
+      "postal_code": "32084"
+    },
+    {
+      "street": "29933 State Road 52",
+      "city": "San Antonio",
+      "state": "FL",
+      "postal_code": "33576"
+    },
+    {
+      "street": "4999 34th St North",
+      "city": "Saint Petersburg",
+      "state": "FL",
+      "postal_code": "33714"
+    },
+    {
+      "street": "3771 Orlando Dr",
+      "city": "Sanford",
+      "state": "FL",
+      "postal_code": "32773"
+    },
+    {
+      "street": "3701 Bee Ridge Rd",
+      "city": "Sarasota",
+      "state": "FL",
+      "postal_code": "34233"
+    },
+    {
+      "street": "4390 US Highway 27",
+      "city": "Sebring",
+      "state": "FL",
+      "postal_code": "33870"
+    },
+    {
+      "street": "1445 Wendy Court",
+      "city": "Spring Hill",
+      "state": "FL",
+      "postal_code": "34607"
+    },
+    {
+      "street": "950 State Road 206 West",
+      "city": "St. Augustine",
+      "state": "FL",
+      "postal_code": "32086"
+    },
+    {
+      "street": "2690 N Monroe St",
+      "city": "Tallahassee",
+      "state": "FL",
+      "postal_code": "32303"
+    },
+    {
+      "street": "5710 University Drive",
+      "city": "Tamarac",
+      "state": "FL",
+      "postal_code": "33321"
+    },
+    {
+      "street": "5603 E. Hillsborough",
+      "city": "Tampa",
+      "state": "FL",
+      "postal_code": "33610"
+    },
+    {
+      "street": "1700 E. Fowler Ave.",
+      "city": "Tampa",
+      "state": "FL",
+      "postal_code": "33612"
+    },
+    {
+      "street": "2004 N Dale Mabry Hwy",
+      "city": "Tampa",
+      "state": "FL",
+      "postal_code": "33607"
+    },
+    {
+      "street": "1577 Bella Cruz Dr",
+      "city": "The Villages",
+      "state": "FL",
+      "postal_code": "32159"
+    },
+    {
+      "street": "3500 Cheney Hwy",
+      "city": "Titusville",
+      "state": "FL",
+      "postal_code": "32780"
+    },
+    {
+      "street": "2705 Okeechobee Blvd",
+      "city": "West Palm Beach",
+      "state": "FL",
+      "postal_code": "33409"
+    },
+    {
+      "street": "894 Cypress Garden",
+      "city": "Winter Haven",
+      "state": "FL",
+      "postal_code": "33880"
+    }
+  ],
+  "arbys": [
+    {
+      "street": "3011 E Semoran Blvd",
+      "city": "Apopka",
+      "state": "FL",
+      "postal_code": "32703"
+    },
+    {
+      "street": "5 Us Highway 27",
+      "city": "Avon Park",
+      "state": "FL",
+      "postal_code": "33825"
+    },
+    {
+      "street": "1070 E Van Fleet Dr",
+      "city": "Bartow",
+      "state": "FL",
+      "postal_code": "33830"
+    },
+    {
+      "street": "9610 SR 64 E",
+      "city": "Bradenton",
+      "state": "FL",
+      "postal_code": "34212"
+    },
+    {
+      "street": "3608 1st St W",
+      "city": "Bradenton",
+      "state": "FL",
+      "postal_code": "34208"
+    },
+    {
+      "street": "12915 Cortez Blvd",
+      "city": "Brooksville",
+      "state": "FL",
+      "postal_code": "34613"
+    },
+    {
+      "street": "2615 West C-48",
+      "city": "Bushnell",
+      "state": "FL",
+      "postal_code": "33513"
+    },
+    {
+      "street": "141 Tyndall Pkwy",
+      "city": "Callaway",
+      "state": "FL",
+      "postal_code": "32404"
+    },
+    {
+      "street": "1494 Highway 29 S.",
+      "city": "Cantonment",
+      "state": "FL",
+      "postal_code": "32533"
+    },
+    {
+      "street": "47 Hancock Bridge Pkwy",
+      "city": "Cape Coral",
+      "state": "FL",
+      "postal_code": "33991"
+    },
+    {
+      "street": "1463 E Semoran Blvd",
+      "city": "Casselberry",
+      "state": "FL",
+      "postal_code": "32707"
+    },
+    {
+      "street": "1600 Main Street",
+      "city": "Chipley",
+      "state": "FL",
+      "postal_code": "32428"
+    },
+    {
+      "street": "1920 Gulf-To-Bay Blvd",
+      "city": "Clearwater",
+      "state": "FL",
+      "postal_code": "33765"
+    },
+    {
+      "street": "30263 Us Hwy 19 N",
+      "city": "Clearwater",
+      "state": "FL",
+      "postal_code": "33761"
+    },
+    {
+      "street": "2255 Us Hwy 27",
+      "city": "Clermont",
+      "state": "FL",
+      "postal_code": "34711"
+    },
+    {
+      "street": "614 Cagan View Rd",
+      "city": "Clermont",
+      "state": "FL",
+      "postal_code": "34714"
+    },
+    {
+      "street": "4697 N State Rd 7",
+      "city": "Coral Springs",
+      "state": "FL",
+      "postal_code": "33067"
+    },
+    {
+      "street": "590 University Dr",
+      "city": "Coral Springs",
+      "state": "FL",
+      "postal_code": "33071"
+    },
+    {
+      "street": "3900 S Ferdon Blvd",
+      "city": "Crestview",
+      "state": "FL",
+      "postal_code": "32536"
+    },
+    {
+      "street": "490 N. Suncoast Blvd.",
+      "city": "Crystal River",
+      "state": "FL",
+      "postal_code": "34429"
+    },
+    {
+      "street": "20203 S Dixie Hwy",
+      "city": "Cutler Bay",
+      "state": "FL",
+      "postal_code": "33189"
+    },
+    {
+      "street": "45000 Hwy 27",
+      "city": "Davenport",
+      "state": "FL",
+      "postal_code": "33837"
+    },
+    {
+      "street": "1562 Outlet Blvd",
+      "city": "Daytona Beach",
+      "state": "FL",
+      "postal_code": "32117"
+    },
+    {
+      "street": "1800 S Ridgewood Ave",
+      "city": "Daytona Beach",
+      "state": "FL",
+      "postal_code": "32119"
+    },
+    {
+      "street": "2453 W. International Speedway Blvd.",
+      "city": "Daytona Beach",
+      "state": "FL",
+      "postal_code": "32114"
+    },
+    {
+      "street": "1176 Freeport Hwy S",
+      "city": "De Funiak Springs",
+      "state": "FL",
+      "postal_code": "32435"
+    },
+    {
+      "street": "1438 N Woodland Blvd",
+      "city": "De Land",
+      "state": "FL",
+      "postal_code": "32720"
+    },
+    {
+      "street": "280 Linton Boulevard",
+      "city": "Delray Beach",
+      "state": "FL",
+      "postal_code": "33444"
+    },
+    {
+      "street": "4600 Opa-Locka Lane",
+      "city": "Destin",
+      "state": "FL",
+      "postal_code": "32541"
+    },
+    {
+      "street": "9975 Corkscrew Rd",
+      "city": "Estero",
+      "state": "FL",
+      "postal_code": "33928"
+    },
+    {
+      "street": "16005 US Highway 441 EUSTIS PLAZA",
+      "city": "Eustis",
+      "state": "FL",
+      "postal_code": "32726"
+    },
+    {
+      "street": "1720 E Sunrise Blvd",
+      "city": "Fort Lauderdale",
+      "state": "FL",
+      "postal_code": "33304"
+    },
+    {
+      "street": "924 Nw 62nd St",
+      "city": "Fort Lauderdale",
+      "state": "FL",
+      "postal_code": "33309"
+    },
+    {
+      "street": "16461 Corporate Commerce Way",
+      "city": "Fort Myers",
+      "state": "FL",
+      "postal_code": "33913"
+    },
+    {
+      "street": "9290 Daniels Pkwy",
+      "city": "Fort Myers",
+      "state": "FL",
+      "postal_code": "33912"
+    },
+    {
+      "street": "13050 N Cleveland Ave",
+      "city": "Fort Myers",
+      "state": "FL",
+      "postal_code": "33903"
+    },
+    {
+      "street": "12126 S Cleveland Ave",
+      "city": "Fort Myers",
+      "state": "FL",
+      "postal_code": "33907"
+    },
+    {
+      "street": "7150 Okeechobee Rd",
+      "city": "Fort Pierce",
+      "state": "FL",
+      "postal_code": "34945"
+    },
+    {
+      "street": "236 Eglin Pkwy NE",
+      "city": "Fort Walton Beach",
+      "state": "FL",
+      "postal_code": "32547"
+    },
+    {
+      "street": "4253 Nw 25th Place",
+      "city": "Gainesville",
+      "state": "FL",
+      "postal_code": "32606"
+    },
+    {
+      "street": "3960 Southwest Archer Road",
+      "city": "Gainesville",
+      "state": "FL",
+      "postal_code": "32608"
+    },
+    {
+      "street": "1405 Sw 13th St",
+      "city": "Gainesville",
+      "state": "FL",
+      "postal_code": "32608"
+    },
+    {
+      "street": "6760 West Newberry Road",
+      "city": "Gainesville",
+      "state": "FL",
+      "postal_code": "32605"
+    },
+    {
+      "street": "3332 Gulf Breeze Pkwy",
+      "city": "Gulf Breeze",
+      "state": "FL",
+      "postal_code": "32563"
+    },
+    {
+      "street": "35985 US Hwy 27N",
+      "city": "Haines City",
+      "state": "FL",
+      "postal_code": "33844"
+    },
+    {
+      "street": "11190 Beach Blvd",
+      "city": "Jacksonville",
+      "state": "FL",
+      "postal_code": "32246"
+    },
+    {
+      "street": "13696 Beach Blvd.",
+      "city": "Jacksonville",
+      "state": "FL",
+      "postal_code": "32224"
+    },
+    {
+      "street": "5660 Beach Blvd",
+      "city": "Jacksonville",
+      "state": "FL",
+      "postal_code": "32207"
+    },
+    {
+      "street": "626 Airport Center Drive",
+      "city": "Jacksonville",
+      "state": "FL",
+      "postal_code": "32218"
+    },
+    {
+      "street": "1033 Dunn Ave",
+      "city": "Jacksonville",
+      "state": "FL",
+      "postal_code": "32218"
+    },
+    {
+      "street": "1024 Us Highway 301 S",
+      "city": "Jacksonville",
+      "state": "FL",
+      "postal_code": "32234"
+    },
+    {
+      "street": "2501 Mayport Rd",
+      "city": "Jacksonville",
+      "state": "FL",
+      "postal_code": "32233"
+    },
+    {
+      "street": "7612 Merrill Rd.",
+      "city": "Jacksonville",
+      "state": "FL",
+      "postal_code": "32277"
+    },
+    {
+      "street": "10160 Phillips Hwy",
+      "city": "Jacksonville",
+      "state": "FL",
+      "postal_code": "32256"
+    },
+    {
+      "street": "10206 River Marsh Dr",
+      "city": "Jacksonville",
+      "state": "FL",
+      "postal_code": "32246"
+    },
+    {
+      "street": "10477 San Jose Blvd",
+      "city": "Jacksonville",
+      "state": "FL",
+      "postal_code": "32257"
+    },
+    {
+      "street": "11459 Southwest 61 Way",
+      "city": "Jasper",
+      "state": "FL",
+      "postal_code": "32052"
+    },
+    {
+      "street": "101377 Overseas Hwy MILE MARKER 101.4",
+      "city": "Key Largo",
+      "state": "FL",
+      "postal_code": "33037"
+    },
+    {
+      "street": "7609 Irlo Bronson Memorial Hwy",
+      "city": "Kissimmee",
+      "state": "FL",
+      "postal_code": "34747"
+    },
+    {
+      "street": "219 W Vine St",
+      "city": "Kissimmee",
+      "state": "FL",
+      "postal_code": "34741"
+    },
+    {
+      "street": "3289 W Us Highway 90",
+      "city": "Lake City",
+      "state": "FL",
+      "postal_code": "32055"
+    },
+    {
+      "street": "4620 W Lake Mary Blvd",
+      "city": "Lake Mary",
+      "state": "FL",
+      "postal_code": "32746"
+    },
+    {
+      "street": "3784 N Rd 98",
+      "city": "Lakeland",
+      "state": "FL",
+      "postal_code": "33809"
+    },
+    {
+      "street": "3524 Lakeland Highlands Road",
+      "city": "Lakeland",
+      "state": "FL",
+      "postal_code": "33803"
+    },
+    {
+      "street": "803 E Memorial Blvd",
+      "city": "Lakeland",
+      "state": "FL",
+      "postal_code": "33801"
+    },
+    {
+      "street": "5200 S. Jefferson St",
+      "city": "Lamont",
+      "state": "FL",
+      "postal_code": "32336"
+    },
+    {
+      "street": "12260 Seminole Blvd",
+      "city": "Largo",
+      "state": "FL",
+      "postal_code": "33778"
+    },
+    {
+      "street": "6640 Ulmerton Rd",
+      "city": "Largo",
+      "state": "FL",
+      "postal_code": "33771"
+    },
+    {
+      "street": "3204 Se County Rd 255",
+      "city": "Lee",
+      "state": "FL",
+      "postal_code": "32059"
+    },
+    {
+      "street": "10601 Us-441",
+      "city": "Leesburg",
+      "state": "FL",
+      "postal_code": "34788"
+    },
+    {
+      "street": "1240 Homestead Rd North",
+      "city": "Lehigh Acres",
+      "state": "FL",
+      "postal_code": "33936"
+    },
+    {
+      "street": "3780 N Federal Hwy IMPERIAL SHOP CTR",
+      "city": "Lighthouse Point",
+      "state": "FL",
+      "postal_code": "33064"
+    },
+    {
+      "street": "3907 Sw State Rd 14",
+      "city": "Madison",
+      "state": "FL",
+      "postal_code": "32340"
+    },
+    {
+      "street": "1400 Hwy 98 W",
+      "city": "Mary Esther",
+      "state": "FL",
+      "postal_code": "32569"
+    },
+    {
+      "street": "4705 N. Wickham Road",
+      "city": "Melbourne",
+      "state": "FL",
+      "postal_code": "32935"
+    },
+    {
+      "street": "920 N Courtenay Pkwy",
+      "city": "Merritt Island",
+      "state": "FL",
+      "postal_code": "32953"
+    },
+    {
+      "street": "11500 Sw 72nd St",
+      "city": "Miami",
+      "state": "FL",
+      "postal_code": "33173"
+    },
+    {
+      "street": "6760 Sw 8th St",
+      "city": "Miami",
+      "state": "FL",
+      "postal_code": "33144"
+    },
+    {
+      "street": "3840 Garcon Point Rd.",
+      "city": "Milton",
+      "state": "FL",
+      "postal_code": "32583"
+    },
+    {
+      "street": "6674 Caroline St",
+      "city": "Milton",
+      "state": "FL",
+      "postal_code": "32570"
+    },
+    {
+      "street": "23073 North Us Hwy 27",
+      "city": "Moore Haven",
+      "state": "FL",
+      "postal_code": "33471"
+    },
+    {
+      "street": "2436 Pine Ridge Rd",
+      "city": "Naples",
+      "state": "FL",
+      "postal_code": "34109"
+    },
+    {
+      "street": "8301 Little Rd",
+      "city": "New Port Richey",
+      "state": "FL",
+      "postal_code": "34654"
+    },
+    {
+      "street": "7125 State Road 54",
+      "city": "New Port Richey",
+      "state": "FL",
+      "postal_code": "34653"
+    },
+    {
+      "street": "1486 Ne 163rd St",
+      "city": "North Miami Beach",
+      "state": "FL",
+      "postal_code": "33162"
+    },
+    {
+      "street": "2150 N.E. 49th Court Rd",
+      "city": "Ocala",
+      "state": "FL",
+      "postal_code": "34470"
+    },
+    {
+      "street": "2811 Sw College Rd",
+      "city": "Ocala",
+      "state": "FL",
+      "postal_code": "34474"
+    },
+    {
+      "street": "11193 W Colonial Dr",
+      "city": "Ocoee",
+      "state": "FL",
+      "postal_code": "34761"
+    },
+    {
+      "street": "417 S Parrott Ave",
+      "city": "Okeechobee",
+      "state": "FL",
+      "postal_code": "34974"
+    },
+    {
+      "street": "2495 Enterprise Rd",
+      "city": "Orange City",
+      "state": "FL",
+      "postal_code": "32763"
+    },
+    {
+      "street": "896 Blanding Blvd",
+      "city": "Orange Park",
+      "state": "FL",
+      "postal_code": "32065"
+    },
+    {
+      "street": "1691 Wells Rd",
+      "city": "Orange Park",
+      "state": "FL",
+      "postal_code": "32073"
+    },
+    {
+      "street": "4025 E Colonial Dr",
+      "city": "Orlando",
+      "state": "FL",
+      "postal_code": "32803"
+    },
+    {
+      "street": "13805 Landstar Blvd",
+      "city": "Orlando",
+      "state": "FL",
+      "postal_code": "32824"
+    },
+    {
+      "street": "8132 Lee Vista Blvd Suite A",
+      "city": "Orlando",
+      "state": "FL",
+      "postal_code": "32829"
+    },
+    {
+      "street": "12835 Narcoossee Road",
+      "city": "Orlando",
+      "state": "FL",
+      "postal_code": "32832"
+    },
+    {
+      "street": "1174 S. Kirkman Rd.",
+      "city": "Orlando",
+      "state": "FL",
+      "postal_code": "32835"
+    },
+    {
+      "street": "2600 S Orange Ave",
+      "city": "Orlando",
+      "state": "FL",
+      "postal_code": "32806"
+    },
+    {
+      "street": "11891 University Blvd Suite 140",
+      "city": "Orlando",
+      "state": "FL",
+      "postal_code": "32817"
+    },
+    {
+      "street": "1657 Us Highway 1",
+      "city": "Ormond Beach",
+      "state": "FL",
+      "postal_code": "32174"
+    },
+    {
+      "street": "380 W. Granada Blvd.",
+      "city": "Ormond Beach",
+      "state": "FL",
+      "postal_code": "32174"
+    },
+    {
+      "street": "951 Lockwood Blvd. SUITE 1201",
+      "city": "Oviedo",
+      "state": "FL",
+      "postal_code": "32765"
+    },
+    {
+      "street": "748 Palm Bay Rd NE",
+      "city": "Palm Bay",
+      "state": "FL",
+      "postal_code": "32905"
+    },
+    {
+      "street": "1156 Malabar Rd SE",
+      "city": "Palm Bay",
+      "state": "FL",
+      "postal_code": "32907"
+    },
+    {
+      "street": "3802 Northlake Blvd",
+      "city": "Palm Beach Gardens",
+      "state": "FL",
+      "postal_code": "33410"
+    },
+    {
+      "street": "803 10th St. E",
+      "city": "Palmetto",
+      "state": "FL",
+      "postal_code": "34221"
+    },
+    {
+      "street": "1877 N Cove Blvd",
+      "city": "Panama City",
+      "state": "FL",
+      "postal_code": "32405"
+    },
+    {
+      "street": "11507 US-301 N",
+      "city": "Parrish",
+      "state": "FL",
+      "postal_code": "34219"
+    },
+    {
+      "street": "11755 Pines Blvd",
+      "city": "Pembroke Pines",
+      "state": "FL",
+      "postal_code": "33026"
+    },
+    {
+      "street": "18 E Nine Mile Rd",
+      "city": "Pensacola",
+      "state": "FL",
+      "postal_code": "32534"
+    },
+    {
+      "street": "5500 Mobile Hwy",
+      "city": "Pensacola",
+      "state": "FL",
+      "postal_code": "32526"
+    },
+    {
+      "street": "8096 N Davis Hwy",
+      "city": "Pensacola",
+      "state": "FL",
+      "postal_code": "32514"
+    },
+    {
+      "street": "9001 W Highway 98",
+      "city": "Pensacola",
+      "state": "FL",
+      "postal_code": "32506"
+    },
+    {
+      "street": "1909 Frontage Rd",
+      "city": "Plant City",
+      "state": "FL",
+      "postal_code": "33563"
+    },
+    {
+      "street": "1800 State Road 559",
+      "city": "Polk City",
+      "state": "FL",
+      "postal_code": "33868"
+    },
+    {
+      "street": "395 Kings Hwy",
+      "city": "Port Charlotte",
+      "state": "FL",
+      "postal_code": "33983"
+    },
+    {
+      "street": "1380 Tamiami Trail",
+      "city": "Port Charlotte",
+      "state": "FL",
+      "postal_code": "33948"
+    },
+    {
+      "street": "1058 Dunlawton Ave",
+      "city": "Port Orange",
+      "state": "FL",
+      "postal_code": "32127"
+    },
+    {
+      "street": "10442 U S Hwy 19",
+      "city": "Port Richey",
+      "state": "FL",
+      "postal_code": "34668"
+    },
+    {
+      "street": "1621 Nw St. Lucie West Blvd.",
+      "city": "Port St. Lucie",
+      "state": "FL",
+      "postal_code": "34986"
+    },
+    {
+      "street": "10055 S Federal Hwy",
+      "city": "Port St. Lucie",
+      "state": "FL",
+      "postal_code": "34952"
+    },
+    {
+      "street": "10059 S Us Hwy 301",
+      "city": "Riverview",
+      "state": "FL",
+      "postal_code": "33578"
+    },
+    {
+      "street": "1050 Us Hwy 1",
+      "city": "Rockledge",
+      "state": "FL",
+      "postal_code": "32955"
+    },
+    {
+      "street": "9970 Belvedere Rd",
+      "city": "Royal Palm Beach",
+      "state": "FL",
+      "postal_code": "33411"
+    },
+    {
+      "street": "3725 Orlando Blvd",
+      "city": "Sanford",
+      "state": "FL",
+      "postal_code": "32773"
+    },
+    {
+      "street": "5980 Cattleridge Blvd",
+      "city": "Sarasota",
+      "state": "FL",
+      "postal_code": "34232"
+    },
+    {
+      "street": "3440 Us Hwy 27 S",
+      "city": "Sebring",
+      "state": "FL",
+      "postal_code": "33870"
+    },
+    {
+      "street": "11706 Tampa Gateway Blvd",
+      "city": "Seffner",
+      "state": "FL",
+      "postal_code": "33584"
+    },
+    {
+      "street": "1135 Commercial Way",
+      "city": "Spring Hill",
+      "state": "FL",
+      "postal_code": "34606"
+    },
+    {
+      "street": "708 E Geoffrey St",
+      "city": "St. Augustine",
+      "state": "FL",
+      "postal_code": "32086"
+    },
+    {
+      "street": "34TH ST N & 5th ave N",
+      "city": "St. Petersburg",
+      "state": "FL",
+      "postal_code": "33713"
+    },
+    {
+      "street": "4TH ST N & 96TH AVE N",
+      "city": "St. Petersburg",
+      "state": "FL",
+      "postal_code": "33702"
+    },
+    {
+      "street": "433 South Temple Ave.",
+      "city": "Starke",
+      "state": "FL",
+      "postal_code": "32091"
+    },
+    {
+      "street": "3330 Se Federal Hwy",
+      "city": "Stuart",
+      "state": "FL",
+      "postal_code": "34997"
+    },
+    {
+      "street": "12901 W Sunrise Blvd",
+      "city": "Sunrise",
+      "state": "FL",
+      "postal_code": "33323"
+    },
+    {
+      "street": "2258 N Monroe St",
+      "city": "Tallahassee",
+      "state": "FL",
+      "postal_code": "32303"
+    },
+    {
+      "street": "2230 E Fletcher Ave",
+      "city": "Tampa",
+      "state": "FL",
+      "postal_code": "33612"
+    },
+    {
+      "street": "5818 E Hillsborough Ave",
+      "city": "Tampa",
+      "state": "FL",
+      "postal_code": "33610"
+    },
+    {
+      "street": "40972 Us Hwy 19 N",
+      "city": "Tarpon Springs",
+      "state": "FL",
+      "postal_code": "34689"
+    },
+    {
+      "street": "4130 Wedgewood Ln",
+      "city": "The Villages",
+      "state": "FL",
+      "postal_code": "32162"
+    },
+    {
+      "street": "3620 S Washington",
+      "city": "Titusville",
+      "state": "FL",
+      "postal_code": "32780"
+    },
+    {
+      "street": "3370 Sr 60 East",
+      "city": "Valrico",
+      "state": "FL",
+      "postal_code": "33594"
+    },
+    {
+      "street": "19411 Times Circle",
+      "city": "Venice",
+      "state": "FL",
+      "postal_code": "34292"
+    },
+    {
+      "street": "430 Us Hwy 41 Bypass",
+      "city": "Venice",
+      "state": "FL",
+      "postal_code": "34292"
+    },
+    {
+      "street": "1605 S Us Hwy 1",
+      "city": "Vero Beach",
+      "state": "FL",
+      "postal_code": "32960"
+    },
+    {
+      "street": "1009 Bruce B Downs Blvd",
+      "city": "Wesley Chapel",
+      "state": "FL",
+      "postal_code": "33544"
+    },
+    {
+      "street": "2300 W New Haven Ave",
+      "city": "West Melbourne",
+      "state": "FL",
+      "postal_code": "32904"
+    },
+    {
+      "street": "4275 Okeechobee Blvd.",
+      "city": "West Palm Beach",
+      "state": "FL",
+      "postal_code": "33409"
+    },
+    {
+      "street": "4922 CR 466 A",
+      "city": "Wildwood",
+      "state": "FL",
+      "postal_code": "34785"
+    },
+    {
+      "street": "3331 Daniels Road",
+      "city": "Winter Garden",
+      "state": "FL",
+      "postal_code": "34787"
+    },
+    {
+      "street": "3RD STREET NW & POST AVENUE SW",
+      "city": "Winter Haven",
+      "state": "FL",
+      "postal_code": "33880"
+    },
+    {
+      "street": "1305 Tuskawilla Rd",
+      "city": "Winter Springs",
+      "state": "FL",
+      "postal_code": "32708"
+    },
+    {
+      "street": "463795 E State Rd 200",
+      "city": "Yulee",
+      "state": "FL",
+      "postal_code": "32097"
+    },
+    {
+      "street": "7446 Gall Blvd TOWNVIEW SHOPPING CENTER",
+      "city": "Zephyrhills",
+      "state": "FL",
+      "postal_code": "33541"
+    }
+  ],
+  "pollo_tropical": [
+    {
+      "street": "2499 N Federal Highway",
+      "city": "Boca Raton",
+      "state": "FL",
+      "postal_code": ""
+    },
+    {
+      "street": "489 FL-436",
+      "city": "Altamonte Springs",
+      "state": "FL",
+      "postal_code": ""
+    },
+    {
+      "street": "1652 NE Pine Island Rd",
+      "city": "Cape Coral",
+      "state": "FL",
+      "postal_code": ""
+    },
+    {
+      "street": "4713 Flamingo Road",
+      "city": "Cooper City",
+      "state": "FL",
+      "postal_code": ""
+    },
+    {
+      "street": "20403 Biscayne Blvd",
+      "city": "Aventura",
+      "state": "FL",
+      "postal_code": ""
+    },
+    {
+      "street": "828 Providence Rd",
+      "city": "Brandon",
+      "state": "FL",
+      "postal_code": ""
+    },
+    {
+      "street": "2390 S. University Drive",
+      "city": "Davie",
+      "state": "FL",
+      "postal_code": ""
+    },
+    {
+      "street": "5780 S. University Dr",
+      "city": "Davie",
+      "state": "FL",
+      "postal_code": ""
+    },
+    {
+      "street": "2298 Congress Avenue",
+      "city": "Boynton Beach",
+      "state": "FL",
+      "postal_code": ""
+    },
+    {
+      "street": "800 University Drive",
+      "city": "Coral Springs",
+      "state": "FL",
+      "postal_code": ""
+    },
+    {
+      "street": "5720 Wiles Road",
+      "city": "Coral Springs",
+      "state": "FL",
+      "postal_code": ""
+    },
+    {
+      "street": "5450 Univ Dr",
+      "city": "Coral Springs",
+      "state": "FL",
+      "postal_code": ""
+    },
+    {
+      "street": "1446 W. International Speedway Blvd.",
+      "city": "Daytona Beach",
+      "state": "FL",
+      "postal_code": ""
+    },
+    {
+      "street": "1051 S. Military Trail",
+      "city": "Deerfield Beach",
+      "state": "FL",
+      "postal_code": ""
+    },
+    {
+      "street": "950 Linton Blvd.",
+      "city": "Delray Beach",
+      "state": "FL",
+      "postal_code": ""
+    },
+    {
+      "street": "14683 S. Military Trail",
+      "city": "Delray Beach",
+      "state": "FL",
+      "postal_code": ""
+    },
+    {
+      "street": "404 SE 1st Avenue",
+      "city": "Florida City",
+      "state": "FL",
+      "postal_code": ""
+    },
+    {
+      "street": "601 W Hallandale Beach Blvd",
+      "city": "Hallandale Beach",
+      "state": "FL",
+      "postal_code": ""
+    },
+    {
+      "street": "6704 Fores Hill Blvd",
+      "city": "Greenacres",
+      "state": "FL",
+      "postal_code": ""
+    },
+    {
+      "street": "17804 Ben Hill Griffin Parkway",
+      "city": "Ft. Myers",
+      "state": "FL",
+      "postal_code": ""
+    },
+    {
+      "street": "12611 S. Cleveland Avenue",
+      "city": "Ft. Myers",
+      "state": "FL",
+      "postal_code": ""
+    },
+    {
+      "street": "8051 Dani Drive",
+      "city": "Ft. Myers",
+      "state": "FL",
+      "postal_code": ""
+    },
+    {
+      "street": "5549 Sheridan Street",
+      "city": "Hollywood",
+      "state": "FL",
+      "postal_code": ""
+    },
+    {
+      "street": "1780 Sheridan St",
+      "city": "Hollywood",
+      "state": "FL",
+      "postal_code": ""
+    },
+    {
+      "street": "311 S. State Road 7",
+      "city": "Hollywood",
+      "state": "FL",
+      "postal_code": ""
+    },
+    {
+      "street": "3051 W. Commercial Blvd.",
+      "city": "Fort Lauderdale",
+      "state": "FL",
+      "postal_code": ""
+    },
+    {
+      "street": "12961 W. Sunrise Blvd.",
+      "city": "Ft. Lauderdale",
+      "state": "FL",
+      "postal_code": ""
+    },
+    {
+      "street": "1819 S. Federal Hwy.",
+      "city": "Ft. Lauderdale",
+      "state": "FL",
+      "postal_code": ""
+    },
+    {
+      "street": "3051 W. Commercial Blvd.",
+      "city": "Ft. Lauderdale",
+      "state": "FL",
+      "postal_code": ""
+    },
+    {
+      "street": "5554 Federal Highway",
+      "city": "Ft. Lauderdale",
+      "state": "FL",
+      "postal_code": ""
+    },
+    {
+      "street": "2490 W. 60th Street",
+      "city": "Hialeah",
+      "state": "FL",
+      "postal_code": ""
+    },
+    {
+      "street": "1592 W. 49 Street",
+      "city": "Hialeah",
+      "state": "FL",
+      "postal_code": ""
+    },
+    {
+      "street": "7845 W. Hialeah Gardens Blvd.",
+      "city": "Hialeah",
+      "state": "FL",
+      "postal_code": ""
+    },
+    {
+      "street": "825 E. 49 Street",
+      "city": "Hialeah",
+      "state": "FL",
+      "postal_code": ""
+    },
+    {
+      "street": "7401 West 4 Avenue",
+      "city": "Hialeah",
+      "state": "FL",
+      "postal_code": ""
+    },
+    {
+      "street": "985 N. Homestead Blvd.",
+      "city": "Homestead",
+      "state": "FL",
+      "postal_code": ""
+    },
+    {
+      "street": "3094 NE 41st Place",
+      "city": "Homestead",
+      "state": "FL",
+      "postal_code": ""
+    },
+    {
+      "street": "23200 S.W. 112 Court",
+      "city": "Homestead",
+      "state": "FL",
+      "postal_code": ""
+    },
+    {
+      "street": "1550 Indian Town Rd.",
+      "city": "Jupiter",
+      "state": "FL",
+      "postal_code": ""
+    },
+    {
+      "street": "1454 Alton Road",
+      "city": "Miami Beach",
+      "state": "FL",
+      "postal_code": ""
+    },
+    {
+      "street": "3801 W. Vine Street",
+      "city": "Kissimmee",
+      "state": "FL",
+      "postal_code": ""
+    },
+    {
+      "street": "1985 East Osceola Parkway",
+      "city": "Kissimmee",
+      "state": "FL",
+      "postal_code": ""
+    },
+    {
+      "street": "7901 W. Irlo Bronson Memorial Hwy",
+      "city": "Kissimmee",
+      "state": "FL",
+      "postal_code": ""
+    },
+    {
+      "street": "775 Osceola Parkway",
+      "city": "Kissimmee",
+      "state": "FL",
+      "postal_code": ""
+    },
+    {
+      "street": "4331 Lake Worth Road",
+      "city": "Lake Worth",
+      "state": "FL",
+      "postal_code": ""
+    },
+    {
+      "street": "6195 South Jog Road",
+      "city": "Lake Worth",
+      "state": "FL",
+      "postal_code": ""
+    },
+    {
+      "street": "5757 W. Oakland Park Blvd.",
+      "city": "Laurdehill",
+      "state": "FL",
+      "postal_code": ""
+    },
+    {
+      "street": "19700 NW 27th Ave",
+      "city": "Miami Gardens",
+      "state": "FL",
+      "postal_code": ""
+    },
+    {
+      "street": "5425 W Atlantic Blvd",
+      "city": "Margate",
+      "state": "FL",
+      "postal_code": ""
+    },
+    {
+      "street": "16495 N. W. 67th Avenue",
+      "city": "Miami",
+      "state": "FL",
+      "postal_code": ""
+    },
+    {
+      "street": "8700 Bird Road",
+      "city": "Miami",
+      "state": "FL",
+      "postal_code": ""
+    },
+    {
+      "street": "11521 N. Kendall Drive",
+      "city": "Miami",
+      "state": "FL",
+      "postal_code": ""
+    },
+    {
+      "street": "9520 S. W. 137th Avenue",
+      "city": "Miami",
+      "state": "FL",
+      "postal_code": ""
+    },
+    {
+      "street": "2350 Douglas Road",
+      "city": "Miami",
+      "state": "FL",
+      "postal_code": ""
+    },
+    {
+      "street": "2710 S. Dixie Hwy",
+      "city": "Miami",
+      "state": "FL",
+      "postal_code": ""
+    },
+    {
+      "street": "581 N. W. 57th Avenue",
+      "city": "Miami",
+      "state": "FL",
+      "postal_code": ""
+    },
+    {
+      "street": "4211 N. W. 36th Street",
+      "city": "Miami",
+      "state": "FL",
+      "postal_code": ""
+    },
+    {
+      "street": "8975 S. Dixie Highway",
+      "city": "Miami",
+      "state": "FL",
+      "postal_code": ""
+    },
+    {
+      "street": "741 N. W. 37th Avenue",
+      "city": "Miami",
+      "state": "FL",
+      "postal_code": ""
+    },
+    {
+      "street": "13998 S. W. 56th Street",
+      "city": "Miami",
+      "state": "FL",
+      "postal_code": ""
+    },
+    {
+      "street": "1277 SW 8th Street",
+      "city": "Miami",
+      "state": "FL",
+      "postal_code": ""
+    },
+    {
+      "street": "14150 SW 8th St, Miami FL",
+      "city": "Miami",
+      "state": "FL",
+      "postal_code": ""
+    },
+    {
+      "street": "8200 NW 27th Avenue",
+      "city": "Miami",
+      "state": "FL",
+      "postal_code": ""
+    },
+    {
+      "street": "7501 Biscayne Boulevard",
+      "city": "Miami",
+      "state": "FL",
+      "postal_code": ""
+    },
+    {
+      "street": "11670 S. W. 152nd Street",
+      "city": "Miami",
+      "state": "FL",
+      "postal_code": ""
+    },
+    {
+      "street": "10575 N. W. 41 Street",
+      "city": "Miami",
+      "state": "FL",
+      "postal_code": ""
+    },
+    {
+      "street": "11875 S.W. 26 St",
+      "city": "Miami",
+      "state": "FL",
+      "postal_code": ""
+    },
+    {
+      "street": "7090 Coral Way",
+      "city": "Miami",
+      "state": "FL",
+      "postal_code": ""
+    },
+    {
+      "street": "3499 Biscayne Blvd.",
+      "city": "Miami",
+      "state": "FL",
+      "postal_code": ""
+    },
+    {
+      "street": "1555 N. W. 87 Avenue",
+      "city": "Miami",
+      "state": "FL",
+      "postal_code": ""
+    },
+    {
+      "street": "18390 SW 137th Ave",
+      "city": "Miami",
+      "state": "FL",
+      "postal_code": ""
+    },
+    {
+      "street": "16201 S.W. 88 Street",
+      "city": "Miami",
+      "state": "FL",
+      "postal_code": ""
+    },
+    {
+      "street": "7210 NW 36th Street",
+      "city": "Miami",
+      "state": "FL",
+      "postal_code": ""
+    },
+    {
+      "street": "10705 West Flagler Street",
+      "city": "Miami",
+      "state": "FL",
+      "postal_code": ""
+    },
+    {
+      "street": "18710 S. Dixie Highway",
+      "city": "Miami",
+      "state": "FL",
+      "postal_code": ""
+    },
+    {
+      "street": "3061 Northlake Blvd.",
+      "city": "Lake Park",
+      "state": "FL",
+      "postal_code": ""
+    },
+    {
+      "street": "16495 N. W. 67th Avenue",
+      "city": "Miami Lakes",
+      "state": "FL",
+      "postal_code": ""
+    },
+    {
+      "street": "4211 N. W. 36th Street",
+      "city": "Miami Springs",
+      "state": "FL",
+      "postal_code": ""
+    },
+    {
+      "street": "14880 S. W. 31 Street",
+      "city": "Miramar",
+      "state": "FL",
+      "postal_code": ""
+    },
+    {
+      "street": "16951 Miramar Pkwy",
+      "city": "Miramar",
+      "state": "FL",
+      "postal_code": ""
+    },
+    {
+      "street": "11806 Biscayne Blvd.",
+      "city": "N Miami",
+      "state": "FL",
+      "postal_code": ""
+    },
+    {
+      "street": "12000 NW 7th Ave.",
+      "city": "N Miami",
+      "state": "FL",
+      "postal_code": ""
+    },
+    {
+      "street": "1785 N. E. 163rd Street",
+      "city": "N. Miami Beach",
+      "state": "FL",
+      "postal_code": ""
+    },
+    {
+      "street": "2011 E. Oakland Park Blvd.",
+      "city": "Oakland Park",
+      "state": "FL",
+      "postal_code": ""
+    },
+    {
+      "street": "3224 East Colonial Dr",
+      "city": "Orlando",
+      "state": "FL",
+      "postal_code": ""
+    },
+    {
+      "street": "9993 Tagore Place",
+      "city": "Orlando",
+      "state": "FL",
+      "postal_code": ""
+    },
+    {
+      "street": "4085 Millenia Blvd.",
+      "city": "Orlando",
+      "state": "FL",
+      "postal_code": ""
+    },
+    {
+      "street": "7643 W. Colonial Drive",
+      "city": "Orlando",
+      "state": "FL",
+      "postal_code": ""
+    },
+    {
+      "street": "11860 E. Colonial Drive",
+      "city": "Orlando",
+      "state": "FL",
+      "postal_code": ""
+    },
+    {
+      "street": "8708 Vineland Avenue",
+      "city": "Orlando",
+      "state": "FL",
+      "postal_code": ""
+    },
+    {
+      "street": "6674 South Semoran Blvd",
+      "city": "Orlando",
+      "state": "FL",
+      "postal_code": ""
+    },
+    {
+      "street": "5294 North International Drive",
+      "city": "Orlando",
+      "state": "FL",
+      "postal_code": ""
+    },
+    {
+      "street": "1811 S. Semoran Blvd.",
+      "city": "Orlando",
+      "state": "FL",
+      "postal_code": ""
+    },
+    {
+      "street": "8301 Red Bud Lake Rd",
+      "city": "Oviedo",
+      "state": "FL",
+      "postal_code": ""
+    },
+    {
+      "street": "8096 West McNab Rd",
+      "city": "N Lauderdale",
+      "state": "FL",
+      "postal_code": ""
+    },
+    {
+      "street": "5065 Golden Gate Parkway",
+      "city": "Naples",
+      "state": "FL",
+      "postal_code": ""
+    },
+    {
+      "street": "3777 East Tamiami Trail",
+      "city": "Naples",
+      "state": "FL",
+      "postal_code": ""
+    },
+    {
+      "street": "11806 Biscayne Blvd.",
+      "city": "North Miami",
+      "state": "FL",
+      "postal_code": ""
+    },
+    {
+      "street": "19911 N. W. 2nd Avenue SR7",
+      "city": "North Miami",
+      "state": "FL",
+      "postal_code": ""
+    },
+    {
+      "street": "8299 Pines Blvd.",
+      "city": "Pembroke Pines",
+      "state": "FL",
+      "postal_code": ""
+    },
+    {
+      "street": "11429 Pines Blvd",
+      "city": "Pembroke Pines",
+      "state": "FL",
+      "postal_code": ""
+    },
+    {
+      "street": "8299 Pines Blvd.",
+      "city": "Pembrook Pines",
+      "state": "FL",
+      "postal_code": ""
+    },
+    {
+      "street": "13425 S. Dixie Hwy",
+      "city": "Pinecrest",
+      "state": "FL",
+      "postal_code": ""
+    },
+    {
+      "street": "3900 Park Blvd",
+      "city": "Pinellas Park",
+      "state": "FL",
+      "postal_code": ""
+    },
+    {
+      "street": "300 North State Rd 7",
+      "city": "Plantation",
+      "state": "FL",
+      "postal_code": ""
+    },
+    {
+      "street": "50 N. University Drive",
+      "city": "Plantation",
+      "state": "FL",
+      "postal_code": ""
+    },
+    {
+      "street": "2450 W. Atlantic Blvd.",
+      "city": "Pompano Beach",
+      "state": "FL",
+      "postal_code": ""
+    },
+    {
+      "street": "2320 N Federal Highway",
+      "city": "Pompano Beach",
+      "state": "FL",
+      "postal_code": ""
+    },
+    {
+      "street": "1001 W. P. Ball Boulevard",
+      "city": "Sanford",
+      "state": "FL",
+      "postal_code": ""
+    },
+    {
+      "street": "107 North State Road 7",
+      "city": "Royal Palm Beach",
+      "state": "FL",
+      "postal_code": ""
+    },
+    {
+      "street": "17084 Collins Ave",
+      "city": "Sunny Isles Beach",
+      "state": "FL",
+      "postal_code": ""
+    },
+    {
+      "street": "1365 NW St. Lucie West Blvd",
+      "city": "Port Lucie West",
+      "state": "FL",
+      "postal_code": ""
+    },
+    {
+      "street": "2200 SE Federal Highway",
+      "city": "Stuart",
+      "state": "FL",
+      "postal_code": ""
+    },
+    {
+      "street": "3285 West Hillsborough Ave",
+      "city": "Tampa",
+      "state": "FL",
+      "postal_code": ""
+    },
+    {
+      "street": "6276 W Waters Ave",
+      "city": "Tampa",
+      "state": "FL",
+      "postal_code": ""
+    },
+    {
+      "street": "15298 N Dale Mabry Highway",
+      "city": "Tampa",
+      "state": "FL",
+      "postal_code": ""
+    },
+    {
+      "street": "5101 Fowler Avenue",
+      "city": "Tampa",
+      "state": "FL",
+      "postal_code": ""
+    },
+    {
+      "street": "25570 Sierra Center Boulevard",
+      "city": "Tampa",
+      "state": "FL",
+      "postal_code": ""
+    },
+    {
+      "street": "2675 N. University Drive",
+      "city": "Sunrise",
+      "state": "FL",
+      "postal_code": ""
+    },
+    {
+      "street": "8851 West Commercial Blvd",
+      "city": "Tamarac",
+      "state": "FL",
+      "postal_code": ""
+    },
+    {
+      "street": "5415 Fruitville Road",
+      "city": "Sarasota",
+      "state": "FL",
+      "postal_code": ""
+    },
+    {
+      "street": "2611 Okeechobee Blvd.",
+      "city": "W. Palm Beach",
+      "state": "FL",
+      "postal_code": ""
+    },
+    {
+      "street": "21852 S. State Road 7",
+      "city": "West Boca Raton",
+      "state": "FL",
+      "postal_code": ""
+    },
+    {
+      "street": "4335 Norfolk Parkway",
+      "city": "West Melbourne",
+      "state": "FL",
+      "postal_code": ""
+    },
+    {
+      "street": "3061 Northlake Blvd.",
+      "city": "West Palm Beach",
+      "state": "FL",
+      "postal_code": ""
+    },
+    {
+      "street": "7785 South Dixie Highway",
+      "city": "West Palm Beach",
+      "state": "FL",
+      "postal_code": ""
+    },
+    {
+      "street": "2611 Okeechobee Blvd.",
+      "city": "West Palm Beach",
+      "state": "FL",
+      "postal_code": ""
+    },
+    {
+      "street": "3085 45th Street",
+      "city": "West Palm Beach",
+      "state": "FL",
+      "postal_code": ""
+    },
+    {
+      "street": "2633 Weston Rd.",
+      "city": "Weston",
+      "state": "FL",
+      "postal_code": ""
+    }
+  ],
+  "bk": [
+    {
+      "street": "3238 US Highway 90 W",
+      "city": "LAKE CITY",
+      "state": "FL",
+      "postal_code": "32055"
+    },
+    {
+      "street": "127 S.W. Main Blvd.",
+      "city": "LAKE CITY",
+      "state": "FL",
+      "postal_code": "32025"
+    },
+    {
+      "street": "13721 US-441",
+      "city": "Lake City",
+      "state": "FL",
+      "postal_code": "32025"
+    },
+    {
+      "street": "4772 NW US Highway 41",
+      "city": "Lake City",
+      "state": "FL",
+      "postal_code": "32055"
+    },
+    {
+      "street": "1575 South Ohio Avenue",
+      "city": "LIVE OAK",
+      "state": "FL",
+      "postal_code": "32064"
+    },
+    {
+      "street": "6458 US Highway 129",
+      "city": "Live Oak",
+      "state": "FL",
+      "postal_code": "32060"
+    },
+    {
+      "street": "16130 NW Highway 441",
+      "city": "Alachua",
+      "state": "FL",
+      "postal_code": "32615"
+    },
+    {
+      "street": "9401 N.W. 39th Avenue",
+      "city": "GAINESVILLE",
+      "state": "FL",
+      "postal_code": "32606"
+    },
+    {
+      "street": "8215 STATE ROAD 6",
+      "city": "WEST JASPER",
+      "state": "FL",
+      "postal_code": "32052"
+    },
+    {
+      "street": "6123 NW 8th Ave",
+      "city": "GAINESVILLE",
+      "state": "FL",
+      "postal_code": "32605"
+    },
+    {
+      "street": "1620 South 6th Street",
+      "city": "MACCLENNY",
+      "state": "FL",
+      "postal_code": "32063"
+    },
+    {
+      "street": "20 NW 16th Ave",
+      "city": "GAINESVILLE",
+      "state": "FL",
+      "postal_code": "32601"
+    },
+    {
+      "street": "813 S. Walnut Street",
+      "city": "Starke",
+      "state": "FL",
+      "postal_code": "32091"
+    },
+    {
+      "street": "3902 SW 40th Blvd",
+      "city": "GAINESVILLE",
+      "state": "FL",
+      "postal_code": "32608"
+    },
+    {
+      "street": "1007 NW 21st Ct.",
+      "city": "CHIEFLAND",
+      "state": "FL",
+      "postal_code": "32626"
+    },
+    {
+      "street": "1093 US Highway 301 N",
+      "city": "BALDWIN",
+      "state": "FL",
+      "postal_code": "32234"
+    },
+    {
+      "street": "363 E BASE ST, STE B",
+      "city": "Madison",
+      "state": "FL",
+      "postal_code": "32340"
+    },
+    {
+      "street": "2732 Blanding Blvd",
+      "city": "Middleburg",
+      "state": "FL",
+      "postal_code": "32068"
+    },
+    {
+      "street": "9551 Argyle Forest Blvd",
+      "city": "Jacksonville",
+      "state": "FL",
+      "postal_code": "32222"
+    },
+    {
+      "street": "1092 Blanding Boulevard",
+      "city": "ORANGE PARK",
+      "state": "FL",
+      "postal_code": "32065"
+    },
+    {
+      "street": "7320 - 103rd Street",
+      "city": "JACKSONVILLE",
+      "state": "FL",
+      "postal_code": "32210"
+    },
+    {
+      "street": "2297 Kingsley Avenue",
+      "city": "ORANGE PARK",
+      "state": "FL",
+      "postal_code": "32073"
+    },
+    {
+      "street": "7900 Blanding Blvd",
+      "city": "JACKSONVILLE",
+      "state": "FL",
+      "postal_code": "32244"
+    },
+    {
+      "street": "6634 Normandy Boulevard",
+      "city": "JACKSONVILLE",
+      "state": "FL",
+      "postal_code": "32205"
+    },
+    {
+      "street": "4408 Blanding Boulevard",
+      "city": "JACKSONVILLE",
+      "state": "FL",
+      "postal_code": "32210"
+    },
+    {
+      "street": "6785 Commonwealth Avenue",
+      "city": "JACKSONVILLE",
+      "state": "FL",
+      "postal_code": "32254"
+    },
+    {
+      "street": "1680 Wells Road",
+      "city": "ORANGE PARK",
+      "state": "FL",
+      "postal_code": "32073"
+    },
+    {
+      "street": "4319 Highway 17",
+      "city": "ORANGE PARK",
+      "state": "FL",
+      "postal_code": "32003"
+    },
+    {
+      "street": "637 North Edgewood Avenue",
+      "city": "JACKSONVILLE",
+      "state": "FL",
+      "postal_code": "32254"
+    },
+    {
+      "street": "6757 Dunn Avenue",
+      "city": "Jacksonville",
+      "state": "FL",
+      "postal_code": "32219"
+    },
+    {
+      "street": "535 N Orange Ave",
+      "city": "Green Cove Springs",
+      "state": "FL",
+      "postal_code": "32043"
+    },
+    {
+      "street": "6014 New Kings Road",
+      "city": "Jacksonville",
+      "state": "FL",
+      "postal_code": "32219"
+    },
+    {
+      "street": "1020 King Street",
+      "city": "JACKSONVILLE",
+      "state": "FL",
+      "postal_code": "32204"
+    },
+    {
+      "street": "11872 Lem Turner Rd",
+      "city": "JACKSONVILLE",
+      "state": "FL",
+      "postal_code": "32218"
+    },
+    {
+      "street": "7725 Lem Turner Road",
+      "city": "JACKSONVILLE",
+      "state": "FL",
+      "postal_code": "32208"
+    },
+    {
+      "street": "2717 North Main Street",
+      "city": "JACKSONVILLE",
+      "state": "FL",
+      "postal_code": "32206"
+    },
+    {
+      "street": "4948 University Boulevard West",
+      "city": "JACKSONVILLE",
+      "state": "FL",
+      "postal_code": "32216"
+    },
+    {
+      "street": "937 Dunn Avenue",
+      "city": "JACKSONVILLE",
+      "state": "FL",
+      "postal_code": "32218"
+    },
+    {
+      "street": "3478 Blitchton Road NW",
+      "city": "OCALA",
+      "state": "FL",
+      "postal_code": "34475"
+    },
+    {
+      "street": "5922 Merrill Road",
+      "city": "JACKSONVILLE",
+      "state": "FL",
+      "postal_code": "32277"
+    },
+    {
+      "street": "2728 Nw Pine Avenue",
+      "city": "OCALA",
+      "state": "FL",
+      "postal_code": "34475"
+    },
+    {
+      "street": "3960 W Silver Springs Blvd",
+      "city": "OCALA",
+      "state": "FL",
+      "postal_code": "34482"
+    },
+    {
+      "street": "10300 Southside Blvd",
+      "city": "Jacksonville",
+      "state": "FL",
+      "postal_code": "32256"
+    },
+    {
+      "street": "13049 North Main Street",
+      "city": "JACKSONVILLE",
+      "state": "FL",
+      "postal_code": "32218"
+    },
+    {
+      "street": "3305 Crill Avenue",
+      "city": "PALATKA",
+      "state": "FL",
+      "postal_code": "32177"
+    },
+    {
+      "street": "307 Harper Lane",
+      "city": "St. Johns",
+      "state": "FL",
+      "postal_code": "32259"
+    },
+    {
+      "street": "4339 Southside Boulevard",
+      "city": "JACKSONVILLE",
+      "state": "FL",
+      "postal_code": "32216"
+    },
+    {
+      "street": "2696 S. W. College Road",
+      "city": "OCALA",
+      "state": "FL",
+      "postal_code": "34471"
+    },
+    {
+      "street": "250 Monument Road",
+      "city": "JACKSONVILLE",
+      "state": "FL",
+      "postal_code": "32225"
+    },
+    {
+      "street": "9090 Merrill Rd",
+      "city": "JACKSONVILLE",
+      "state": "FL",
+      "postal_code": "32225"
+    },
+    {
+      "street": "4976 East Silver Springs Blvd",
+      "city": "OCALA",
+      "state": "FL",
+      "postal_code": "34470"
+    },
+    {
+      "street": "2301 E. Silver Springs Blvd.",
+      "city": "OCALA",
+      "state": "FL",
+      "postal_code": "34470"
+    },
+    {
+      "street": "11761 Beach Blvd Ste 15",
+      "city": "JACKSONVILLE",
+      "state": "FL",
+      "postal_code": "32246"
+    },
+    {
+      "street": "184 South Hwy 17",
+      "city": "EAST PALATKA",
+      "state": "FL",
+      "postal_code": "32131"
+    },
+    {
+      "street": "462581 State Road 200",
+      "city": "YULEE",
+      "state": "FL",
+      "postal_code": "32097"
+    },
+    {
+      "street": "2900 Southeast 36th Avenue",
+      "city": "OCALA",
+      "state": "FL",
+      "postal_code": "34471"
+    },
+    {
+      "street": "7801 Southwest Hwy 200",
+      "city": "Ocala",
+      "state": "FL",
+      "postal_code": "34476"
+    },
+    {
+      "street": "3025 International Golf Parkway",
+      "city": "Saint Augustine",
+      "state": "FL",
+      "postal_code": "32092"
+    },
+    {
+      "street": "13404 Sutton Park Dr S",
+      "city": "JACKSONVILLE",
+      "state": "FL",
+      "postal_code": "32224"
+    },
+    {
+      "street": "13180 Atlantic Boulevard",
+      "city": "JACKSONVILLE",
+      "state": "FL",
+      "postal_code": "32225"
+    },
+    {
+      "street": "2325 State Road 16",
+      "city": "SAINT AUGUSTINE",
+      "state": "FL",
+      "postal_code": "32084"
+    },
+    {
+      "street": "304 Paseo Vereda Dr.",
+      "city": "ST. AUGUSTINE",
+      "state": "FL",
+      "postal_code": "32095"
+    },
+    {
+      "street": "2240 SW HWY 484",
+      "city": "Ocala",
+      "state": "FL",
+      "postal_code": "34473"
+    },
+    {
+      "street": "5609 SE Abshier Blvd",
+      "city": "BELLEVIEW",
+      "state": "FL",
+      "postal_code": "34420"
+    },
+    {
+      "street": "2455 STATE ROAD 207",
+      "city": "JACKSONVILLE",
+      "state": "FL",
+      "postal_code": "32086"
+    },
+    {
+      "street": "125 N. E. Highway 19",
+      "city": "Crystal RIver",
+      "state": "FL",
+      "postal_code": "34429"
+    },
+    {
+      "street": "635 West Norvell Bryant Hwy",
+      "city": "Hernando",
+      "state": "FL",
+      "postal_code": "34442"
+    },
+    {
+      "street": "1725 Us Highway 1 S",
+      "city": "ST AUGUSTINE",
+      "state": "FL",
+      "postal_code": "32084"
+    },
+    {
+      "street": "4420 S Suncoast Blvd",
+      "city": "HOMOSASSA SPRINGS",
+      "state": "FL",
+      "postal_code": "34446"
+    },
+    {
+      "street": "302 Highway 41 South",
+      "city": "Inverness",
+      "state": "FL",
+      "postal_code": "34450"
+    },
+    {
+      "street": "3630 Wedgewood Lane",
+      "city": "LADY LAKE",
+      "state": "FL",
+      "postal_code": "32162"
+    },
+    {
+      "street": "3570 Apalachee Parkway",
+      "city": "TALLAHASSEE",
+      "state": "FL",
+      "postal_code": "32311"
+    },
+    {
+      "street": "832 E State Road 44",
+      "city": "WILDWOOD",
+      "state": "FL",
+      "postal_code": "34785"
+    },
+    {
+      "street": "1007 Bichara Boulevard",
+      "city": "THE VILLAGES",
+      "state": "FL",
+      "postal_code": "32159"
+    },
+    {
+      "street": "3107 East Mahan",
+      "city": "TALLAHASSEE",
+      "state": "FL",
+      "postal_code": "32308"
+    },
+    {
+      "street": "1301 East Park Avenue",
+      "city": "TALLAHASSEE",
+      "state": "FL",
+      "postal_code": "32301"
+    },
+    {
+      "street": "5500 Thomasville Rd",
+      "city": "TALLAHASSEE",
+      "state": "FL",
+      "postal_code": "32312"
+    },
+    {
+      "street": "2626 South Monroe St.",
+      "city": "TALLAHASSEE",
+      "state": "FL",
+      "postal_code": "32301"
+    },
+    {
+      "street": "5845 Seven Mile Dr",
+      "city": "Wildwood",
+      "state": "FL",
+      "postal_code": "34785"
+    },
+    {
+      "street": "1060 W. Tennessee Street",
+      "city": "TALLAHASSEE",
+      "state": "FL",
+      "postal_code": "32304"
+    },
+    {
+      "street": "2185 Crawfordville Hwy",
+      "city": "CRAWFORDVILLE",
+      "state": "FL",
+      "postal_code": "32327"
+    },
+    {
+      "street": "3102 North Monroe",
+      "city": "TALLAHASSEE",
+      "state": "FL",
+      "postal_code": "32303"
+    },
+    {
+      "street": "6115 East Hwy 100",
+      "city": "FLAGLER BEACH",
+      "state": "FL",
+      "postal_code": "32136"
+    },
+    {
+      "street": "825 Nova Rd",
+      "city": "DAYTONA BEACH",
+      "state": "FL",
+      "postal_code": "32117"
+    },
+    {
+      "street": "112 N. Ridgewood Avenue",
+      "city": "DAYTONA BEACH",
+      "state": "FL",
+      "postal_code": "32114"
+    },
+    {
+      "street": "1436 West International",
+      "city": "DAYTONA BEACH",
+      "state": "FL",
+      "postal_code": "32114"
+    },
+    {
+      "street": "3418 S. Atlantic Blvd.",
+      "city": "DAYTONA BCH SHR",
+      "state": "FL",
+      "postal_code": "32118"
+    },
+    {
+      "street": "3811 Nova Road",
+      "city": "PORT ORANGE",
+      "state": "FL",
+      "postal_code": "32127"
+    },
+    {
+      "street": "1032 North Woodland Blvd.",
+      "city": "DE LAND",
+      "state": "FL",
+      "postal_code": "32720"
+    },
+    {
+      "street": "1850 S. Woodland Blvd.",
+      "city": "DE LAND",
+      "state": "FL",
+      "postal_code": "32720"
+    },
+    {
+      "street": "4400 W Tennessee St",
+      "city": "TALLAHASSEE",
+      "state": "FL",
+      "postal_code": "32304"
+    },
+    {
+      "street": "703 N. Main Street",
+      "city": "HAVANA",
+      "state": "FL",
+      "postal_code": "32333"
+    },
+    {
+      "street": "1400 West Jefferson Street",
+      "city": "QUINCY",
+      "state": "FL",
+      "postal_code": "32351"
+    },
+    {
+      "street": "3314 Greensboro Highway",
+      "city": "Quincy",
+      "state": "FL",
+      "postal_code": "32351"
+    },
+    {
+      "street": "20407 Central Ave W",
+      "city": "BLOUNTSTOWN",
+      "state": "FL",
+      "postal_code": "32424"
+    },
+    {
+      "street": "421 US-98",
+      "city": "Apalahicola, FL",
+      "state": "FL",
+      "postal_code": "32320"
+    },
+    {
+      "street": "1990 North State Road 19",
+      "city": "EUSTIS",
+      "state": "FL",
+      "postal_code": "32726"
+    },
+    {
+      "street": "16038 N Highway 441",
+      "city": "EUSTIS",
+      "state": "FL",
+      "postal_code": "32726"
+    },
+    {
+      "street": "4563 County Road 48",
+      "city": "Okahumpka",
+      "state": "FL",
+      "postal_code": "34762"
+    },
+    {
+      "street": "2445 Enterprise Road",
+      "city": "ORANGE CITY",
+      "state": "FL",
+      "postal_code": "32763"
+    },
+    {
+      "street": "3211 Howland Blvd",
+      "city": "Deltona",
+      "state": "FL",
+      "postal_code": "32725"
+    },
+    {
+      "street": "2215 West C 48",
+      "city": "Bushnell",
+      "state": "FL",
+      "postal_code": "33513"
+    },
+    {
+      "street": "2790 Elkcan Boulevard",
+      "city": "Deltona",
+      "state": "FL",
+      "postal_code": "32738"
+    },
+    {
+      "street": "305 Sunrise Boulevard",
+      "city": "DEBARY",
+      "state": "FL",
+      "postal_code": "32713"
+    },
+    {
+      "street": "301 Towne Center Boulevard",
+      "city": "SANFORD",
+      "state": "FL",
+      "postal_code": "32771"
+    },
+    {
+      "street": "201 French Avenue",
+      "city": "SANFORD",
+      "state": "FL",
+      "postal_code": "32771"
+    },
+    {
+      "street": "2988 South Ridgewood Avenue",
+      "city": "EDGEWATER",
+      "state": "FL",
+      "postal_code": "32141"
+    },
+    {
+      "street": "3788 Orlando Avenue",
+      "city": "SANFORD",
+      "state": "FL",
+      "postal_code": "32773"
+    },
+    {
+      "street": "301 N. Highway 17-92",
+      "city": "LONGWOOD",
+      "state": "FL",
+      "postal_code": "32750"
+    },
+    {
+      "street": "1190 Spring Centre S. Blvd.",
+      "city": "ALTAMONTE SPRINGS",
+      "state": "FL",
+      "postal_code": "32714"
+    },
+    {
+      "street": "488 East Main Street",
+      "city": "APOPKA",
+      "state": "FL",
+      "postal_code": "32703"
+    },
+    {
+      "street": "3010 Semoran Boulevard",
+      "city": "APOPKA",
+      "state": "FL",
+      "postal_code": "32703"
+    },
+    {
+      "street": "476 East Altamonte Drive",
+      "city": "ALTAMONTE SPRINGS",
+      "state": "FL",
+      "postal_code": "32701"
+    },
+    {
+      "street": "1001 Willa Springs Drive",
+      "city": "WINTER SPRINGS",
+      "state": "FL",
+      "postal_code": "32708"
+    },
+    {
+      "street": "1477 SR 436",
+      "city": "CASSELBERRY",
+      "state": "FL",
+      "postal_code": "32707"
+    },
+    {
+      "street": "6400 N. Orange Blossom Trail",
+      "city": "ORLANDO",
+      "state": "FL",
+      "postal_code": "32810"
+    },
+    {
+      "street": "450 S. Orlando Avenue",
+      "city": "WINTER PARK",
+      "state": "FL",
+      "postal_code": "32789"
+    },
+    {
+      "street": "2607 Hiawassee Road",
+      "city": "ORLANDO",
+      "state": "FL",
+      "postal_code": "32818"
+    },
+    {
+      "street": "1745 East Silverstar Road",
+      "city": "OCOEE",
+      "state": "FL",
+      "postal_code": "34761"
+    },
+    {
+      "street": "7623 East Colonial Drive",
+      "city": "ORLANDO",
+      "state": "FL",
+      "postal_code": "32807"
+    },
+    {
+      "street": "13049 Cortez Blvd",
+      "city": "Brooksville",
+      "state": "FL",
+      "postal_code": "34613"
+    },
+    {
+      "street": "20093 Cortez Blvd",
+      "city": "Brooksville",
+      "state": "FL",
+      "postal_code": "34601"
+    },
+    {
+      "street": "1394 Commercial Way",
+      "city": "Spring Hill",
+      "state": "FL",
+      "postal_code": "34606"
+    },
+    {
+      "street": "7989 State Road 50",
+      "city": "GROVELAND",
+      "state": "FL",
+      "postal_code": "34736"
+    },
+    {
+      "street": "30290 Cortez Boulevard",
+      "city": "Brooksville",
+      "state": "FL",
+      "postal_code": "34602"
+    },
+    {
+      "street": "11834 East Colonial Drive",
+      "city": "ORLANDO",
+      "state": "FL",
+      "postal_code": "32826"
+    },
+    {
+      "street": "3900 East Colonial Drive",
+      "city": "ORLANDO",
+      "state": "FL",
+      "postal_code": "32803"
+    },
+    {
+      "street": "8913 West Colonial Drive",
+      "city": "OCOEE",
+      "state": "FL",
+      "postal_code": "34761"
+    },
+    {
+      "street": "11 South Washington Avenue",
+      "city": "TITUSVILLE",
+      "state": "FL",
+      "postal_code": "32796"
+    },
+    {
+      "street": "375 S. Avalon Park Blvd.",
+      "city": "ORLANDO",
+      "state": "FL",
+      "postal_code": "32828"
+    },
+    {
+      "street": "13500 West Colonial Drive",
+      "city": "WINTER GARDEN",
+      "state": "FL",
+      "postal_code": "34787"
+    },
+    {
+      "street": "2222 South Semoran Boulevard",
+      "city": "ORLANDO",
+      "state": "FL",
+      "postal_code": "32822"
+    },
+    {
+      "street": "2224 Goldenrod Road",
+      "city": "ORLANDO",
+      "state": "FL",
+      "postal_code": "32822"
+    },
+    {
+      "street": "2892 South Orange Avenue",
+      "city": "ORLANDO",
+      "state": "FL",
+      "postal_code": "32806"
+    },
+    {
+      "street": "4622 Kirkman Road",
+      "city": "ORLANDO",
+      "state": "FL",
+      "postal_code": "32811"
+    },
+    {
+      "street": "780 East Highway 50",
+      "city": "CLERMONT",
+      "state": "FL",
+      "postal_code": "34711"
+    },
+    {
+      "street": "5624 Vineland Road",
+      "city": "ORLANDO",
+      "state": "FL",
+      "postal_code": "32819"
+    },
+    {
+      "street": "6003 S. Orange Blossom Trail",
+      "city": "ORLANDO",
+      "state": "FL",
+      "postal_code": "32809"
+    },
+    {
+      "street": "6000 Universal Boulevard",
+      "city": "ORLANDO",
+      "state": "FL",
+      "postal_code": "32819"
+    },
+    {
+      "street": "5515 International Drive",
+      "city": "ORLANDO",
+      "state": "FL",
+      "postal_code": "32819"
+    },
+    {
+      "street": "7667 International Drive",
+      "city": "ORLANDO",
+      "state": "FL",
+      "postal_code": "32819"
+    },
+    {
+      "street": "8409 South John Young Parkway",
+      "city": "ORLANDO",
+      "state": "FL",
+      "postal_code": "32819"
+    },
+    {
+      "street": "8091 South Orange Avenue",
+      "city": "ORLANDO",
+      "state": "FL",
+      "postal_code": "32809"
+    },
+    {
+      "street": "8001 S Orange Blossom Tl",
+      "city": "Orlando",
+      "state": "FL",
+      "postal_code": "32809"
+    },
+    {
+      "street": "2000 Consulate Drive",
+      "city": "ORLANDO",
+      "state": "FL",
+      "postal_code": "32837"
+    },
+    {
+      "street": "1 JEFF FUQUA BLVD",
+      "city": "ORLANDO",
+      "state": "FL",
+      "postal_code": "32827"
+    },
+    {
+      "street": "12491 S Apopka Vineland Road",
+      "city": "ORLANDO",
+      "state": "FL",
+      "postal_code": "32836"
+    },
+    {
+      "street": "12371 S Orange Blossom Trail",
+      "city": "ORLANDO",
+      "state": "FL",
+      "postal_code": "32837"
+    },
+    {
+      "street": "10201 Narcoossee Rd",
+      "city": "ORLANDO",
+      "state": "FL",
+      "postal_code": "32832"
+    },
+    {
+      "street": "14025 Town Loop Boulevard",
+      "city": "ORLANDO",
+      "state": "FL",
+      "postal_code": "32837"
+    },
+    {
+      "street": "534 US Hwy 27",
+      "city": "CLERMONT",
+      "state": "FL",
+      "postal_code": "34714"
+    },
+    {
+      "street": "7757 Irlo Bronson Memorial Hwy",
+      "city": "KISSIMMEE",
+      "state": "FL",
+      "postal_code": "34747"
+    },
+    {
+      "street": "2945 Vineland Road",
+      "city": "KISSIMMEE",
+      "state": "FL",
+      "postal_code": "34746"
+    },
+    {
+      "street": "1936 East Osceola Pkwy.",
+      "city": "KISSIMMEE",
+      "state": "FL",
+      "postal_code": "34743"
+    },
+    {
+      "street": "5760 Irlo Bronson Highway",
+      "city": "KISSIMMEE",
+      "state": "FL",
+      "postal_code": "34746"
+    },
+    {
+      "street": "3293 Columbia Boulevard",
+      "city": "TITUSVILLE",
+      "state": "FL",
+      "postal_code": "32780"
+    },
+    {
+      "street": "4445 West Vine Street",
+      "city": "KISSIMMEE",
+      "state": "FL",
+      "postal_code": "34746"
+    },
+    {
+      "street": "800 West Vine Street",
+      "city": "KISSIMMEE",
+      "state": "FL",
+      "postal_code": "34741"
+    },
+    {
+      "street": "1920 E. Irlo Bronson Hwy",
+      "city": "KISSIMMEE",
+      "state": "FL",
+      "postal_code": "34744"
+    },
+    {
+      "street": "3401 S Orange Blossom Trail",
+      "city": "Kissimmee",
+      "state": "FL",
+      "postal_code": "34746"
+    },
+    {
+      "street": "6127 US Highway 17 92 N",
+      "city": "Davenport",
+      "state": "FL",
+      "postal_code": "33896"
+    },
+    {
+      "street": "44149 Highway 27",
+      "city": "DAVENPORT",
+      "state": "FL",
+      "postal_code": "33897"
+    },
+    {
+      "street": "2400 - 13th Street",
+      "city": "SAINT CLOUD",
+      "state": "FL",
+      "postal_code": "34769"
+    },
+    {
+      "street": "3100 Anderson Snow Rd",
+      "city": "Spring Hill",
+      "state": "FL",
+      "postal_code": "34609"
+    },
+    {
+      "street": "6305 N COCOA BLVD",
+      "city": "COCOA",
+      "state": "FL",
+      "postal_code": "32927"
+    },
+    {
+      "street": "1455 North Courtenay Parkway",
+      "city": "MERRITT ISLAND",
+      "state": "FL",
+      "postal_code": "32953"
+    },
+    {
+      "street": "8939 Astronaut Blvd.",
+      "city": "CAPE CANAVERAL",
+      "state": "FL",
+      "postal_code": "32920"
+    },
+    {
+      "street": "423 Barton Blvd",
+      "city": "ROCKLEDGE",
+      "state": "FL",
+      "postal_code": "32955"
+    },
+    {
+      "street": "7299 George T. Edwards Drive",
+      "city": "MELBOURNE",
+      "state": "FL",
+      "postal_code": "32940"
+    },
+    {
+      "street": "1221 S PATRICK DR",
+      "city": "PATRICK AFB",
+      "state": "FL",
+      "postal_code": "32925"
+    },
+    {
+      "street": "2500 N. Wickham Avenue",
+      "city": "Melbourne",
+      "state": "FL",
+      "postal_code": "32935"
+    },
+    {
+      "street": "910 Cypress Parkway",
+      "city": "KISSIMMEE",
+      "state": "FL",
+      "postal_code": "34759"
+    },
+    {
+      "street": "1895 West New Haven Avenue",
+      "city": "MELBOURNE",
+      "state": "FL",
+      "postal_code": "32904"
+    },
+    {
+      "street": "189 Palm Bay Road NE",
+      "city": "WEST MELBOURNE",
+      "state": "FL",
+      "postal_code": "32904"
+    },
+    {
+      "street": "4704 Babcock St. Ne",
+      "city": "PALM BAY",
+      "state": "FL",
+      "postal_code": "32905"
+    },
+    {
+      "street": "1164 Malabar Road SE",
+      "city": "PALM BAY",
+      "state": "FL",
+      "postal_code": "32907"
+    },
+    {
+      "street": "36100 Highway 27",
+      "city": "HAINES CITY",
+      "state": "FL",
+      "postal_code": "33844"
+    },
+    {
+      "street": "505 US Hwy 17 92 West",
+      "city": "HAINES CITY",
+      "state": "FL",
+      "postal_code": "33844"
+    },
+    {
+      "street": "11768 US Highway 301",
+      "city": "Dade City",
+      "state": "FL",
+      "postal_code": "33525"
+    },
+    {
+      "street": "30005 State Rd 52",
+      "city": "San Antonio",
+      "state": "FL",
+      "postal_code": "33576"
+    },
+    {
+      "street": "5610 North Gall Blvd",
+      "city": "Zephyrhills",
+      "state": "FL",
+      "postal_code": "33542"
+    },
+    {
+      "street": "28136 State Road 54 W",
+      "city": "Wesley Chapel",
+      "state": "FL",
+      "postal_code": "33543"
+    },
+    {
+      "street": "7396 Kathleen Rd,",
+      "city": "Lakeland",
+      "state": "FL",
+      "postal_code": "33810"
+    },
+    {
+      "street": "5800 Us Highway 98 N",
+      "city": "LAKELAND",
+      "state": "FL",
+      "postal_code": "33809"
+    },
+    {
+      "street": "20590 Bruce B Downs Blvd",
+      "city": "Tampa",
+      "state": "FL",
+      "postal_code": "33647"
+    },
+    {
+      "street": "3212 US Highway 98 N",
+      "city": "Lakeland",
+      "state": "FL",
+      "postal_code": "33805"
+    },
+    {
+      "street": "25180 Maren Way",
+      "city": "Land O Lakes",
+      "state": "FL",
+      "postal_code": "34639"
+    },
+    {
+      "street": "2095 W. Memorial Blvd.",
+      "city": "Lakeland",
+      "state": "FL",
+      "postal_code": "33815"
+    },
+    {
+      "street": "2367 Hwy 92 West",
+      "city": "AUBURNDALE",
+      "state": "FL",
+      "postal_code": "33823"
+    },
+    {
+      "street": "418 1/2 Havendale Boulevard",
+      "city": "Auburndale",
+      "state": "FL",
+      "postal_code": "33823"
+    },
+    {
+      "street": "9055 State Road 52",
+      "city": "Hudson",
+      "state": "FL",
+      "postal_code": "34669"
+    },
+    {
+      "street": "14139 Us Highway 19 North",
+      "city": "Hudson",
+      "state": "FL",
+      "postal_code": "34667"
+    },
+    {
+      "street": "2247 Highway 71",
+      "city": "MARIANNA",
+      "state": "FL",
+      "postal_code": "32448"
+    },
+    {
+      "street": "560 Highway 71 South,",
+      "city": "Wewahitchka",
+      "state": "FL",
+      "postal_code": "32465"
+    },
+    {
+      "street": "4691 Highway 90 East",
+      "city": "MARIANNA",
+      "state": "FL",
+      "postal_code": "32446"
+    },
+    {
+      "street": "601 Monument Avenue",
+      "city": "PORT ST JOE",
+      "state": "FL",
+      "postal_code": "32456"
+    },
+    {
+      "street": "4709 US Highway 231",
+      "city": "PANAMA CITY",
+      "state": "FL",
+      "postal_code": "32404"
+    },
+    {
+      "street": "1698 Main Street",
+      "city": "CHIPLEY",
+      "state": "FL",
+      "postal_code": "32428"
+    },
+    {
+      "street": "109 North Tyndall Parkway",
+      "city": "PANAMA CITY",
+      "state": "FL",
+      "postal_code": "32404"
+    },
+    {
+      "street": "3218 East Highway 98",
+      "city": "Springfield",
+      "state": "FL",
+      "postal_code": "32401"
+    },
+    {
+      "street": "1904 South Highway 77,",
+      "city": "Lynn Haven",
+      "state": "FL",
+      "postal_code": "32444"
+    },
+    {
+      "street": "1396 West 15th Street",
+      "city": "PANAMA CITY",
+      "state": "FL",
+      "postal_code": "32401"
+    },
+    {
+      "street": "2024 South Waukesha Street",
+      "city": "BONIFAY",
+      "state": "FL",
+      "postal_code": "32425"
+    },
+    {
+      "street": "7100 Coastal Palms Blvd.",
+      "city": "PANAMA CITY",
+      "state": "FL",
+      "postal_code": "32408"
+    },
+    {
+      "street": "17112 Panama City Beach Pkwy",
+      "city": "PANAMA CITY BEACH",
+      "state": "FL",
+      "postal_code": "32413"
+    },
+    {
+      "street": "6805 US-98",
+      "city": "Santa Rosa Beach",
+      "state": "FL",
+      "postal_code": "32459"
+    },
+    {
+      "street": "1303 US Highway 331 S",
+      "city": "DEFUNIAK SPRINGS",
+      "state": "FL",
+      "postal_code": "32435"
+    },
+    {
+      "street": "3580 US Highway 98 W.",
+      "city": "Santa Rosa Beach",
+      "state": "FL",
+      "postal_code": "32459"
+    },
+    {
+      "street": "297 John Sims Parkway",
+      "city": "NICEVILLE",
+      "state": "FL",
+      "postal_code": "32578"
+    },
+    {
+      "street": "307 W VAN MATRE AVE",
+      "city": "EGLIN AFB",
+      "state": "FL",
+      "postal_code": "32542"
+    },
+    {
+      "street": "3210 South Ferdon Boulevard",
+      "city": "CRESTVIEW",
+      "state": "FL",
+      "postal_code": "32536"
+    },
+    {
+      "street": "5736 Hwy 85 N",
+      "city": "Crestview",
+      "state": "FL",
+      "postal_code": "32536"
+    },
+    {
+      "street": "198 W James Lee Blvd",
+      "city": "CRESTVIEW",
+      "state": "FL",
+      "postal_code": "32536"
+    },
+    {
+      "street": "302 Racetrack Rd NW",
+      "city": "FORT WALTON BEACH",
+      "state": "FL",
+      "postal_code": "32547"
+    },
+    {
+      "street": "201 Mary Esther Cut Off",
+      "city": "MARY ESTHER",
+      "state": "FL",
+      "postal_code": "32569"
+    },
+    {
+      "street": "120 LIELMANIS AVE",
+      "city": "HULBURT FIELD",
+      "state": "FL",
+      "postal_code": "32544"
+    },
+    {
+      "street": "8590 Navarre Parkway",
+      "city": "NAVARRE",
+      "state": "FL",
+      "postal_code": "32566"
+    },
+    {
+      "street": "6682 Caroline St. (Hwy. 90)",
+      "city": "Milton",
+      "state": "FL",
+      "postal_code": "32570"
+    },
+    {
+      "street": "4120 Hwy. 90",
+      "city": "Pace",
+      "state": "FL",
+      "postal_code": "32571"
+    },
+    {
+      "street": "6757 N 9th Ave",
+      "city": "Pensacola",
+      "state": "FL",
+      "postal_code": "32504"
+    },
+    {
+      "street": "7210 N Davis Hwy",
+      "city": "Pensacola",
+      "state": "FL",
+      "postal_code": "32504"
+    },
+    {
+      "street": "1750 E Nine Mile Rd",
+      "city": "Pensacola",
+      "state": "FL",
+      "postal_code": "32514"
+    },
+    {
+      "street": "15 Brent Lane Ste. 1",
+      "city": "Pensacola",
+      "state": "FL",
+      "postal_code": "32503"
+    },
+    {
+      "street": "2 S New Warrington Rd",
+      "city": "Pensacola",
+      "state": "FL",
+      "postal_code": "32507"
+    },
+    {
+      "street": "4498 Mobile Hwy.",
+      "city": "Pensacola",
+      "state": "FL",
+      "postal_code": "32506"
+    },
+    {
+      "street": "3210 West Michigan Ave.",
+      "city": "Pensacola",
+      "state": "FL",
+      "postal_code": "32526"
+    },
+    {
+      "street": "1590 North Hwy 29",
+      "city": "Cantonement",
+      "state": "FL",
+      "postal_code": "32533"
+    },
+    {
+      "street": "8040 Hwy. 98 West",
+      "city": "Pensacola",
+      "state": "FL",
+      "postal_code": "32506"
+    },
+    {
+      "street": "7960 Pine Forest Rd.",
+      "city": "Pensacola",
+      "state": "FL",
+      "postal_code": "32526"
+    },
+    {
+      "street": "13392 Perdido Key Dr.",
+      "city": "Pensacola",
+      "state": "FL",
+      "postal_code": "32507"
+    },
+    {
+      "street": "9200 US Highway 19 N",
+      "city": "Port Richey",
+      "state": "FL",
+      "postal_code": "34668"
+    },
+    {
+      "street": "6319 US Hwy 19",
+      "city": "New Port Richey",
+      "state": "FL",
+      "postal_code": "34652"
+    },
+    {
+      "street": "12001 Decubellis Road",
+      "city": "New Port Richey",
+      "state": "FL",
+      "postal_code": "34654"
+    },
+    {
+      "street": "3444 US Hwy 19",
+      "city": "Holiday",
+      "state": "FL",
+      "postal_code": "34691"
+    },
+    {
+      "street": "3063 Disciple Lane",
+      "city": "New Port richey",
+      "state": "FL",
+      "postal_code": "34655"
+    },
+    {
+      "street": "11902 State Road 54",
+      "city": "Odessa",
+      "state": "FL",
+      "postal_code": "33556"
+    },
+    {
+      "street": "40565 US Highway 19 N",
+      "city": "Tarpon Springs",
+      "state": "FL",
+      "postal_code": "34689"
+    },
+    {
+      "street": "17376 State Rd 54",
+      "city": "Lutz",
+      "state": "FL",
+      "postal_code": "33558"
+    },
+    {
+      "street": "3911 Van Dyke Road",
+      "city": "LUTZ",
+      "state": "FL",
+      "postal_code": "33558"
+    },
+    {
+      "street": "32375 US Hwy 19 N",
+      "city": "PALM HARBOR",
+      "state": "FL",
+      "postal_code": "34684"
+    },
+    {
+      "street": "5775 Gunn Highway",
+      "city": "TAMPA",
+      "state": "FL",
+      "postal_code": "33625"
+    },
+    {
+      "street": "14999 N Florida Ave",
+      "city": "TAMPA",
+      "state": "FL",
+      "postal_code": "33613"
+    },
+    {
+      "street": "23904 Us Highway 19 N",
+      "city": "Clearwater",
+      "state": "FL",
+      "postal_code": "33765"
+    },
+    {
+      "street": "2902 East Fletcher Avenue",
+      "city": "TAMPA",
+      "state": "FL",
+      "postal_code": "33612"
+    },
+    {
+      "street": "901 E Fowler Ave",
+      "city": "TAMPA",
+      "state": "FL",
+      "postal_code": "33612"
+    },
+    {
+      "street": "8406 N Dale Mabry Hwy",
+      "city": "TAMPA",
+      "state": "FL",
+      "postal_code": "33614"
+    },
+    {
+      "street": "5405 Sheldon Road",
+      "city": "TAMPA",
+      "state": "FL",
+      "postal_code": "33615"
+    },
+    {
+      "street": "1888 Gulf To Bay Blvd",
+      "city": "CLEARWATER",
+      "state": "FL",
+      "postal_code": "33765"
+    },
+    {
+      "street": "9211 N Florida Ave",
+      "city": "TAMPA",
+      "state": "FL",
+      "postal_code": "33612"
+    },
+    {
+      "street": "5301 East Fowler Avenue",
+      "city": "TEMPLE TERRACE",
+      "state": "FL",
+      "postal_code": "33617"
+    },
+    {
+      "street": "2765 Gulf To Bay Blvd",
+      "city": "CLEARWATER",
+      "state": "FL",
+      "postal_code": "33759"
+    },
+    {
+      "street": "3009 East Busch Boulevard",
+      "city": "TAMPA",
+      "state": "FL",
+      "postal_code": "33612"
+    },
+    {
+      "street": "11460 HWY 301",
+      "city": "Thonotosassa",
+      "state": "FL",
+      "postal_code": "33592"
+    },
+    {
+      "street": "8755 N 56th St",
+      "city": "TEMPLE TERRACE",
+      "state": "FL",
+      "postal_code": "33617"
+    },
+    {
+      "street": "2506 W MLK Blvd",
+      "city": "TAMPA",
+      "state": "FL",
+      "postal_code": "33607"
+    },
+    {
+      "street": "2601 E Hillsborough Ave",
+      "city": "TAMPA",
+      "state": "FL",
+      "postal_code": "33610"
+    },
+    {
+      "street": "3575 East Bay Dr",
+      "city": "LARGO",
+      "state": "FL",
+      "postal_code": "33771"
+    },
+    {
+      "street": "2965 N Dale Mabry Hwy",
+      "city": "TAMPA",
+      "state": "FL",
+      "postal_code": "33607"
+    },
+    {
+      "street": "7450 E Hillsborough Ave",
+      "city": "Tampa",
+      "state": "FL",
+      "postal_code": "33610"
+    },
+    {
+      "street": "4565 W. Kennedy Blvd.",
+      "city": "TAMPA",
+      "state": "FL",
+      "postal_code": "33609"
+    },
+    {
+      "street": "13238 66th St",
+      "city": "LARGO",
+      "state": "FL",
+      "postal_code": "33773"
+    },
+    {
+      "street": "2302 N 21st St",
+      "city": "TAMPA",
+      "state": "FL",
+      "postal_code": "33605"
+    },
+    {
+      "street": "801 E Scott St",
+      "city": "Tampa",
+      "state": "FL",
+      "postal_code": "33602"
+    },
+    {
+      "street": "611 S Dale Mabry Hwy",
+      "city": "TAMPA",
+      "state": "FL",
+      "postal_code": "33609"
+    },
+    {
+      "street": "3770 Ulmerton Road",
+      "city": "CLEARWATER",
+      "state": "FL",
+      "postal_code": "33762"
+    },
+    {
+      "street": "2513 North 50 Street",
+      "city": "Tampa",
+      "state": "FL",
+      "postal_code": "33619"
+    },
+    {
+      "street": "4649 Mcintosh Road",
+      "city": "DOVER",
+      "state": "FL",
+      "postal_code": "33527"
+    },
+    {
+      "street": "4010 Lakewood Dr",
+      "city": "Seffner",
+      "state": "FL",
+      "postal_code": "33584"
+    },
+    {
+      "street": "4403 West Gandy Blvd",
+      "city": "TAMPA",
+      "state": "FL",
+      "postal_code": "33611"
+    },
+    {
+      "street": "7371 Seminole Blvd",
+      "city": "SEMINOLE",
+      "state": "FL",
+      "postal_code": "33772"
+    },
+    {
+      "street": "9925 Adamo Drive",
+      "city": "Tampa",
+      "state": "FL",
+      "postal_code": "33619"
+    },
+    {
+      "street": "205 Cypress Gardens Blvd SE",
+      "city": "Winter Haven",
+      "state": "FL",
+      "postal_code": "33880"
+    },
+    {
+      "street": "100 E State Road 60",
+      "city": "Lake Wales",
+      "state": "FL",
+      "postal_code": "33853"
+    },
+    {
+      "street": "3015 U. S. Highway 98 South",
+      "city": "Lakeland",
+      "state": "FL",
+      "postal_code": "33805"
+    },
+    {
+      "street": "3590 Harden Boulevard",
+      "city": "LAKELAND",
+      "state": "FL",
+      "postal_code": "33803"
+    },
+    {
+      "street": "13555 U.S. Highway 1",
+      "city": "Sebastian",
+      "state": "FL",
+      "postal_code": "32958"
+    },
+    {
+      "street": "9100 FELLSMERE RD",
+      "city": "SEBASTIAN",
+      "state": "FL",
+      "postal_code": "32958"
+    },
+    {
+      "street": "5265 Us 1",
+      "city": "Vero Beach",
+      "state": "FL",
+      "postal_code": "32967"
+    },
+    {
+      "street": "5790 20th Street",
+      "city": "VERO BEACH",
+      "state": "FL",
+      "postal_code": "32966"
+    },
+    {
+      "street": "109 E Van Fleet Dr",
+      "city": "Bartow",
+      "state": "FL",
+      "postal_code": "33830"
+    },
+    {
+      "street": "1928 Us Highway 1",
+      "city": "VERO BEACH",
+      "state": "FL",
+      "postal_code": "32960"
+    },
+    {
+      "street": "7000 Shimmering Avenue",
+      "city": "Lakeland",
+      "state": "FL",
+      "postal_code": "33813"
+    },
+    {
+      "street": "2302 N Park Rd",
+      "city": "PLANT CITY",
+      "state": "FL",
+      "postal_code": "33563"
+    },
+    {
+      "street": "County Line and Pipkin Rd.",
+      "city": "Lakeland",
+      "state": "FL",
+      "postal_code": "33566"
+    },
+    {
+      "street": "2415 Thonotosassa Rd",
+      "city": "PLANT CITY",
+      "state": "FL",
+      "postal_code": "33563"
+    },
+    {
+      "street": "2002 James L Redman Pkwy",
+      "city": "Plant City",
+      "state": "FL",
+      "postal_code": "33563"
+    },
+    {
+      "street": "10 S Charleston Ave",
+      "city": "Fort Meade",
+      "state": "FL",
+      "postal_code": "33841"
+    },
+    {
+      "street": "460 U.S. Highw 27 South",
+      "city": "AVON PARK",
+      "state": "FL",
+      "postal_code": "33825"
+    },
+    {
+      "street": "2410 Okeechobee Road",
+      "city": "FORT PIERCE",
+      "state": "FL",
+      "postal_code": "34950"
+    },
+    {
+      "street": "2827 Peters Road",
+      "city": "FORT PIERCE",
+      "state": "FL",
+      "postal_code": "34945"
+    },
+    {
+      "street": "1545 N.W. St. Lucie Boulevard",
+      "city": "PORT ST LUCIE",
+      "state": "FL",
+      "postal_code": "34986"
+    },
+    {
+      "street": "9018 South Federal Highway",
+      "city": "PORT ST LUCIE",
+      "state": "FL",
+      "postal_code": "34952"
+    },
+    {
+      "street": "11295 SW Village Parkway",
+      "city": "Port St. Lucie",
+      "state": "FL",
+      "postal_code": "34987"
+    },
+    {
+      "street": "214 Port St. Lucie Blvd",
+      "city": "Port St. Lucie",
+      "state": "FL",
+      "postal_code": "34984"
+    },
+    {
+      "street": "2880 SW Port St. Lucie Blvd",
+      "city": "PORT ST LUCIE",
+      "state": "FL",
+      "postal_code": "34953"
+    },
+    {
+      "street": "604 N. E. Park Street",
+      "city": "OKEECHOBEE",
+      "state": "FL",
+      "postal_code": "34972"
+    },
+    {
+      "street": "10855 S Us Highway 1",
+      "city": "PORT SAINT LUCIE",
+      "state": "FL",
+      "postal_code": "34952"
+    },
+    {
+      "street": "3130 US 27 S",
+      "city": "SEBRING",
+      "state": "FL",
+      "postal_code": "33870"
+    },
+    {
+      "street": "3991 SE Federal Hwy",
+      "city": "Stuart",
+      "state": "FL",
+      "postal_code": "34997"
+    },
+    {
+      "street": "2205 US-27 North",
+      "city": "SEBRING",
+      "state": "FL",
+      "postal_code": "33870"
+    },
+    {
+      "street": "488 US Hwy 27 N",
+      "city": "Lake Placid",
+      "state": "FL",
+      "postal_code": "33852"
+    },
+    {
+      "street": "15608 Sw Warfield Blvd",
+      "city": "INDIANTOWN",
+      "state": "FL",
+      "postal_code": "34956"
+    },
+    {
+      "street": "415 South 6th Ave",
+      "city": "WAUCHULA",
+      "state": "FL",
+      "postal_code": "33873"
+    },
+    {
+      "street": "454 Indian Town Road",
+      "city": "JUPITER",
+      "state": "FL",
+      "postal_code": "33458"
+    },
+    {
+      "street": "7080 SEMINOLE PRATT WHITNEY RD",
+      "city": "LOXAHATCHEE",
+      "state": "FL",
+      "postal_code": "33470"
+    },
+    {
+      "street": "1014 West Sugarland Highway",
+      "city": "CLEWISTON",
+      "state": "FL",
+      "postal_code": "33440"
+    },
+    {
+      "street": "4138 Blue Heron Boulevard",
+      "city": "RIVIERA BEACH",
+      "state": "FL",
+      "postal_code": "33404"
+    },
+    {
+      "street": "800 S Main St",
+      "city": "Belle Glade",
+      "state": "FL",
+      "postal_code": "33430"
+    },
+    {
+      "street": "5501 Corporate Way",
+      "city": "WEST PALM BEACH",
+      "state": "FL",
+      "postal_code": "33407"
+    },
+    {
+      "street": "1103 Royal Palm Beach Blvd",
+      "city": "ROYAL PALM BEACH",
+      "state": "FL",
+      "postal_code": "33411"
+    },
+    {
+      "street": "11959 Southern Blvd",
+      "city": "ROYAL PALM BEACH",
+      "state": "FL",
+      "postal_code": "33411"
+    },
+    {
+      "street": "6903 Okeechobee Boulevard",
+      "city": "WEST PALM BEACH",
+      "state": "FL",
+      "postal_code": "33411"
+    },
+    {
+      "street": "2949 North Military Trail",
+      "city": "WEST PALM BEACH",
+      "state": "FL",
+      "postal_code": "33409"
+    },
+    {
+      "street": "4175 Okeechobee Boulevard",
+      "city": "WEST PALM BEACH",
+      "state": "FL",
+      "postal_code": "33409"
+    },
+    {
+      "street": "8133 Southern Blvd",
+      "city": "West Palm Beach",
+      "state": "FL",
+      "postal_code": "33411"
+    },
+    {
+      "street": "1721 Belvedere Road",
+      "city": "WEST PALM BEACH",
+      "state": "FL",
+      "postal_code": "33406"
+    },
+    {
+      "street": "815 South Congress Avenue",
+      "city": "WEST PALM BEACH",
+      "state": "FL",
+      "postal_code": "33406"
+    },
+    {
+      "street": "1760 S. Military Trail",
+      "city": "WEST PALM BEACH",
+      "state": "FL",
+      "postal_code": "33415"
+    },
+    {
+      "street": "Florida Turnpike - Mile Post 94",
+      "city": "WEST PALM BEACH",
+      "state": "FL",
+      "postal_code": "33413"
+    },
+    {
+      "street": "3900 State Road 7",
+      "city": "LAKE WORTH",
+      "state": "FL",
+      "postal_code": "33449"
+    },
+    {
+      "street": "6495 Lake Worth",
+      "city": "GREENACRES",
+      "state": "FL",
+      "postal_code": "33463"
+    },
+    {
+      "street": "3796 Congress Ave. South",
+      "city": "LAKE WORTH",
+      "state": "FL",
+      "postal_code": "33461"
+    },
+    {
+      "street": "231 North Dixie Highway",
+      "city": "LAKE WORTH",
+      "state": "FL",
+      "postal_code": "33460"
+    },
+    {
+      "street": "6405 Lantana Road",
+      "city": "LAKE WORTH",
+      "state": "FL",
+      "postal_code": "33463"
+    },
+    {
+      "street": "6080 Congress Avenue",
+      "city": "LANTANA",
+      "state": "FL",
+      "postal_code": "33462"
+    },
+    {
+      "street": "1016 East Oak St",
+      "city": "ARCADIA",
+      "state": "FL",
+      "postal_code": "34266"
+    },
+    {
+      "street": "61 S Hall St",
+      "city": "LABELLE",
+      "state": "FL",
+      "postal_code": "33935"
+    },
+    {
+      "street": "1001 S Dixie Hwy",
+      "city": "LANTANA",
+      "state": "FL",
+      "postal_code": "33462"
+    },
+    {
+      "street": "1521 W. Boynton Beach Blvd",
+      "city": "BOYNTON BEACH",
+      "state": "FL",
+      "postal_code": "33436"
+    },
+    {
+      "street": "1490 S. W. 8th Street",
+      "city": "BOYNTON BEACH",
+      "state": "FL",
+      "postal_code": "33426"
+    },
+    {
+      "street": "5080 West Atlantic Avenue",
+      "city": "DELRAY BEACH",
+      "state": "FL",
+      "postal_code": "33484"
+    },
+    {
+      "street": "8175 Glades Road",
+      "city": "BOCA RATON",
+      "state": "FL",
+      "postal_code": "33434"
+    },
+    {
+      "street": "21669 State Road 7",
+      "city": "BOCA RATON",
+      "state": "FL",
+      "postal_code": "33428"
+    },
+    {
+      "street": "175 North Federal Highway",
+      "city": "BOCA RATON",
+      "state": "FL",
+      "postal_code": "33432"
+    },
+    {
+      "street": "4499 W. Hillsboro Blvd",
+      "city": "COCONUT CREEK",
+      "state": "FL",
+      "postal_code": "33073"
+    },
+    {
+      "street": "15320 N. W. 79th Court",
+      "city": "MIAMI LAKES",
+      "state": "FL",
+      "postal_code": "33016"
+    },
+    {
+      "street": "2210 West 68th Street",
+      "city": "HIALEAH",
+      "state": "FL",
+      "postal_code": "33016"
+    },
+    {
+      "street": "16700 N. W. 67th Avenue",
+      "city": "MIAMI LAKES",
+      "state": "FL",
+      "postal_code": "33015"
+    },
+    {
+      "street": "18730 Nw 67th Avenue",
+      "city": "MIAMI",
+      "state": "FL",
+      "postal_code": "33015"
+    },
+    {
+      "street": "410 West 84th Street",
+      "city": "HIALEAH",
+      "state": "FL",
+      "postal_code": "33014"
+    },
+    {
+      "street": "5711 NW  176th Street",
+      "city": "HIALEAH",
+      "state": "FL",
+      "postal_code": "33015"
+    },
+    {
+      "street": "17067 Pines Boulevard",
+      "city": "PEMBROKE PINES",
+      "state": "FL",
+      "postal_code": "33027"
+    },
+    {
+      "street": "7195 Nw 74th Street",
+      "city": "MEDLEY",
+      "state": "FL",
+      "postal_code": "33166"
+    },
+    {
+      "street": "11400 NW 41st Street",
+      "city": "Doral",
+      "state": "FL",
+      "postal_code": "33178"
+    },
+    {
+      "street": "4727 N. W. 167th Street",
+      "city": "CAROL CITY",
+      "state": "FL",
+      "postal_code": "33055"
+    },
+    {
+      "street": "11401 NW 12th St, FC109",
+      "city": "Miami",
+      "state": "FL",
+      "postal_code": "33172"
+    },
+    {
+      "street": "3600 Northwest 199th Street",
+      "city": "Miami Gardens",
+      "state": "FL",
+      "postal_code": "33056"
+    },
+    {
+      "street": "11298 Pines Boulevard",
+      "city": "PEMBROKE PINES",
+      "state": "FL",
+      "postal_code": "33026"
+    },
+    {
+      "street": "13705 N. W. 27th Avenue",
+      "city": "OPA LOCKA",
+      "state": "FL",
+      "postal_code": "33054"
+    },
+    {
+      "street": "17951 N. W. 27th Avenue",
+      "city": "CAROL CITY",
+      "state": "FL",
+      "postal_code": "33056"
+    },
+    {
+      "street": "3700 Curtiss Parkway",
+      "city": "VIRGINIA GARDENS",
+      "state": "FL",
+      "postal_code": "33166"
+    },
+    {
+      "street": "775 East 9th Street",
+      "city": "HIALEAH",
+      "state": "FL",
+      "postal_code": "33010"
+    },
+    {
+      "street": "2100 NW 42nd Ave",
+      "city": "Miami",
+      "state": "FL",
+      "postal_code": "33142"
+    },
+    {
+      "street": "7975 N. W. 27th Avenue",
+      "city": "MIAMI",
+      "state": "FL",
+      "postal_code": "33147"
+    },
+    {
+      "street": "12500 S. W. 8th Street",
+      "city": "MIAMI",
+      "state": "FL",
+      "postal_code": "33184"
+    },
+    {
+      "street": "955 S. W. 107 Avenue",
+      "city": "MIAMI",
+      "state": "FL",
+      "postal_code": "33174"
+    },
+    {
+      "street": "7955 West Flagler Street",
+      "city": "MIAMI",
+      "state": "FL",
+      "postal_code": "33144"
+    },
+    {
+      "street": "14820 Griffin Road",
+      "city": "DAVIE",
+      "state": "FL",
+      "postal_code": "33331"
+    },
+    {
+      "street": "Concourse E Miami Int'l Airport",
+      "city": "MIAMI",
+      "state": "FL",
+      "postal_code": "33122"
+    },
+    {
+      "street": "5721 N. W. 7th Street",
+      "city": "MIAMI",
+      "state": "FL",
+      "postal_code": "33126"
+    },
+    {
+      "street": "12790 NW 7TH AVE",
+      "city": "NORTH MIAMI",
+      "state": "FL",
+      "postal_code": "33168"
+    },
+    {
+      "street": "7871 Pines Boulevard",
+      "city": "PEMBROKE PINES",
+      "state": "FL",
+      "postal_code": "33024"
+    },
+    {
+      "street": "4704 Flamingo Road South",
+      "city": "COOPER CITY",
+      "state": "FL",
+      "postal_code": "33330"
+    },
+    {
+      "street": "2275 S. W. 87th Avenue",
+      "city": "MIAMI",
+      "state": "FL",
+      "postal_code": "33165"
+    },
+    {
+      "street": "3601 N.W. 27th Avenue",
+      "city": "MIAMI",
+      "state": "FL",
+      "postal_code": "33142"
+    },
+    {
+      "street": "18750 NW 2nd Ave",
+      "city": "MIAMI",
+      "state": "FL",
+      "postal_code": "33169"
+    },
+    {
+      "street": "233 Northeast 167 Street",
+      "city": "NORTH MIAMI BCH",
+      "state": "FL",
+      "postal_code": "33162"
+    },
+    {
+      "street": "7390 S. W. 24th Street",
+      "city": "MIAMI",
+      "state": "FL",
+      "postal_code": "33155"
+    },
+    {
+      "street": "11595 S. W. 40th Street",
+      "city": "MIAMI",
+      "state": "FL",
+      "postal_code": "33165"
+    },
+    {
+      "street": "701 N. W. 37th Avenue",
+      "city": "MIAMI",
+      "state": "FL",
+      "postal_code": "33125"
+    },
+    {
+      "street": "9675 Bird Road",
+      "city": "Miami",
+      "state": "FL",
+      "postal_code": "33165"
+    },
+    {
+      "street": "4032 South West 137 Ave.",
+      "city": "MIAMI",
+      "state": "FL",
+      "postal_code": "33175"
+    },
+    {
+      "street": "2631 So. State Road 7",
+      "city": "HOLLYWOOD",
+      "state": "FL",
+      "postal_code": "33023"
+    },
+    {
+      "street": "5901 South University Drive",
+      "city": "DAVIE",
+      "state": "FL",
+      "postal_code": "33328"
+    },
+    {
+      "street": "900 Ives Dairy Road",
+      "city": "MIAMI",
+      "state": "FL",
+      "postal_code": "33179"
+    },
+    {
+      "street": "13575 West Dixie Highway",
+      "city": "NORTH MIAMI",
+      "state": "FL",
+      "postal_code": "33161"
+    },
+    {
+      "street": "7070 Bird Road",
+      "city": "MIAMI",
+      "state": "FL",
+      "postal_code": "33155"
+    },
+    {
+      "street": "9099 Biscayne Boulevard",
+      "city": "MIAMI SHORES",
+      "state": "FL",
+      "postal_code": "33138"
+    },
+    {
+      "street": "1309 N. W. 20th Street",
+      "city": "MIAMI",
+      "state": "FL",
+      "postal_code": "33142"
+    },
+    {
+      "street": "395 Alcazar Ave",
+      "city": "CORAL GABLES",
+      "state": "FL",
+      "postal_code": "33134"
+    },
+    {
+      "street": "13704 S.W. 56th Street",
+      "city": "MIAMI",
+      "state": "FL",
+      "postal_code": "33175"
+    },
+    {
+      "street": "2390 West Flagler Street",
+      "city": "MIAMI",
+      "state": "FL",
+      "postal_code": "33135"
+    },
+    {
+      "street": "12215 Biscayne Boulevard",
+      "city": "NORTH MIAMI",
+      "state": "FL",
+      "postal_code": "33181"
+    },
+    {
+      "street": "1910 N. E. 163rd Street",
+      "city": "MIAMI",
+      "state": "FL",
+      "postal_code": "33162"
+    },
+    {
+      "street": "3051 Coral Way",
+      "city": "MIAMI",
+      "state": "FL",
+      "postal_code": "33145"
+    },
+    {
+      "street": "10710 S.W. 72nd Street",
+      "city": "MIAMI",
+      "state": "FL",
+      "postal_code": "33173"
+    },
+    {
+      "street": "3 Weston Road",
+      "city": "SUNRISE",
+      "state": "FL",
+      "postal_code": "33326"
+    },
+    {
+      "street": "5051 Sheridan Street",
+      "city": "HOLLYWOOD",
+      "state": "FL",
+      "postal_code": "33021"
+    },
+    {
+      "street": "3951 S. W. 64th Avenue",
+      "city": "DAVIE",
+      "state": "FL",
+      "postal_code": "33314"
+    },
+    {
+      "street": "15170 SW 72 Street",
+      "city": "MIAMI",
+      "state": "FL",
+      "postal_code": "33193"
+    },
+    {
+      "street": "1255 Nob Hill Road",
+      "city": "DAVIE",
+      "state": "FL",
+      "postal_code": "33324"
+    },
+    {
+      "street": "1030 W. Hallandale Beach Blvd.",
+      "city": "HALLANDALE",
+      "state": "FL",
+      "postal_code": "33009"
+    },
+    {
+      "street": "2801 S. W. 27th Avenue",
+      "city": "MIAMI",
+      "state": "FL",
+      "postal_code": "33133"
+    },
+    {
+      "street": "5000 South State Road 7",
+      "city": "FORT LAUDERDALE",
+      "state": "FL",
+      "postal_code": "33314"
+    },
+    {
+      "street": "14095 N. Kendall Drive",
+      "city": "MIAMI",
+      "state": "FL",
+      "postal_code": "33186"
+    },
+    {
+      "street": "10 S. W. 8th Street",
+      "city": "MIAMI",
+      "state": "FL",
+      "postal_code": "33130"
+    },
+    {
+      "street": "16730 S.W. 88TH St.",
+      "city": "MIAMI",
+      "state": "FL",
+      "postal_code": "33196"
+    },
+    {
+      "street": "2315 Hollywood Boulevard",
+      "city": "HOLLYWOOD",
+      "state": "FL",
+      "postal_code": "33020"
+    },
+    {
+      "street": "9201 South Dixie Highway",
+      "city": "MIAMI",
+      "state": "FL",
+      "postal_code": "33156"
+    },
+    {
+      "street": "12801 West Sunrise Blvd - Unit 855",
+      "city": "SUNRISE",
+      "state": "FL",
+      "postal_code": "33323"
+    },
+    {
+      "street": "12801 West Sunrise Blvd - Unit 817",
+      "city": "SUNRISE",
+      "state": "FL",
+      "postal_code": "33323"
+    },
+    {
+      "street": "1855 N. W. 124 Avenue",
+      "city": "SUNRISE",
+      "state": "FL",
+      "postal_code": "33323"
+    },
+    {
+      "street": "18194 North Collins Avenue",
+      "city": "SUNNY ISLES",
+      "state": "FL",
+      "postal_code": "33160"
+    },
+    {
+      "street": "1800 Stirling Road",
+      "city": "DANIA",
+      "state": "FL",
+      "postal_code": "33004"
+    },
+    {
+      "street": "11200 S. W. 137th Avenue",
+      "city": "MIAMI",
+      "state": "FL",
+      "postal_code": "33186"
+    },
+    {
+      "street": "910 Arthur Godfrey Road",
+      "city": "MIAMI BEACH",
+      "state": "FL",
+      "postal_code": "33140"
+    },
+    {
+      "street": "945 South State Road 7",
+      "city": "Plantation",
+      "state": "FL",
+      "postal_code": "33317"
+    },
+    {
+      "street": "320 Terminal Drive",
+      "city": "Fort Lauderdale",
+      "state": "FL",
+      "postal_code": "33315"
+    },
+    {
+      "street": "1100 - 5th Street",
+      "city": "MIAMI BEACH",
+      "state": "FL",
+      "postal_code": "33139"
+    },
+    {
+      "street": "6125 West Sunrise Boulevard",
+      "city": "SUNRISE",
+      "state": "FL",
+      "postal_code": "33313"
+    },
+    {
+      "street": "1101 Washington Ave.",
+      "city": "MIAMI BEACH",
+      "state": "FL",
+      "postal_code": "33139"
+    },
+    {
+      "street": "13201 South Dixie Highway",
+      "city": "MIAMI",
+      "state": "FL",
+      "postal_code": "33156"
+    },
+    {
+      "street": "100 Terminal Dr.",
+      "city": "Fort Lauderdale",
+      "state": "FL",
+      "postal_code": "33315"
+    },
+    {
+      "street": "10000 W. Oakland Park Blvd.",
+      "city": "SUNRISE",
+      "state": "FL",
+      "postal_code": "33351"
+    },
+    {
+      "street": "3200 N. University Drive",
+      "city": "SUNRISE",
+      "state": "FL",
+      "postal_code": "33351"
+    },
+    {
+      "street": "11650 S. W. 152nd. Street",
+      "city": "MIAMI",
+      "state": "FL",
+      "postal_code": "33157"
+    },
+    {
+      "street": "16025 South Dixie Highway",
+      "city": "MIAMI",
+      "state": "FL",
+      "postal_code": "33157"
+    },
+    {
+      "street": "1701 South Federal Highway",
+      "city": "FORT LAUDERDALE",
+      "state": "FL",
+      "postal_code": "33316"
+    },
+    {
+      "street": "9420 W Commercial Blvd",
+      "city": "Sunrise",
+      "state": "FL",
+      "postal_code": "33351"
+    },
+    {
+      "street": "666 West Broward Boulevard",
+      "city": "FORT LAUDERDALE",
+      "state": "FL",
+      "postal_code": "33312"
+    },
+    {
+      "street": "4003 W Oakland Park Blvd",
+      "city": "LAUDERDALE LAKES",
+      "state": "FL",
+      "postal_code": "33313"
+    },
+    {
+      "street": "1445 West Sunrise Boulevard",
+      "city": "FORT LAUDERDALE",
+      "state": "FL",
+      "postal_code": "33311"
+    },
+    {
+      "street": "7299 West Commercial Blvd.",
+      "city": "TAMARAC",
+      "state": "FL",
+      "postal_code": "33319"
+    },
+    {
+      "street": "11400 Quail Roost Drive",
+      "city": "MIAMI",
+      "state": "FL",
+      "postal_code": "33157"
+    },
+    {
+      "street": "2201 W. Oakland Park Boulevard",
+      "city": "OAKLAND PARK",
+      "state": "FL",
+      "postal_code": "33311"
+    },
+    {
+      "street": "7860 W McNab Road",
+      "city": "North Lauderdale",
+      "state": "FL",
+      "postal_code": "33068"
+    },
+    {
+      "street": "1 N. W. Oakland Park Boulevard",
+      "city": "FORT LAUDERDALE",
+      "state": "FL",
+      "postal_code": "33311"
+    },
+    {
+      "street": "20505 Old Cutler Road",
+      "city": "MIAMI",
+      "state": "FL",
+      "postal_code": "33189"
+    },
+    {
+      "street": "21000 Allapattah Drive",
+      "city": "MIAMI",
+      "state": "FL",
+      "postal_code": "33189"
+    },
+    {
+      "street": "1267 South State Road 7",
+      "city": "N LAUDERDALE",
+      "state": "FL",
+      "postal_code": "33068"
+    },
+    {
+      "street": "1150 University Drive",
+      "city": "CORAL SPRINGS",
+      "state": "FL",
+      "postal_code": "33071"
+    },
+    {
+      "street": "6350 Northwest 9th Avenue",
+      "city": "FORT LAUDERDALE",
+      "state": "FL",
+      "postal_code": "33309"
+    },
+    {
+      "street": "550 North State Road 7",
+      "city": "MARGATE",
+      "state": "FL",
+      "postal_code": "33063"
+    },
+    {
+      "street": "10494 West Sample Road",
+      "city": "CORAL SPRINGS",
+      "state": "FL",
+      "postal_code": "33065"
+    },
+    {
+      "street": "5556 N Federal Hwy",
+      "city": "FORT LAUDERDALE",
+      "state": "FL",
+      "postal_code": "33308"
+    },
+    {
+      "street": "26801 South Dixie Highway",
+      "city": "NARANJA",
+      "state": "FL",
+      "postal_code": "33032"
+    },
+    {
+      "street": "28644 SW 137 Ave.",
+      "city": "HOMESTEAD",
+      "state": "FL",
+      "postal_code": "33033"
+    },
+    {
+      "street": "30390 South Dixie Highway",
+      "city": "HOMESTEAD",
+      "state": "FL",
+      "postal_code": "33033"
+    },
+    {
+      "street": "2350 West Atlantic Boulevard",
+      "city": "POMPANO BEACH",
+      "state": "FL",
+      "postal_code": "33069"
+    },
+    {
+      "street": "2990 N. State Rd 7",
+      "city": "Margate",
+      "state": "FL",
+      "postal_code": "33063"
+    },
+    {
+      "street": "2200 West Sample Road",
+      "city": "POMPANO BEACH",
+      "state": "FL",
+      "postal_code": "33073"
+    },
+    {
+      "street": "1303 South Military Trail",
+      "city": "DEERFIELD BEACH",
+      "state": "FL",
+      "postal_code": "33442"
+    },
+    {
+      "street": "99550 Overseas Hwy",
+      "city": "KEY LARGO",
+      "state": "FL",
+      "postal_code": "33037"
+    },
+    {
+      "street": "40 S. E. 1 Avenue",
+      "city": "FLORIDA CITY",
+      "state": "FL",
+      "postal_code": "33034"
+    },
+    {
+      "street": "6650 Collier Blvd",
+      "city": "NAPLES",
+      "state": "FL",
+      "postal_code": "34114"
+    },
+    {
+      "street": "12651 East Tamiami Trail",
+      "city": "NAPLES",
+      "state": "FL",
+      "postal_code": "34113"
+    },
+    {
+      "street": "1011 Airport Pulling Road",
+      "city": "NAPLES",
+      "state": "FL",
+      "postal_code": "34104"
+    },
+    {
+      "street": "5055 Golden Gate Road",
+      "city": "NAPLES",
+      "state": "FL",
+      "postal_code": "34116"
+    },
+    {
+      "street": "6565 Dudley Road",
+      "city": "NAPLES",
+      "state": "FL",
+      "postal_code": "34105"
+    },
+    {
+      "street": "2427 Tarpon Bay Blvd",
+      "city": "NAPLES",
+      "state": "FL",
+      "postal_code": "34119"
+    },
+    {
+      "street": "26799 Tamiami Trail",
+      "city": "BONITA SPRINGS",
+      "state": "FL",
+      "postal_code": "34134"
+    },
+    {
+      "street": "1260 North 15th Street",
+      "city": "IMMOKALEE",
+      "state": "FL",
+      "postal_code": "34142"
+    },
+    {
+      "street": "18801 S Tamiami Trl",
+      "city": "FORT MYERS",
+      "state": "FL",
+      "postal_code": "33908"
+    },
+    {
+      "street": "SW FL Regional Airport",
+      "city": "FORT MYERS",
+      "state": "FL",
+      "postal_code": "33913"
+    },
+    {
+      "street": "13350 South Cleveland Avenue",
+      "city": "FORT MYERS",
+      "state": "FL",
+      "postal_code": "33907"
+    },
+    {
+      "street": "9211 Daniels Parkway",
+      "city": "FORT MYERS",
+      "state": "FL",
+      "postal_code": "33912"
+    },
+    {
+      "street": "1704 Cape Coral Parkway",
+      "city": "Cape Coral",
+      "state": "FL",
+      "postal_code": "33914"
+    },
+    {
+      "street": "2621 Santa Barbara Blvd.",
+      "city": "Cape Coral",
+      "state": "FL",
+      "postal_code": "33914"
+    },
+    {
+      "street": "4004 Cleveland Ave",
+      "city": "FORT MYERS",
+      "state": "FL",
+      "postal_code": "33901"
+    },
+    {
+      "street": "4738 Colonial Blvd",
+      "city": "FORT MYERS",
+      "state": "FL",
+      "postal_code": "33966"
+    },
+    {
+      "street": "1160 Homestead Rd N",
+      "city": "LEHIGH ACRES",
+      "state": "FL",
+      "postal_code": "33936"
+    },
+    {
+      "street": "10997 Colonial Blvd",
+      "city": "Fort Myers",
+      "state": "FL",
+      "postal_code": "33913"
+    },
+    {
+      "street": "1013 Del Prado Blvd S",
+      "city": "CAPE CORAL",
+      "state": "FL",
+      "postal_code": "33990"
+    },
+    {
+      "street": "22 Pine Island Road NE",
+      "city": "CAPE CORAL",
+      "state": "FL",
+      "postal_code": "33909"
+    },
+    {
+      "street": "13721 N Cleveland Ave",
+      "city": "NORTH FORT MYERS",
+      "state": "FL",
+      "postal_code": "33903"
+    },
+    {
+      "street": "4060 Palm Beach Boulevard",
+      "city": "FORT MYERS",
+      "state": "FL",
+      "postal_code": "33916"
+    },
+    {
+      "street": "4011 Del Prado Blvd. N",
+      "city": "North Fort Myers",
+      "state": "FL",
+      "postal_code": "33917"
+    },
+    {
+      "street": "26500 Jones Loop Road",
+      "city": "PUNTA GORDA",
+      "state": "FL",
+      "postal_code": "33950"
+    },
+    {
+      "street": "910 Kings Highway",
+      "city": "PORT CHARLOTTE",
+      "state": "FL",
+      "postal_code": "33980"
+    },
+    {
+      "street": "19000 Murdock Cir",
+      "city": "PORT CHARLOTTE",
+      "state": "FL",
+      "postal_code": "33948"
+    },
+    {
+      "street": "1071 S TOLEDO BLADE BLVD",
+      "city": "NORTH PORT",
+      "state": "FL",
+      "postal_code": "34288"
+    },
+    {
+      "street": "14928 S. Tamiami Trail",
+      "city": "NORTH PORT",
+      "state": "FL",
+      "postal_code": "34287"
+    },
+    {
+      "street": "2961 S. McCall Road",
+      "city": "Englewood",
+      "state": "FL",
+      "postal_code": "34224"
+    },
+    {
+      "street": "171 South Indiana Avenue",
+      "city": "ENGLEWOOD",
+      "state": "FL",
+      "postal_code": "34223"
+    },
+    {
+      "street": "10395 Big Bend Road",
+      "city": "RIVERVIEW",
+      "state": "FL",
+      "postal_code": "33578"
+    },
+    {
+      "street": "3890 Sun City Center Boulevard",
+      "city": "RUSKIN",
+      "state": "FL",
+      "postal_code": "33573"
+    },
+    {
+      "street": "9660 Us 301 South",
+      "city": "Riverview",
+      "state": "FL",
+      "postal_code": "33578"
+    },
+    {
+      "street": "918 East Bloomingdale Avenue",
+      "city": "Brandon",
+      "state": "FL",
+      "postal_code": "33511"
+    },
+    {
+      "street": "5024 N Us Hwy 41",
+      "city": "Apollo Beach FL",
+      "state": "FL",
+      "postal_code": "33572"
+    },
+    {
+      "street": "2019 W Lumsden Rd",
+      "city": "Brandon",
+      "state": "FL",
+      "postal_code": "33511"
+    },
+    {
+      "street": "114 W Brandon Blvd",
+      "city": "BRANDON",
+      "state": "FL",
+      "postal_code": "33511"
+    },
+    {
+      "street": "2117 State Road 60 East",
+      "city": "VALRICO",
+      "state": "FL",
+      "postal_code": "33594"
+    },
+    {
+      "street": "6801 S DALE MABRY HWY",
+      "city": "TAMPA",
+      "state": "FL",
+      "postal_code": "33621"
+    },
+    {
+      "street": "8907 Us Highway 301 N",
+      "city": "PARRISH",
+      "state": "FL",
+      "postal_code": "34219"
+    },
+    {
+      "street": "3800 Fourth Street North",
+      "city": "ST PETERSBURG",
+      "state": "FL",
+      "postal_code": "33703"
+    },
+    {
+      "street": "6502 State Road 64",
+      "city": "BRADENTON",
+      "state": "FL",
+      "postal_code": "34208"
+    },
+    {
+      "street": "551 Tenth Street East",
+      "city": "PALMETTO",
+      "state": "FL",
+      "postal_code": "34221"
+    },
+    {
+      "street": "4570 34th St S",
+      "city": "ST PETERSBURG",
+      "state": "FL",
+      "postal_code": "33711"
+    },
+    {
+      "street": "3554 Central Ave",
+      "city": "ST PETERSBURG",
+      "state": "FL",
+      "postal_code": "33711"
+    },
+    {
+      "street": "3701 34th St N",
+      "city": "ST PETERSBURG",
+      "state": "FL",
+      "postal_code": "33713"
+    },
+    {
+      "street": "8502 State Road 70 East",
+      "city": "BRADENTON",
+      "state": "FL",
+      "postal_code": "34202"
+    },
+    {
+      "street": "5417 Lockwood Ridge Road",
+      "city": "Bradenton",
+      "state": "FL",
+      "postal_code": "34203"
+    },
+    {
+      "street": "3803 First Street",
+      "city": "BRADENTON",
+      "state": "FL",
+      "postal_code": "34208"
+    },
+    {
+      "street": "5214 15th Street, East",
+      "city": "BRADENTON",
+      "state": "FL",
+      "postal_code": "34203"
+    },
+    {
+      "street": "6760 22nd Ave N",
+      "city": "ST PETERSBURG",
+      "state": "FL",
+      "postal_code": "33710"
+    },
+    {
+      "street": "6590 Park Blvd",
+      "city": "PINELLAS PARK",
+      "state": "FL",
+      "postal_code": "33781"
+    },
+    {
+      "street": "5909 Manatee Avenue, West",
+      "city": "BRADENTON",
+      "state": "FL",
+      "postal_code": "34209"
+    },
+    {
+      "street": "3235 University Parkway",
+      "city": "SARASOTA",
+      "state": "FL",
+      "postal_code": "34243"
+    },
+    {
+      "street": "4346 Bee Ridge Road",
+      "city": "SARASOTA",
+      "state": "FL",
+      "postal_code": "34233"
+    },
+    {
+      "street": "5748 Clark Road",
+      "city": "SARASOTA",
+      "state": "FL",
+      "postal_code": "34233"
+    },
+    {
+      "street": "1270 N. Tamiami Trail",
+      "city": "Nokomis",
+      "state": "FL",
+      "postal_code": "34275"
+    }
+  ]
+}

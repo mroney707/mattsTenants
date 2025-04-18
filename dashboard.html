@@ -1,0 +1,807 @@
+
+        <!DOCTYPE html>
+        <html>
+        <head>
+            <title>Restaurant Closures Dashboard</title>
+            <style>
+                body { font-family: Arial, sans-serif; margin: 40px; }
+                .container { max-width: 1200px; margin: 0 auto; }
+                .header { background-color: #f8f9fa; padding: 20px; border-radius: 5px; margin-bottom: 20px; }
+                .restaurant-section { margin-bottom: 30px; }
+                .location-card { 
+                    background-color: #fff;
+                    border: 1px solid #ddd;
+                    padding: 15px;
+                    margin-bottom: 10px;
+                    border-radius: 5px;
+                }
+                .no-locations { color: #666; }
+            </style>
+        </head>
+        <body>
+            <div class="container">
+                <div class="header">
+                    <h1>Restaurant Closures Dashboard</h1>
+        <p>Last Updated: 2025-04-18</p></div>
+                    <div class="restaurant-section">
+                        <h2>Bk</h2>
+                
+                            <div class="location-card">
+                                <p>2430 Osborne Rd<br>
+                                St Marys, GA 31558</p>
+                            </div>
+                        
+                            <div class="location-card">
+                                <p>1162 Boone Avenue Exit E<br>
+                                KINGSLAND, GA 31548</p>
+                            </div>
+                        
+                            <div class="location-card">
+                                <p>4362 Second Street North<br>
+                                FOLKSTON, GA 31537</p>
+                            </div>
+                        
+                            <div class="location-card">
+                                <p>185 Dungeness Road<br>
+                                BRUNSWICK, GA 31523</p>
+                            </div>
+                        
+                            <div class="location-card">
+                                <p>115 Golden Isles Plaza<br>
+                                Brunswick GIP, GA 31520</p>
+                            </div>
+                        
+                            <div class="location-card">
+                                <p>5015 New Jesup Highway<br>
+                                BRUNSWICK, GA 31520</p>
+                            </div>
+                        
+                            <div class="location-card">
+                                <p>13200 W Cleveland St<br>
+                                Nahunta, GA 31553</p>
+                            </div>
+                        
+                            <div class="location-card">
+                                <p>13060 SR 251<br>
+                                Darien, GA 31305</p>
+                            </div>
+                        
+                            <div class="location-card">
+                                <p>1710 Memorial Drive<br>
+                                WAYCROSS, GA 31501</p>
+                            </div>
+                        
+                            <div class="location-card">
+                                <p>3527 Highway 84 West<br>
+                                BLACKSHEAR, GA 31516</p>
+                            </div>
+                        
+                            <div class="location-card">
+                                <p>998 Sunset Blvd<br>
+                                JESUP, GA 31545</p>
+                            </div>
+                        
+                            <div class="location-card">
+                                <p>13708 E Oglethorpe Hwy<br>
+                                Midway, GA 31320</p>
+                            </div>
+                        
+                            <div class="location-card">
+                                <p>815 Elma G Miles Parkway<br>
+                                HINESVILLE, GA 31313</p>
+                            </div>
+                        
+                            <div class="location-card">
+                                <p>976 WILLIAM H WILSON AVE STE 100<br>
+                                FORT STEWART, GA 31314</p>
+                            </div>
+                        
+                            <div class="location-card">
+                                <p>4660 HIghway 17<br>
+                                Richmond Hill, GA 31324</p>
+                            </div>
+                        
+                            <div class="location-card">
+                                <p>154 South Main Street<br>
+                                BAXLEY, GA 31513</p>
+                            </div>
+                        
+                            <div class="location-card">
+                                <p>11711 Abercorn St<br>
+                                SAVANNAH, GA 31419</p>
+                            </div>
+                        
+                            <div class="location-card">
+                                <p>5918 Ogeechee Rd<br>
+                                Savannah, GA 31419</p>
+                            </div>
+                        
+                            <div class="location-card">
+                                <p>14 W De Renne Ave<br>
+                                SAVANNAH, GA 31405</p>
+                            </div>
+                        
+                            <div class="location-card">
+                                <p>1340 South Peterson Avenue<br>
+                                DOUGLAS, GA 31533</p>
+                            </div>
+                        
+                            <div class="location-card">
+                                <p>811 North Madison Avenue<br>
+                                DOUGLAS, GA 31533</p>
+                            </div>
+                        
+                            <div class="location-card">
+                                <p>601 MLK BLVD<br>
+                                SAVANNAH, GA 31401</p>
+                            </div>
+                        
+                            <div class="location-card">
+                                <p>415 East Highway 80<br>
+                                POOLER, GA 31322</p>
+                            </div>
+                        
+                            <div class="location-card">
+                                <p>4241 AUGUSTA RD<br>
+                                GARDEN CITY, GA 31408</p>
+                            </div>
+                        
+                            <div class="location-card">
+                                <p>904 Moody Rd,<br>
+                                MOODY AFB, GA 31699</p>
+                            </div>
+                        
+                            <div class="location-card">
+                                <p>460 Airways Ave<br>
+                                SAVANNAH, GA 31408</p>
+                            </div>
+                        
+                            <div class="location-card">
+                                <p>1801 North Ashley Street<br>
+                                VALDOSTA, GA 31602</p>
+                            </div>
+                        
+                            <div class="location-card">
+                                <p>496 Jimmy DeLoach Pkwy<br>
+                                Savannah, GA 31407</p>
+                            </div>
+                        
+                            <div class="location-card">
+                                <p>99 S Tallahassee St<br>
+                                HAZLEHURST, GA 31539</p>
+                            </div>
+                        
+                            <div class="location-card">
+                                <p>2007 West Hill Avenue<br>
+                                VALDOSTA, GA 31601</p>
+                            </div>
+                        
+                            <div class="location-card">
+                                <p>1164 North St Augustine Road<br>
+                                VALDOSTA, GA 31601</p>
+                            </div>
+                        
+                            <div class="location-card">
+                                <p>4464 Shiloh Road<br>
+                                VALDOSTA, GA 31602</p>
+                            </div>
+                        
+                            <div class="location-card">
+                                <p>1201 West 4th. Street<br>
+                                ADEL, GA 31620</p>
+                            </div>
+                        
+                            <div class="location-card">
+                                <p>1304 West Screven Street<br>
+                                QUITMAN, GA 31643</p>
+                            </div>
+                        
+                            <div class="location-card">
+                                <p>2930 Pine Tree Blvd.<br>
+                                THOMASVILLE, GA 31792</p>
+                            </div>
+                        
+                            <div class="location-card">
+                                <p>540 Highway 84 East<br>
+                                CAIRO, GA 39828</p>
+                            </div>
+                        
+                            <div class="location-card">
+                                <p>1105 First Avenue S. E.<br>
+                                MOULTRIE, GA 31768</p>
+                            </div>
+                        
+                            <div class="location-card">
+                                <p>1504 U. S. Highway 82 West<br>
+                                TIFTON, GA 31793</p>
+                            </div>
+                        
+                            <div class="location-card">
+                                <p>1608 Tift Ave<br>
+                                TIFTON, GA 31794</p>
+                            </div>
+                        
+                            <div class="location-card">
+                                <p>60 Us Highway 19 N<br>
+                                CAMILLA, GA 31730</p>
+                            </div>
+                        
+                            <div class="location-card">
+                                <p>1230 Shotwell Street<br>
+                                BAINBRIDGE, GA 39819</p>
+                            </div>
+                        
+                            <div class="location-card">
+                                <p>508 East Franklin<br>
+                                SYLVESTER, GA 31791</p>
+                            </div>
+                        
+                            <div class="location-card">
+                                <p>278 Ocilla HWY<br>
+                                FITZGERALD, GA 31750</p>
+                            </div>
+                        
+                            <div class="location-card">
+                                <p>1501 Radium Springs Rd.<br>
+                                ALBANY, GA 31705</p>
+                            </div>
+                        
+                            <div class="location-card">
+                                <p>2015 E. Oglethorpe Boulevard<br>
+                                ALBANY, GA 31705</p>
+                            </div>
+                        
+                            <div class="location-card">
+                                <p>105 Whittle Cir<br>
+                                Ashburn, GA 31714</p>
+                            </div>
+                        
+                            <div class="location-card">
+                                <p>404 W. Oglethorpe Boulevard<br>
+                                ALBANY, GA 31701</p>
+                            </div>
+                        
+                            <div class="location-card">
+                                <p>802 South Slappey Boulevard<br>
+                                ALBANY, GA 31701</p>
+                            </div>
+                        
+                            <div class="location-card">
+                                <p>2805 North Slappey Boulevard<br>
+                                ALBANY, GA 31701</p>
+                            </div>
+                        
+                            <div class="location-card">
+                                <p>2411 Dawson Road<br>
+                                ALBANY, GA 31707</p>
+                            </div>
+                        
+                            <div class="location-card">
+                                <p>401 W. Crawford St<br>
+                                Colquitt, GA 39837</p>
+                            </div>
+                        
+                            <div class="location-card">
+                                <p>1109 16th Avenue East<br>
+                                CORDELE, GA 31015</p>
+                            </div>
+                        
+                            <div class="location-card">
+                                <p>303 S Morris Ave<br>
+                                Donalsonville, GA 39845</p>
+                            </div>
+                        
+                            <div class="location-card">
+                                <p>2303 East First Street<br>
+                                VIDALIA, GA 30474</p>
+                            </div>
+                        
+                            <div class="location-card">
+                                <p>7306 Hwy 21<br>
+                                Port Wentworth, GA 31407</p>
+                            </div>
+                        
+                            <div class="location-card">
+                                <p>2203 Ross Clark Cir<br>
+                                DOTHAN, AL 36301</p>
+                            </div>
+                        
+                            <div class="location-card">
+                                <p>3092 Ross Clark Cir<br>
+                                DOTHAN, AL 36301</p>
+                            </div>
+                        
+                            <div class="location-card">
+                                <p>16752 US Hwy 431 South<br>
+                                Headland, AL 36345</p>
+                            </div>
+                        
+                            <div class="location-card">
+                                <p>453 S NOVASEL ST<br>
+                                FORT RUCKER, AL 36362</p>
+                            </div>
+                        
+                            <div class="location-card">
+                                <p>123 Premier Dr<br>
+                                Geneva, AL 36340</p>
+                            </div>
+                        
+                            <div class="location-card">
+                                <p>701 Boll Weevil Cir<br>
+                                ENTERPRISE, AL 36330</p>
+                            </div>
+                        
+                            <div class="location-card">
+                                <p>813 S Eufaula Ave<br>
+                                Eufaula, AL 36027</p>
+                            </div>
+                        
+                            <div class="location-card">
+                                <p>922 East Lamar Street<br>
+                                AMERICUS, GA 31709</p>
+                            </div>
+                        
+                            <div class="location-card">
+                                <p>832 US 231 S<br>
+                                TROY, AL 36081</p>
+                            </div>
+                        
+                            <div class="location-card">
+                                <p>Building 107 Ingersoll Street Main Post<br>
+                                FORT BENNING, GA 31995</p>
+                            </div>
+                        
+                            <div class="location-card">
+                                <p>Ft. Benning Mall<br>
+                                FORT BENNING, GA 31905</p>
+                            </div>
+                        
+                            <div class="location-card">
+                                <p>927 Congo Lane Connector<br>
+                                Eastman, GA 31023</p>
+                            </div>
+                        
+                            <div class="location-card">
+                                <p>3715 Victory Drive<br>
+                                COLUMBUS, GA 31903</p>
+                            </div>
+                        
+                            <div class="location-card">
+                                <p>1137 W Bypass<br>
+                                ANDALUSIA, AL 36420</p>
+                            </div>
+                        
+                            <div class="location-card">
+                                <p>4126 Buena Vista Road<br>
+                                COLUMBUS, GA 31907</p>
+                            </div>
+                        
+                            <div class="location-card">
+                                <p>1000 St. Patrick's Drive<br>
+                                PERRY, GA 31069</p>
+                            </div>
+                        
+                            <div class="location-card">
+                                <p>302 Commercial Heights<br>
+                                FORT VALLEY, GA 31030</p>
+                            </div>
+                        
+                            <div class="location-card">
+                                <p>851 Warren Drive<br>
+                                WARNER ROBINS, GA 31088</p>
+                            </div>
+                        
+                            <div class="location-card">
+                                <p>1218 Veterans Parkway<br>
+                                COLUMBUS, GA 31901</p>
+                            </div>
+                        
+                            <div class="location-card">
+                                <p>3520 Macon Road<br>
+                                COLUMBUS, GA 31907</p>
+                            </div>
+                        
+                            <div class="location-card">
+                                <p>1135 280 Bypass<br>
+                                PHENIX CITY, AL 36867</p>
+                            </div>
+                        
+                            <div class="location-card">
+                                <p>1701 Douglas Ave<br>
+                                BREWTON, AL 36426</p>
+                            </div>
+                        
+                            <div class="location-card">
+                                <p>NE Corner Canal Road and Wharf Parkway East AL<br>
+                                Orange Beach, AL 36561</p>
+                            </div>
+                        
+                            <div class="location-card">
+                                <p>1820 Stadium Drive<br>
+                                PHENIX CITY, AL 36867</p>
+                            </div>
+                        
+                            <div class="location-card">
+                                <p>3103 Gentian Boulevard<br>
+                                COLUMBUS, GA 31907</p>
+                            </div>
+                        
+                            <div class="location-card">
+                                <p>4312 Veterans Parkway<br>
+                                COLUMBUS, GA 31904</p>
+                            </div>
+                        
+                            <div class="location-card">
+                                <p>5901 Miller Road<br>
+                                COLUMBUS, GA 31907</p>
+                            </div>
+                        
+                            <div class="location-card">
+                                <p>2550 Airport Thruway<br>
+                                COLUMBUS, GA 31904</p>
+                            </div>
+                        
+                            <div class="location-card">
+                                <p>1514 Bradley Park Drive<br>
+                                Columbus, GA 31904</p>
+                            </div>
+                        
+                            <div class="location-card">
+                                <p>7310 Veterans Parkway<br>
+                                COLUMBUS, GA 31909</p>
+                            </div>
+                        
+                            <div class="location-card">
+                                <p>504 North Main St<br>
+                                TUSKEGEE, AL 36083</p>
+                            </div>
+                        
+                            <div class="location-card">
+                                <p>7174 State Highway 59<br>
+                                Gulf Shores, AL 36542</p>
+                            </div>
+                        
+                            <div class="location-card">
+                                <p>1501 Gulf Shores Pkwy<br>
+                                Gulf Shores, AL 36542</p>
+                            </div>
+                        
+                            <div class="location-card">
+                                <p>910 South McKenzie<br>
+                                Foley, AL 36535</p>
+                            </div>
+                        
+                            <div class="location-card">
+                                <p>220 South Main St<br>
+                                ATMORE, AL 36502</p>
+                            </div>
+                        
+                            <div class="location-card">
+                                <p>21890 Hwy. 59 South<br>
+                                Robertsdale, AL 36567</p>
+                            </div>
+                        
+                            <div class="location-card">
+                                <p>100 Interstate Dr<br>
+                                GREENVILLE, AL 36037</p>
+                            </div>
+                        
+                            <div class="location-card">
+                                <p>13051 N. Hickory St.<br>
+                                Loxley, AL 36551</p>
+                            </div>
+                        
+                            <div class="location-card">
+                                <p>29685 Hwy. 181<br>
+                                Daphne, AL 36526</p>
+                            </div>
+                        
+                            <div class="location-card">
+                                <p>19755 Greeno Rd.<br>
+                                Fairhope, AL 36532</p>
+                            </div>
+                        
+                            <div class="location-card">
+                                <p>700 McMeans Ave.<br>
+                                Bay Minette, AL 36507</p>
+                            </div>
+                        
+                            <div class="location-card">
+                                <p>29295 U.S. Hwy. 98<br>
+                                Daphne, AL 36526</p>
+                            </div>
+                        
+                            <div class="location-card">
+                                <p>659 Government St<br>
+                                Mobile, AL 36602</p>
+                            </div>
+                        
+                            <div class="location-card">
+                                <p>7581 Mobile Hwy<br>
+                                HOPE HULL, AL 36043</p>
+                            </div>
+                        
+                            <div class="location-card">
+                                <p>310 Hwy. 43 North<br>
+                                Saraland, AL 36571</p>
+                            </div>
+                        
+                            <div class="location-card">
+                                <p>3004 Airport Blvd.<br>
+                                Mobile, AL 36606</p>
+                            </div>
+                        
+                            <div class="location-card">
+                                <p>3200 Springhill Ave.<br>
+                                Mobile, AL 36607</p>
+                            </div>
+                        
+                            <div class="location-card">
+                                <p>3190 Taylor Rd<br>
+                                MONTGOMERY, AL 36116</p>
+                            </div>
+                        
+                            <div class="location-card">
+                                <p>10065 Chantilly Pkwy<br>
+                                MONTGOMERY, AL 36117</p>
+                            </div>
+                        
+                            <div class="location-card">
+                                <p>5525 Carmichael Rd<br>
+                                MONTGOMERY, AL 36117</p>
+                            </div>
+                        
+                            <div class="location-card">
+                                <p>6621 Atlanta Highway<br>
+                                MONTGOMERY, AL 36117</p>
+                            </div>
+                        
+                            <div class="location-card">
+                                <p>819 Ann St<br>
+                                MONTGOMERY, AL 36107</p>
+                            </div>
+                        
+                            <div class="location-card">
+                                <p>4010 Atlanta Hwy<br>
+                                MONTGOMERY, AL 36109</p>
+                            </div>
+                        
+                            <div class="location-card">
+                                <p>3949 Government Blvd.<br>
+                                Mobile, AL 36609</p>
+                            </div>
+                        
+                            <div class="location-card">
+                                <p>2924 St. Stephens Rd.<br>
+                                Prichard, AL 36612</p>
+                            </div>
+                        
+                            <div class="location-card">
+                                <p>3875 Airport Blvd.<br>
+                                Mobile, AL 36608</p>
+                            </div>
+                        
+                            <div class="location-card">
+                                <p>5380 Hwy. 90 West<br>
+                                Mobile, AL 36619</p>
+                            </div>
+                        
+                            <div class="location-card">
+                                <p>7050 Theodore Dawes Rd.<br>
+                                Theodore, AL 36582</p>
+                            </div>
+                        
+                            <div class="location-card">
+                                <p>6403 Cottage Hill Rd.<br>
+                                Mobile, AL 36695</p>
+                            </div>
+                        
+                            <div class="location-card">
+                                <p>7701 Airport Blvd.<br>
+                                Mobile, AL 36608</p>
+                            </div>
+                        
+                            <div class="location-card">
+                                <p>601 Madison Ave<br>
+                                MONTGOMERY, AL 36104</p>
+                            </div>
+                        
+                            <div class="location-card">
+                                <p>1740 South College Street<br>
+                                AUBURN, AL 36832</p>
+                            </div>
+                        
+                            <div class="location-card">
+                                <p>25 W. Selfridge St., Bldg. 1114<br>
+                                MAXWELL AFB, AL 36112</p>
+                            </div>
+                        
+                            <div class="location-card">
+                                <p>5179 Us Highway 231<br>
+                                WETUMPKA, AL 36092</p>
+                            </div>
+                        
+                            <div class="location-card">
+                                <p>1400 Columbus Parkway<br>
+                                OPELIKA, AL 36804</p>
+                            </div>
+                        
+                            <div class="location-card">
+                                <p>415 Second Avenue<br>
+                                OPELIKA, AL 36801</p>
+                            </div>
+                        
+                            <div class="location-card">
+                                <p>650 Malwest St<br>
+                                PRATTVILLE, AL 36066</p>
+                            </div>
+                        
+                            <div class="location-card">
+                                <p>198 South Jackson St.<br>
+                                Grove Hill, AL 36451</p>
+                            </div>
+                        
+                            <div class="location-card">
+                                <p>2500 College Ave<br>
+                                Jackson, AL 36545</p>
+                            </div>
+                        
+                            <div class="location-card">
+                                <p>34355 Hwy. 43<br>
+                                Thomasville, AL 36784</p>
+                            </div>
+                        
+                            <div class="location-card">
+                                <p>7775 Moffett Rd.<br>
+                                Mobile, AL 36618</p>
+                            </div>
+                        
+                            <div class="location-card">
+                                <p>6527 Highway 63<br>
+                                MOSS POINT, MS 39563</p>
+                            </div>
+                        
+                            <div class="location-card">
+                                <p>2523 Denny Avenue<br>
+                                PASCAGOULA, MS 39567</p>
+                            </div>
+                        
+                            <div class="location-card">
+                                <p>3001 U. S. Highway 90<br>
+                                GAUTIER, MS 39553</p>
+                            </div>
+                        
+                            <div class="location-card">
+                                <p>11292 Old 63 S<br>
+                                LUCEDALE, MS 39452</p>
+                            </div>
+                        
+                            <div class="location-card">
+                                <p>1005 Bienville Blvd<br>
+                                OCEAN SPRINGS, MS 39564</p>
+                            </div>
+                        
+                            <div class="location-card">
+                                <p>10591 Diberville Blvd<br>
+                                DIBERVILLE, MS 39540</p>
+                            </div>
+                        
+                            <div class="location-card">
+                                <p>1641 Pass Road<br>
+                                BILOXI, MS 39531</p>
+                            </div>
+                        
+                            <div class="location-card">
+                                <p>2395 Pass Road<br>
+                                BILOXI, MS 39531</p>
+                            </div>
+                        
+                            <div class="location-card">
+                                <p>9440 Highway 49 North<br>
+                                GULFPORT, MS 39503</p>
+                            </div>
+                        
+                            <div class="location-card">
+                                <p>2509 25th Avenue<br>
+                                GULFPORT, MS 39501</p>
+                            </div>
+                        
+                            <div class="location-card">
+                                <p>11433 Highway 49 North<br>
+                                GULFPORT, MS 39503</p>
+                            </div>
+                        
+                            <div class="location-card">
+                                <p>310 East Beach Blvd.<br>
+                                Longbeach, MS 39560</p>
+                            </div>
+                        
+                            <div class="location-card">
+                                <p>914 Mississippi Dr<br>
+                                Waynesboro, MS 39367</p>
+                            </div>
+                        
+                            <div class="location-card">
+                                <p>699 US Hwy. 90<br>
+                                Bay St. Louis, MS 39520</p>
+                            </div>
+                        
+                            <div class="location-card">
+                                <p>5400 West Aloha Blvd.<br>
+                                Diamondhead, MS 39525</p>
+                            </div>
+                        
+                            <div class="location-card">
+                                <p>312 Highland Ave<br>
+                                SELMA, AL 36701</p>
+                            </div>
+                        
+                            <div class="location-card">
+                                <p>806 Broadway Drive<br>
+                                HATTIESBURG, MS 39401</p>
+                            </div>
+                        
+                            <div class="location-card">
+                                <p>6517 Highway 49 North<br>
+                                HATTIESBURG, MS 39401</p>
+                            </div>
+                        
+                            <div class="location-card">
+                                <p>105 Highway 26 West<br>
+                                POPLARVILLE, MS 39470</p>
+                            </div>
+                        
+                            <div class="location-card">
+                                <p>1000 Turtle Creek Dr. #5<br>
+                                HATTIESBURG, MS 39402</p>
+                            </div>
+                        
+                            <div class="location-card">
+                                <p>319 Beacon St.<br>
+                                Laurel, MS 39440</p>
+                            </div>
+                        
+                            <div class="location-card">
+                                <p>2130 Hwy. 15 North<br>
+                                Laurel, MS 39440</p>
+                            </div>
+                        
+                            <div class="location-card">
+                                <p>798 Memorial Blvd.<br>
+                                Picayune, MS 39466</p>
+                            </div>
+                        
+                            <div class="location-card">
+                                <p>120 Brownswitch Rd.<br>
+                                Slidell, LA 70458</p>
+                            </div>
+                        
+                            <div class="location-card">
+                                <p>1003 US Hwy 80 E<br>
+                                DEMOPOLIS, AL 36732</p>
+                            </div>
+                        
+                            <div class="location-card">
+                                <p>1829 Old Spanish Trail<br>
+                                Slidell, LA 70458</p>
+                            </div>
+                        
+                            <div class="location-card">
+                                <p>185 Gause Blvd.<br>
+                                Slidell, LA 70458</p>
+                            </div>
+                        
+                            <div class="location-card">
+                                <p>2100 North Frontage Rd.<br>
+                                Meridian, MS 39301</p>
+                            </div>
+                        
+                            <div class="location-card">
+                                <p>4825 8th St.<br>
+                                Meridian, MS 39307</p>
+                            </div>
+                        </div>
+            </div>
+        </body>
+        </html>
+        

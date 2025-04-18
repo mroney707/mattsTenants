@@ -1,0 +1,776 @@
+[
+  {
+    "street": "2499 N Federal Highway",
+    "city": "Boca Raton",
+    "state": "FL",
+    "postal_code": ""
+  },
+  {
+    "street": "489 FL-436",
+    "city": "Altamonte Springs",
+    "state": "FL",
+    "postal_code": ""
+  },
+  {
+    "street": "1652 NE Pine Island Rd",
+    "city": "Cape Coral",
+    "state": "FL",
+    "postal_code": ""
+  },
+  {
+    "street": "4713 Flamingo Road",
+    "city": "Cooper City",
+    "state": "FL",
+    "postal_code": ""
+  },
+  {
+    "street": "20403 Biscayne Blvd",
+    "city": "Aventura",
+    "state": "FL",
+    "postal_code": ""
+  },
+  {
+    "street": "828 Providence Rd",
+    "city": "Brandon",
+    "state": "FL",
+    "postal_code": ""
+  },
+  {
+    "street": "2390 S. University Drive",
+    "city": "Davie",
+    "state": "FL",
+    "postal_code": ""
+  },
+  {
+    "street": "5780 S. University Dr",
+    "city": "Davie",
+    "state": "FL",
+    "postal_code": ""
+  },
+  {
+    "street": "2298 Congress Avenue",
+    "city": "Boynton Beach",
+    "state": "FL",
+    "postal_code": ""
+  },
+  {
+    "street": "800 University Drive",
+    "city": "Coral Springs",
+    "state": "FL",
+    "postal_code": ""
+  },
+  {
+    "street": "5720 Wiles Road",
+    "city": "Coral Springs",
+    "state": "FL",
+    "postal_code": ""
+  },
+  {
+    "street": "5450 Univ Dr",
+    "city": "Coral Springs",
+    "state": "FL",
+    "postal_code": ""
+  },
+  {
+    "street": "1446 W. International Speedway Blvd.",
+    "city": "Daytona Beach",
+    "state": "FL",
+    "postal_code": ""
+  },
+  {
+    "street": "1051 S. Military Trail",
+    "city": "Deerfield Beach",
+    "state": "FL",
+    "postal_code": ""
+  },
+  {
+    "street": "950 Linton Blvd.",
+    "city": "Delray Beach",
+    "state": "FL",
+    "postal_code": ""
+  },
+  {
+    "street": "14683 S. Military Trail",
+    "city": "Delray Beach",
+    "state": "FL",
+    "postal_code": ""
+  },
+  {
+    "street": "404 SE 1st Avenue",
+    "city": "Florida City",
+    "state": "FL",
+    "postal_code": ""
+  },
+  {
+    "street": "601 W Hallandale Beach Blvd",
+    "city": "Hallandale Beach",
+    "state": "FL",
+    "postal_code": ""
+  },
+  {
+    "street": "6704 Fores Hill Blvd",
+    "city": "Greenacres",
+    "state": "FL",
+    "postal_code": ""
+  },
+  {
+    "street": "17804 Ben Hill Griffin Parkway",
+    "city": "Ft. Myers",
+    "state": "FL",
+    "postal_code": ""
+  },
+  {
+    "street": "12611 S. Cleveland Avenue",
+    "city": "Ft. Myers",
+    "state": "FL",
+    "postal_code": ""
+  },
+  {
+    "street": "8051 Dani Drive",
+    "city": "Ft. Myers",
+    "state": "FL",
+    "postal_code": ""
+  },
+  {
+    "street": "5549 Sheridan Street",
+    "city": "Hollywood",
+    "state": "FL",
+    "postal_code": ""
+  },
+  {
+    "street": "1780 Sheridan St",
+    "city": "Hollywood",
+    "state": "FL",
+    "postal_code": ""
+  },
+  {
+    "street": "311 S. State Road 7",
+    "city": "Hollywood",
+    "state": "FL",
+    "postal_code": ""
+  },
+  {
+    "street": "3051 W. Commercial Blvd.",
+    "city": "Fort Lauderdale",
+    "state": "FL",
+    "postal_code": ""
+  },
+  {
+    "street": "12961 W. Sunrise Blvd.",
+    "city": "Ft. Lauderdale",
+    "state": "FL",
+    "postal_code": ""
+  },
+  {
+    "street": "1819 S. Federal Hwy.",
+    "city": "Ft. Lauderdale",
+    "state": "FL",
+    "postal_code": ""
+  },
+  {
+    "street": "3051 W. Commercial Blvd.",
+    "city": "Ft. Lauderdale",
+    "state": "FL",
+    "postal_code": ""
+  },
+  {
+    "street": "5554 Federal Highway",
+    "city": "Ft. Lauderdale",
+    "state": "FL",
+    "postal_code": ""
+  },
+  {
+    "street": "2490 W. 60th Street",
+    "city": "Hialeah",
+    "state": "FL",
+    "postal_code": ""
+  },
+  {
+    "street": "1592 W. 49 Street",
+    "city": "Hialeah",
+    "state": "FL",
+    "postal_code": ""
+  },
+  {
+    "street": "7845 W. Hialeah Gardens Blvd.",
+    "city": "Hialeah",
+    "state": "FL",
+    "postal_code": ""
+  },
+  {
+    "street": "825 E. 49 Street",
+    "city": "Hialeah",
+    "state": "FL",
+    "postal_code": ""
+  },
+  {
+    "street": "7401 West 4 Avenue",
+    "city": "Hialeah",
+    "state": "FL",
+    "postal_code": ""
+  },
+  {
+    "street": "985 N. Homestead Blvd.",
+    "city": "Homestead",
+    "state": "FL",
+    "postal_code": ""
+  },
+  {
+    "street": "3094 NE 41st Place",
+    "city": "Homestead",
+    "state": "FL",
+    "postal_code": ""
+  },
+  {
+    "street": "23200 S.W. 112 Court",
+    "city": "Homestead",
+    "state": "FL",
+    "postal_code": ""
+  },
+  {
+    "street": "1550 Indian Town Rd.",
+    "city": "Jupiter",
+    "state": "FL",
+    "postal_code": ""
+  },
+  {
+    "street": "1454 Alton Road",
+    "city": "Miami Beach",
+    "state": "FL",
+    "postal_code": ""
+  },
+  {
+    "street": "3801 W. Vine Street",
+    "city": "Kissimmee",
+    "state": "FL",
+    "postal_code": ""
+  },
+  {
+    "street": "1985 East Osceola Parkway",
+    "city": "Kissimmee",
+    "state": "FL",
+    "postal_code": ""
+  },
+  {
+    "street": "7901 W. Irlo Bronson Memorial Hwy",
+    "city": "Kissimmee",
+    "state": "FL",
+    "postal_code": ""
+  },
+  {
+    "street": "775 Osceola Parkway",
+    "city": "Kissimmee",
+    "state": "FL",
+    "postal_code": ""
+  },
+  {
+    "street": "4331 Lake Worth Road",
+    "city": "Lake Worth",
+    "state": "FL",
+    "postal_code": ""
+  },
+  {
+    "street": "6195 South Jog Road",
+    "city": "Lake Worth",
+    "state": "FL",
+    "postal_code": ""
+  },
+  {
+    "street": "5757 W. Oakland Park Blvd.",
+    "city": "Laurdehill",
+    "state": "FL",
+    "postal_code": ""
+  },
+  {
+    "street": "19700 NW 27th Ave",
+    "city": "Miami Gardens",
+    "state": "FL",
+    "postal_code": ""
+  },
+  {
+    "street": "5425 W Atlantic Blvd",
+    "city": "Margate",
+    "state": "FL",
+    "postal_code": ""
+  },
+  {
+    "street": "16495 N. W. 67th Avenue",
+    "city": "Miami",
+    "state": "FL",
+    "postal_code": ""
+  },
+  {
+    "street": "8700 Bird Road",
+    "city": "Miami",
+    "state": "FL",
+    "postal_code": ""
+  },
+  {
+    "street": "11521 N. Kendall Drive",
+    "city": "Miami",
+    "state": "FL",
+    "postal_code": ""
+  },
+  {
+    "street": "9520 S. W. 137th Avenue",
+    "city": "Miami",
+    "state": "FL",
+    "postal_code": ""
+  },
+  {
+    "street": "2350 Douglas Road",
+    "city": "Miami",
+    "state": "FL",
+    "postal_code": ""
+  },
+  {
+    "street": "2710 S. Dixie Hwy",
+    "city": "Miami",
+    "state": "FL",
+    "postal_code": ""
+  },
+  {
+    "street": "581 N. W. 57th Avenue",
+    "city": "Miami",
+    "state": "FL",
+    "postal_code": ""
+  },
+  {
+    "street": "4211 N. W. 36th Street",
+    "city": "Miami",
+    "state": "FL",
+    "postal_code": ""
+  },
+  {
+    "street": "8975 S. Dixie Highway",
+    "city": "Miami",
+    "state": "FL",
+    "postal_code": ""
+  },
+  {
+    "street": "741 N. W. 37th Avenue",
+    "city": "Miami",
+    "state": "FL",
+    "postal_code": ""
+  },
+  {
+    "street": "13998 S. W. 56th Street",
+    "city": "Miami",
+    "state": "FL",
+    "postal_code": ""
+  },
+  {
+    "street": "1277 SW 8th Street",
+    "city": "Miami",
+    "state": "FL",
+    "postal_code": ""
+  },
+  {
+    "street": "14150 SW 8th St, Miami FL",
+    "city": "Miami",
+    "state": "FL",
+    "postal_code": ""
+  },
+  {
+    "street": "8200 NW 27th Avenue",
+    "city": "Miami",
+    "state": "FL",
+    "postal_code": ""
+  },
+  {
+    "street": "7501 Biscayne Boulevard",
+    "city": "Miami",
+    "state": "FL",
+    "postal_code": ""
+  },
+  {
+    "street": "11670 S. W. 152nd Street",
+    "city": "Miami",
+    "state": "FL",
+    "postal_code": ""
+  },
+  {
+    "street": "10575 N. W. 41 Street",
+    "city": "Miami",
+    "state": "FL",
+    "postal_code": ""
+  },
+  {
+    "street": "11875 S.W. 26 St",
+    "city": "Miami",
+    "state": "FL",
+    "postal_code": ""
+  },
+  {
+    "street": "7090 Coral Way",
+    "city": "Miami",
+    "state": "FL",
+    "postal_code": ""
+  },
+  {
+    "street": "3499 Biscayne Blvd.",
+    "city": "Miami",
+    "state": "FL",
+    "postal_code": ""
+  },
+  {
+    "street": "1555 N. W. 87 Avenue",
+    "city": "Miami",
+    "state": "FL",
+    "postal_code": ""
+  },
+  {
+    "street": "18390 SW 137th Ave",
+    "city": "Miami",
+    "state": "FL",
+    "postal_code": ""
+  },
+  {
+    "street": "16201 S.W. 88 Street",
+    "city": "Miami",
+    "state": "FL",
+    "postal_code": ""
+  },
+  {
+    "street": "7210 NW 36th Street",
+    "city": "Miami",
+    "state": "FL",
+    "postal_code": ""
+  },
+  {
+    "street": "10705 West Flagler Street",
+    "city": "Miami",
+    "state": "FL",
+    "postal_code": ""
+  },
+  {
+    "street": "18710 S. Dixie Highway",
+    "city": "Miami",
+    "state": "FL",
+    "postal_code": ""
+  },
+  {
+    "street": "3061 Northlake Blvd.",
+    "city": "Lake Park",
+    "state": "FL",
+    "postal_code": ""
+  },
+  {
+    "street": "16495 N. W. 67th Avenue",
+    "city": "Miami Lakes",
+    "state": "FL",
+    "postal_code": ""
+  },
+  {
+    "street": "4211 N. W. 36th Street",
+    "city": "Miami Springs",
+    "state": "FL",
+    "postal_code": ""
+  },
+  {
+    "street": "14880 S. W. 31 Street",
+    "city": "Miramar",
+    "state": "FL",
+    "postal_code": ""
+  },
+  {
+    "street": "16951 Miramar Pkwy",
+    "city": "Miramar",
+    "state": "FL",
+    "postal_code": ""
+  },
+  {
+    "street": "11806 Biscayne Blvd.",
+    "city": "N Miami",
+    "state": "FL",
+    "postal_code": ""
+  },
+  {
+    "street": "12000 NW 7th Ave.",
+    "city": "N Miami",
+    "state": "FL",
+    "postal_code": ""
+  },
+  {
+    "street": "1785 N. E. 163rd Street",
+    "city": "N. Miami Beach",
+    "state": "FL",
+    "postal_code": ""
+  },
+  {
+    "street": "2011 E. Oakland Park Blvd.",
+    "city": "Oakland Park",
+    "state": "FL",
+    "postal_code": ""
+  },
+  {
+    "street": "3224 East Colonial Dr",
+    "city": "Orlando",
+    "state": "FL",
+    "postal_code": ""
+  },
+  {
+    "street": "9993 Tagore Place",
+    "city": "Orlando",
+    "state": "FL",
+    "postal_code": ""
+  },
+  {
+    "street": "4085 Millenia Blvd.",
+    "city": "Orlando",
+    "state": "FL",
+    "postal_code": ""
+  },
+  {
+    "street": "7643 W. Colonial Drive",
+    "city": "Orlando",
+    "state": "FL",
+    "postal_code": ""
+  },
+  {
+    "street": "11860 E. Colonial Drive",
+    "city": "Orlando",
+    "state": "FL",
+    "postal_code": ""
+  },
+  {
+    "street": "8708 Vineland Avenue",
+    "city": "Orlando",
+    "state": "FL",
+    "postal_code": ""
+  },
+  {
+    "street": "6674 South Semoran Blvd",
+    "city": "Orlando",
+    "state": "FL",
+    "postal_code": ""
+  },
+  {
+    "street": "5294 North International Drive",
+    "city": "Orlando",
+    "state": "FL",
+    "postal_code": ""
+  },
+  {
+    "street": "1811 S. Semoran Blvd.",
+    "city": "Orlando",
+    "state": "FL",
+    "postal_code": ""
+  },
+  {
+    "street": "8301 Red Bud Lake Rd",
+    "city": "Oviedo",
+    "state": "FL",
+    "postal_code": ""
+  },
+  {
+    "street": "8096 West McNab Rd",
+    "city": "N Lauderdale",
+    "state": "FL",
+    "postal_code": ""
+  },
+  {
+    "street": "5065 Golden Gate Parkway",
+    "city": "Naples",
+    "state": "FL",
+    "postal_code": ""
+  },
+  {
+    "street": "3777 East Tamiami Trail",
+    "city": "Naples",
+    "state": "FL",
+    "postal_code": ""
+  },
+  {
+    "street": "11806 Biscayne Blvd.",
+    "city": "North Miami",
+    "state": "FL",
+    "postal_code": ""
+  },
+  {
+    "street": "19911 N. W. 2nd Avenue SR7",
+    "city": "North Miami",
+    "state": "FL",
+    "postal_code": ""
+  },
+  {
+    "street": "8299 Pines Blvd.",
+    "city": "Pembroke Pines",
+    "state": "FL",
+    "postal_code": ""
+  },
+  {
+    "street": "11429 Pines Blvd",
+    "city": "Pembroke Pines",
+    "state": "FL",
+    "postal_code": ""
+  },
+  {
+    "street": "8299 Pines Blvd.",
+    "city": "Pembrook Pines",
+    "state": "FL",
+    "postal_code": ""
+  },
+  {
+    "street": "13425 S. Dixie Hwy",
+    "city": "Pinecrest",
+    "state": "FL",
+    "postal_code": ""
+  },
+  {
+    "street": "3900 Park Blvd",
+    "city": "Pinellas Park",
+    "state": "FL",
+    "postal_code": ""
+  },
+  {
+    "street": "300 North State Rd 7",
+    "city": "Plantation",
+    "state": "FL",
+    "postal_code": ""
+  },
+  {
+    "street": "50 N. University Drive",
+    "city": "Plantation",
+    "state": "FL",
+    "postal_code": ""
+  },
+  {
+    "street": "2450 W. Atlantic Blvd.",
+    "city": "Pompano Beach",
+    "state": "FL",
+    "postal_code": ""
+  },
+  {
+    "street": "2320 N Federal Highway",
+    "city": "Pompano Beach",
+    "state": "FL",
+    "postal_code": ""
+  },
+  {
+    "street": "1001 W. P. Ball Boulevard",
+    "city": "Sanford",
+    "state": "FL",
+    "postal_code": ""
+  },
+  {
+    "street": "107 North State Road 7",
+    "city": "Royal Palm Beach",
+    "state": "FL",
+    "postal_code": ""
+  },
+  {
+    "street": "17084 Collins Ave",
+    "city": "Sunny Isles Beach",
+    "state": "FL",
+    "postal_code": ""
+  },
+  {
+    "street": "1365 NW St. Lucie West Blvd",
+    "city": "Port Lucie West",
+    "state": "FL",
+    "postal_code": ""
+  },
+  {
+    "street": "2200 SE Federal Highway",
+    "city": "Stuart",
+    "state": "FL",
+    "postal_code": ""
+  },
+  {
+    "street": "3285 West Hillsborough Ave",
+    "city": "Tampa",
+    "state": "FL",
+    "postal_code": ""
+  },
+  {
+    "street": "6276 W Waters Ave",
+    "city": "Tampa",
+    "state": "FL",
+    "postal_code": ""
+  },
+  {
+    "street": "15298 N Dale Mabry Highway",
+    "city": "Tampa",
+    "state": "FL",
+    "postal_code": ""
+  },
+  {
+    "street": "5101 Fowler Avenue",
+    "city": "Tampa",
+    "state": "FL",
+    "postal_code": ""
+  },
+  {
+    "street": "25570 Sierra Center Boulevard",
+    "city": "Tampa",
+    "state": "FL",
+    "postal_code": ""
+  },
+  {
+    "street": "2675 N. University Drive",
+    "city": "Sunrise",
+    "state": "FL",
+    "postal_code": ""
+  },
+  {
+    "street": "8851 West Commercial Blvd",
+    "city": "Tamarac",
+    "state": "FL",
+    "postal_code": ""
+  },
+  {
+    "street": "5415 Fruitville Road",
+    "city": "Sarasota",
+    "state": "FL",
+    "postal_code": ""
+  },
+  {
+    "street": "2611 Okeechobee Blvd.",
+    "city": "W. Palm Beach",
+    "state": "FL",
+    "postal_code": ""
+  },
+  {
+    "street": "21852 S. State Road 7",
+    "city": "West Boca Raton",
+    "state": "FL",
+    "postal_code": ""
+  },
+  {
+    "street": "4335 Norfolk Parkway",
+    "city": "West Melbourne",
+    "state": "FL",
+    "postal_code": ""
+  },
+  {
+    "street": "3061 Northlake Blvd.",
+    "city": "West Palm Beach",
+    "state": "FL",
+    "postal_code": ""
+  },
+  {
+    "street": "7785 South Dixie Highway",
+    "city": "West Palm Beach",
+    "state": "FL",
+    "postal_code": ""
+  },
+  {
+    "street": "2611 Okeechobee Blvd.",
+    "city": "West Palm Beach",
+    "state": "FL",
+    "postal_code": ""
+  },
+  {
+    "street": "3085 45th Street",
+    "city": "West Palm Beach",
+    "state": "FL",
+    "postal_code": ""
+  },
+  {
+    "street": "2633 Weston Rd.",
+    "city": "Weston",
+    "state": "FL",
+    "postal_code": ""
+  }
+]
