@@ -1,12 +1,76 @@
 {
-  "date": "2025-04-18",
+  "date": "2026-04-13",
   "locations": {
-    "arbys": [
+    "popeyes": [
       {
-        "street": "123 Matt Hausman Dr",
-        "city": "Bartow",
+        "street": "1427 Washington Ave",
+        "city": "Miami Beach",
+        "state": "Florida",
+        "postal_code": "33139"
+      }
+    ],
+    "dennys": [
+      {
+        "street": "5825 International",
+        "city": "Orlando",
         "state": "FL",
-        "postal_code": "33830"
+        "postal_code": "32819"
+      },
+      {
+        "street": "7660 International Drive",
+        "city": "Orlando",
+        "state": "FL",
+        "postal_code": "32819"
+      },
+      {
+        "street": "5725 T G Lee Boulevard",
+        "city": "Orlando",
+        "state": "FL",
+        "postal_code": "32822"
+      },
+      {
+        "street": "11037 International Dr",
+        "city": "Orlando",
+        "state": "FL",
+        "postal_code": "32821"
+      },
+      {
+        "street": "12375 St Rd 535",
+        "city": "Orlando",
+        "state": "FL",
+        "postal_code": "32836"
+      },
+      {
+        "street": "9880 International",
+        "city": "Orlando",
+        "state": "FL",
+        "postal_code": "32819"
+      },
+      {
+        "street": "8747 International",
+        "city": "Orlando",
+        "state": "FL",
+        "postal_code": "32819"
+      },
+      {
+        "street": "8076 S. Orange Ave.",
+        "city": "Orlando",
+        "state": "FL",
+        "postal_code": "32809"
+      },
+      {
+        "street": "11915 E Colonial Dr",
+        "city": "Orlando",
+        "state": "FL",
+        "postal_code": "32825"
+      }
+    ],
+    "bk": [
+      {
+        "street": "17951 N. W. 27th Avenue",
+        "city": "CAROL CITY",
+        "state": "FL",
+        "postal_code": "33056"
       }
     ]
   }

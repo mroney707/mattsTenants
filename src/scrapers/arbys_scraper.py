@@ -18,7 +18,8 @@ class ArbysScraper(RestaurantScraper):
         super().__init__()
         chrome_options = Options()
         chrome_options.add_argument('--no-sandbox')
-        chrome_options.add_argument('--headless')
+        chrome_options.add_argument("--start-maximized")
+        # chrome_options.add_argument('--headless')
         chrome_options.add_argument('--disable-dev-shm-usage')
         self.driver = webdriver.Chrome(options=chrome_options)
 
@@ -29,16 +30,18 @@ class ArbysScraper(RestaurantScraper):
     def get_location_details(self, url):
         try:
             self.driver.get(url)
-            time.sleep(2)
             # Wait for location tiles to load
-            WebDriverWait(self.driver, 10).until(
-                EC.presence_of_element_located((By.CLASS_NAME, 'cityLocationTile_leftColumn__MNTz5'))
-            )
-            
+            # WebDriverWait(self.driver, 10).until(
+            #     EC.presence_of_element_located((By.CLASS_NAME, 'cityLocationTile_leftColumn__MNTz5'))
+            # )
+
             locations = []
             location_tiles = self.driver.find_elements(By.CLASS_NAME, 'cityLocationTile_leftColumn__MNTz5')
-            
+            print(f'found location tiles{len(location_tiles)}')
+
+            counter = 1
             for tile in location_tiles:
+                print(counter)
                 address_link = tile.find_element(By.CLASS_NAME, 'cityLocationTile_addressLink__2OikU')
                 address_text = address_link.text.strip()
                 address_lines = address_text.split('\n')
@@ -66,6 +69,8 @@ class ArbysScraper(RestaurantScraper):
                             'state': state,
                             'postal_code': postal_code
                         })
+
+                counter += 1
             
             print(f"Processed {url} - Found {len(locations)} locations")
             return locations
@@ -80,18 +85,30 @@ class ArbysScraper(RestaurantScraper):
         try:
             self.driver.get(base_url)
             # Wait for cities container to load
-            WebDriverWait(self.driver, 10).until(
-                EC.presence_of_element_located((By.CLASS_NAME, 'stateLocationsTile_citesContainer__aZiEj'))
-            )
+            # WebDriverWait(self.driver, 10).until(
+            #     EC.presence_of_element_located((By.CLASS_NAME, 'stateLocationsTile_citesContainer__aZiEj'))
+            # )
+
+            time.sleep(5)
+            cookies_button = self.driver.find_element(By.ID, 'ketch-banner-button-primary')
+            cookies_button.click()
+            time.sleep(5)
             
             city_links = self.driver.find_elements(
                 By.CSS_SELECTOR, 
-                '.cityLocationsContainer_link__vqyGx'
+                '.cityLocationsContainer_wrapper__F1UnL'
             )
-            
+
+            city_links_a = []
+
+            for city_link in city_links:
+                city_a_items = city_link.find_elements(By.TAG_NAME, 'a')
+                city_a = city_a_items[0]
+                city_links_a.append(city_a)
+
             urls_to_process = [
                 link.get_attribute('href')
-                for link in city_links
+                for link in city_links_a
             ]
             
             all_locations = []

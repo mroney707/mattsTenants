@@ -2,6 +2,7 @@ import json
 from typing import Dict, List
 from src.scrapers.base_scraper import RestaurantScraper
 from src.location_tracker import LocationTracker
+from src.scrapers.popeyes_scraper import PopeyesScraper
 from src.scrapers.wendys_scraper import WendysScraper
 from src.scrapers.dennys_scraper import DennysScraper
 from src.scrapers.arbys_scraper import ArbysScraper
@@ -12,6 +13,7 @@ from src.scrapers.bk_scraper import BKScraper
 class RestaurantScraperManager:
     def __init__(self):
         self.scrapers = [
+            PopeyesScraper(),
             WendysScraper(),
             DennysScraper(),
             ArbysScraper(),
@@ -94,9 +96,9 @@ class RestaurantScraperManager:
         from datetime import datetime
 
         # Email configuration
-        sender_email = "mjroney87@gmail.com"  # Replace with your Gmail
-        receiver_email = "mjroney87@gmail.com"  # Replace with recipient's email
-        password = "ndsr mxyz nmwq mjsk"  # Replace with Gmail App Password
+        sender_email = "mhausman97@gmail.com"  # Replace with your Gmail
+        receiver_email = "mhausman97@gmail.com"  # Replace with recipient's email
+        password = "ncyj qgrp cksz dlza"  # Replace with Gmail App Password
 
         # Create message
         message = MIMEMultipart()
